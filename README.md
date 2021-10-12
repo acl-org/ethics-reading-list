@@ -11,13 +11,9 @@ Contributed by (please add/update your name as part of your pull request).
 * Use APA style where possible.
 * Add minimally a `paper` link to direct readers directly to the `.pdf` or metadata page (arXiv or ACL Anthology) of the paper.
 
-## General Resources
-
-### [Monographs](#monographs)
+## [General Resources](#general_resources)
 
 * Monteiro, M. (2019). Ruined by design: How designers destroyed the world, and what we can do to fix it. Mule Design.
-
-### [Academic Papers](#academic_papers)
 
 * Hovy, D., & Spruit, S. L. (2016, August). The social impact of natural language processing. In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (pp. 591-598) doi:10.18653/v1/P16-2096. [[paper](https://www.aclweb.org/anthology/P16-2096)] 
 
@@ -37,7 +33,7 @@ Contributed by (please add/update your name as part of your pull request).
 * Lefeuvre-Halftermeyer, A., Govaere, V., Antoine, J. Y., Allegre, W., Pouplin, S., Departe, J. P., ... & Spagnulo, A. (2016). Typologie des risques pour une analyse éthique de l'impact des technologies du TAL. Traitement Automatique des Langues, 57(2), 47-71.
 [[paper](https://hal.archives-ouvertes.fr/hal-01501192)]
 
-### Evaluation
+### [Evaluation](#evaluation)
 * Nangia, N., Vania, C., Bhalerao, R., & Bowman, S. R. (2020). CrowS-pairs: A challenge dataset for measuring social biases in masked language models. arXiv preprint arXiv:2010.00133. doi:10.18653/v1/2020.emnlp-main.154 [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.154)]
 
 * Caliskan, A., Bryson, J. J., & Narayanan, A. (2017). Semantics derived automatically from language corpora contain human-like biases. Science, 356(6334), 183-186.
@@ -71,6 +67,31 @@ Contributed by (please add/update your name as part of your pull request).
 [[paper](https://www.aclweb.org/anthology/2020.acl-main.485)]
 
 * Mohammad, S. M. (2020). Gender gap in natural language processing research: Disparities in authorship and citations. arXiv preprint arXiv:2005.00962. doi:10.18653/v1/2020.acl-main.702 [[paper](https://www.aclweb.org/anthology/2020.acl-main.702)]
+
+
+---
+* Schluter, N. (2018). The glass ceiling in NLP. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (pp. 2793-2798). doi:10.18653/v1/D18-1301
+[[paper](https://www.aclweb.org/anthology/D18-1301)]
+
+* Fort, K., & Névéol, A. (2018, January). Présence et représentation des femmes dans le traitement automatique des langues en France. In Penser la Recherche en Informatique comme pouvant être Située, Multidisciplinaire Et Genrée (PRISME-G).
+[[paper](https://hal.archives-ouvertes.fr/hal-01683774)]
+
+* Nissim, M., van Noord, R., & van der Goot, R. (2020). Fair is better than sensational: Man is to doctor as woman is to doctor. Computational Linguistics, 46(2), 487-497. doi:10.1162/coli_a_00379 [[paper](https://www.aclweb.org/anthology/2020.cl-2.7)]
+
+### [Dual Use](#dual-use)
+* Bonastre, J. F. (2020). 1990-2020: retours sur 30 ans d’échanges autour de l’identification de voix en milieu judiciaire. In 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). 2e atelier Éthique et TRaitemeNt Automatique des Langues (ETeRNAL) (pp. 38-47). ATALA; AFCP.
+
+### [Environmental Impact](#environmental_impact)
+
+* Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J. (2020). Towards the systematic reporting of the energy and carbon footprints of machine learning. Journal of Machine Learning Research, 21(248), 1-43. [[paper](https://www.jmlr.org/papers/volume21/20-312/20-312.pdf)]
+
+* Lannelongue, L., Grealey, J., & Inouye, M. (2021). Green algorithms: Quantifying the carbon footprint of computation. Advanced Science, 2100707. doi:10.1002/advs.202100707
+[[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202100707)]
+
+* Anthony, L. F. W., Kanding, B., & Selvan, R. (2020). Carbontracker: Tracking and predicting the carbon footprint of training deep learning models. arXiv preprint arXiv:2007.03051. [[paper](https://arxiv.org/pdf/2007.03051)]
+
+* Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy considerations for deep learning in NLP. arXiv preprint arXiv:1906.02243. doi:10.18653/v1/P19-1355
+[[paper](https://www.aclweb.org/anthology/P19-1355)]
 
 [[paper]()]
 
