@@ -57,19 +57,20 @@ Contributed by (please add/update your name as part of your pull request).
 
 * Mathet, Y., & Widlöcher, A. (2016). Évaluation des annotations: ses principes et ses pièges. Traitement Automatique des Langues, 57(2), 73-98. [[paper](https://hal.archives-ouvertes.fr/hal-01712282)]
 
-[[paper]()]
 * Bregeon, D., Antoine, J. Y., Villaneau, J., & Lefeuvre-Halftermeyer, A. (2019). Redonner du sens à l’accord interannotateurs: vers une interprétation des mesures d’accord en termes de reproductibilité de l’annotation. Traitement Automatique des Langues, 60(2), 23.  [[paper](https://hal.archives-ouvertes.fr/hal-02375240)]
 
 * Garnerin, M., Rossato, S., & Besacier, L. (2020). Pratiques d’évaluation en ASR et biais de performance (Evaluation methodology in ASR and performance bias). In Actes de la 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). 2e atelier Éthique et TRaitemeNt Automatique des Langues (ETeRNAL) (pp. 1-9). [[paper](https://www.aclweb.org/anthology/2020.jeptalnrecital-eternal.1)]
 
-### Model issues
+### [Model Issues](#model_issues)
 
 * Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 610-623). doi:10.1145/3442188.3445922 [[paper](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)]
 
-### Biases
+### [Biases](#biases)
 
 * Blodgett, S. L., Barocas, S., Daumé III, H., & Wallach, H. (2020). Language (technology) is power: A critical survey of" bias" in NLP. arXiv preprint arXiv:2005.14050. doi:10.18653/v1/2020.acl-main.485
 [[paper](https://www.aclweb.org/anthology/2020.acl-main.485)]
 
 * Mohammad, S. M. (2020). Gender gap in natural language processing research: Disparities in authorship and citations. arXiv preprint arXiv:2005.00962. doi:10.18653/v1/2020.acl-main.702 [[paper](https://www.aclweb.org/anthology/2020.acl-main.702)]
+
+[[paper]()]
 
