@@ -57,6 +57,10 @@ _Last Updated: 2021 Oct 12_
 
 #### 2020–2021
 
+* Tan, S., Joty, S., Baxter, K., Taeihagh, A., Bennett, G. A., & Kan, M. Y. (2021). Reliability Testing for Natural Language Processing Systems. arXiv preprint arXiv:2105.02590.
+doi:10.18653/v1/2021.acl-long.321
+[[paper](https://aclanthology.org/2021.acl-long.321/)
+
 * Caglayan, O., Madhyastha, P., & Specia, L. (2020). Curious case of language generation evaluation metrics: A cautionary tale. arXiv preprint arXiv:2010.13588. doi:10.18653/v1/2020.coling-main.210
 [[paper](https://www.aclweb.org/anthology/2020.coling-main.210)]
 
@@ -110,6 +114,8 @@ _Last Updated: 2021 Oct 12_
 #### 2020–2021
 * Markl, N., & Lai, C. (2021, April). Context-sensitive evaluation of automatic speech recognition: considering user experience & language variation. In Proceedings of the First Workshop on Bridging Human–Computer Interaction and Natural Language Processing (pp. 34-40). [[paper](https://www.aclweb.org/anthology/2021.hcinlp-1.6.pdf)]
 
+* Joshi, P., Santy, S., Budhiraja, A., Bali, K., & Choudhury, M. (2020). The state and fate of linguistic diversity and inclusion in the NLP world. arXiv preprint arXiv:2004.09095. [[paper](https://arxiv.org/pdf/2004.09095)]
+
 * Koenecke, A., Nam, A., Lake, E., Nudell, J., Quartey, M., Mengesha, Z., ... & Goel, S. (2020). Racial disparities in automated speech recognition. Proceedings of the National Academy of Sciences, 117(14), 7684-7689. [[paper](https://www.pnas.org/content/117/14/7684?utm_keyword=referral_input)]
 
 #### 2010–2019
@@ -119,6 +125,8 @@ _Last Updated: 2021 Oct 12_
 * Garimella, A., Banea, C., Hovy, D., & Mihalcea, R. (2019, July). Women’s syntactic resilience and men’s grammatical luck: Gender-Bias in Part-of-Speech Tagging and Dependency Parsing. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (pp. 3493-3498). [[paper](https://aclanthology.org/P19-1339.pdf)]
 
 * Huang, X., & Paul, M. (2019, June). Neural user factor adaptation for text classification: Learning to generalize across author demographics. In Proceedings of the Eighth Joint Conference on Lexical and Computational Semantics (* SEM 2019) (pp. 136-146). [[paper](https://aclanthology.org/S19-1015.pdf)]
+
+* Zmigrod, R., Mielke, S. J., Wallach, H., & Cotterell, R. (2019). Counterfactual data augmentation for mitigating gender stereotypes in languages with rich morphology. arXiv preprint arXiv:1906.04571. [[paper](https://aclanthology.org/P19-1161.pdf)]
 
 * Broussard, M. (2018). Why the Scots are such a struggle for Alexa and Siri. The Herald,(Glasgow, UK), May, 11. [[paper]()]
 
@@ -180,19 +188,25 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)]
 
 ### Crowdsourcing Issues
 
+#### 2020–2021
+
 * Caswell, I., Kreutzer, J., Wang, L., Wahab, A., van Esch, D., Ulzii-Orshikh, N., ... & Adeyemi, M. (2021). Quality at a glance: An audit of web-crawled multilingual datasets. arXiv preprint arXiv:2103.12028. [[paper](https://arxiv.org/pdf/2103.12028)]
 
 * Shmueli, B., Fell, J., Ray, S., & Ku, L. W. (2021). Beyond fair pay: Ethical implications of NLP crowdsourcing. arXiv preprint arXiv:2104.10097. [[paper](https://arxiv.org/pdf/2104.10097)]
 
-* Tan, S., Joty, S., Baxter, K., Taeihagh, A., Bennett, G. A., & Kan, M. Y. (2021). Reliability Testing for Natural Language Processing Systems. arXiv preprint arXiv:2105.02590.
-doi:10.18653/v1/2021.acl-long.321
-[[paper](https://aclanthology.org/2021.acl-long.321/)
+#### 2010–2019
 
-* Schneider, J. M., Rehm, G., Montiel-Ponsoda, E., Doncel, V. R., Revenko, A., Karampatakis, S., ... & Maganza, F. (2020, May). Orchestrating NLP Services for the Legal Domain. In Proceedings of the 12th Language Resources and Evaluation Conference (pp. 2332-2340). [[paper](https://aclanthology.org/2020.lrec-1.284)]
+* Callison-Burch, C. (2014, September). Crowd-workers: Aggregating information across turkers to help them find higher paying work. In Proceedings of the AAAI Conference on Human Computation and Crowdsourcing (Vol. 2, No. 1). [[paper](https://ojs.aaai.org/index.php/HCOMP/article/download/13198/13046)]
 
-* Sap, M., Gabriel, S., Qin, L., Jurafsky, D., Smith, N. A., & Choi, Y. (2019). Social bias frames: Reasoning about social and power implications of language. arXiv preprint arXiv:1911.03891. [[paper](http://arxiv.org/abs/1911.03891)]
+* Bederson, B. B., & Quinn, A. J. (2011). Web workers unite! addressing challenges of online laborers. In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 97-106).
 
 * Fort, K., Adda, G., & Cohen, K. B. (2011). Amazon Mechanical Turk: Gold mine or coal mine?. Computational Linguistics, 37(2), 413-420. doi:10.1162/COLI\_a\_00057 [[paper](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00057)]
 
 * Snyder, J. (2010). Exploitation and sweatshop labor: Perspectives and issues. Business Ethics Quarterly, 20(2), 187-213.
 [[paper](https://crowdsourcing-class.org/readings/downloads/ethics/exploitation-and-sweatshop-labor.pdf)]
+
+### Uncategorized
+
+* Schneider, J. M., Rehm, G., Montiel-Ponsoda, E., Doncel, V. R., Revenko, A., Karampatakis, S., ... & Maganza, F. (2020, May). Orchestrating NLP Services for the Legal Domain. In Proceedings of the 12th Language Resources and Evaluation Conference (pp. 2332-2340). [[paper](https://aclanthology.org/2020.lrec-1.284)]
+
+* Sap, M., Gabriel, S., Qin, L., Jurafsky, D., Smith, N. A., & Choi, Y. (2019). Social bias frames: Reasoning about social and power implications of language. arXiv preprint arXiv:1911.03891. [[paper](http://arxiv.org/abs/1911.03891)]
