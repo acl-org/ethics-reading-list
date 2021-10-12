@@ -26,6 +26,8 @@ _Last Updated: 2021 Oct 12_
 * [Dual-Use](#dual-use)
 * [Environmental Impact](#environmental-impact)
 * [Data](#data)
+* [Crowdsourcing Issues](#crowdsourcing-issues)
+* [Uncategorized](#uncategorized)
 
 ### General Resources
 
