@@ -6,8 +6,11 @@ This list is intentionally kept with simple formatting in Markdown to allow mach
 
 _Last Updated: 2021 Oct 12_
 
-Contributed by (please add/update your name as part of your pull request).
+### Contributed by 
+(please add/update your name as part of your pull request, and include an affiliation and weblink if you'd like).
+* Karën Fort
 
+### Guidelines
 * Use APA style where possible.
 * Add minimally a `paper` link to direct readers directly to the `.pdf` or metadata page (arXiv or ACL Anthology) of the paper.
 
@@ -18,6 +21,7 @@ Contributed by (please add/update your name as part of your pull request).
 * [Biases](#biases)
 * [Dual-Use](#dual-use)
 * [Environmental Impact](#environmental-impact)
+* [Data](#data)
 
 ### General Resources 
 
