@@ -1,18 +1,20 @@
 # Ethics Reading List
 
+[![PRs Welcome](ReadMe.assets/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
 A list of ethics related resources for researchers and practitioners of Natural Language Processing and Computational Linguistics.  This is a public list moderated by the current ACL Ethics Committee.  Please issue a pull request against the repository to have your suggestions discussed before they are approved for integration with the list.  Thanks!
 
 This list is intentionally kept with simple formatting in Markdown to allow machine-readable processing of the resource.
 
 _Last Updated: 2021 Oct 12_
 
-### Contributed by 
-(please add/update your name as part of your pull request, and include an affiliation and weblink if you'd like).
-* Karën Fort
-
 ### Guidelines
+* Add your name to the [contributors](#contributors) section as part of your PR.  Include an affiliation and a weblink if you'd like.
 * Use APA style where possible.
 * Add minimally a `paper` link to direct readers directly to the `.pdf` or metadata page (arXiv or ACL Anthology) of the paper.
+
+### Contributed by 
+* [Karën Fort](https://members.loria.fr/KFort/) (Sorbonne Université)
 
 # Contents
 * [General Resources](#general-resources)
