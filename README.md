@@ -12,10 +12,14 @@ Contributed by (please add/update your name as part of your pull request).
 * Add minimally a `paper` link to direct readers directly to the `.pdf` or metadata page (arXiv or ACL Anthology) of the paper.
 
 # Contents
-* [General Resources](#general_resources)
-* [Dual-Use](#dual_use)
+* [General Resources](#general-resources)
+* [Evaluation](#evaluation)
+* [Model Issues](#model-issues)
+* [Biases](#biases)
+* [Dual-Use](#dual-use)
+* [Environmental Impact](#environmental-impact)
 
-### [General Resources](#general_resources)
+### General Resources 
 
 * Monteiro, M. (2019). Ruined by design: How designers destroyed the world, and what we can do to fix it. Mule Design.
 
@@ -37,7 +41,8 @@ Contributed by (please add/update your name as part of your pull request).
 * Lefeuvre-Halftermeyer, A., Govaere, V., Antoine, J. Y., Allegre, W., Pouplin, S., Departe, J. P., ... & Spagnulo, A. (2016). Typologie des risques pour une analyse éthique de l'impact des technologies du TAL. Traitement Automatique des Langues, 57(2), 47-71.
 [[paper](https://hal.archives-ouvertes.fr/hal-01501192)]
 
-### [Evaluation](#evaluation)
+### Evaluation
+
 * Nangia, N., Vania, C., Bhalerao, R., & Bowman, S. R. (2020). CrowS-pairs: A challenge dataset for measuring social biases in masked language models. arXiv preprint arXiv:2010.00133. doi:10.18653/v1/2020.emnlp-main.154 [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.154)]
 
 * Caliskan, A., Bryson, J. J., & Narayanan, A. (2017). Semantics derived automatically from language corpora contain human-like biases. Science, 356(6334), 183-186.
@@ -61,19 +66,17 @@ Contributed by (please add/update your name as part of your pull request).
 
 * Garnerin, M., Rossato, S., & Besacier, L. (2020). Pratiques d’évaluation en ASR et biais de performance (Evaluation methodology in ASR and performance bias). In Actes de la 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). 2e atelier Éthique et TRaitemeNt Automatique des Langues (ETeRNAL) (pp. 1-9). [[paper](https://www.aclweb.org/anthology/2020.jeptalnrecital-eternal.1)]
 
-### [Model Issues](#model_issues)
+### Model Issues
 
 * Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 610-623). doi:10.1145/3442188.3445922 [[paper](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)]
 
-### [Biases](#biases)
+### Biases
 
 * Blodgett, S. L., Barocas, S., Daumé III, H., & Wallach, H. (2020). Language (technology) is power: A critical survey of" bias" in NLP. arXiv preprint arXiv:2005.14050. doi:10.18653/v1/2020.acl-main.485
 [[paper](https://www.aclweb.org/anthology/2020.acl-main.485)]
 
 * Mohammad, S. M. (2020). Gender gap in natural language processing research: Disparities in authorship and citations. arXiv preprint arXiv:2005.00962. doi:10.18653/v1/2020.acl-main.702 [[paper](https://www.aclweb.org/anthology/2020.acl-main.702)]
 
-
----
 * Schluter, N. (2018). The glass ceiling in NLP. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (pp. 2793-2798). doi:10.18653/v1/D18-1301
 [[paper](https://www.aclweb.org/anthology/D18-1301)]
 
@@ -82,10 +85,10 @@ Contributed by (please add/update your name as part of your pull request).
 
 * Nissim, M., van Noord, R., & van der Goot, R. (2020). Fair is better than sensational: Man is to doctor as woman is to doctor. Computational Linguistics, 46(2), 487-497. doi:10.1162/coli_a_00379 [[paper](https://www.aclweb.org/anthology/2020.cl-2.7)]
 
-### [Dual Use](#dual-use)
+### Dual Use
 * Bonastre, J. F. (2020). 1990-2020: retours sur 30 ans d’échanges autour de l’identification de voix en milieu judiciaire. In 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). 2e atelier Éthique et TRaitemeNt Automatique des Langues (ETeRNAL) (pp. 38-47). ATALA; AFCP.
 
-### [Environmental Impact](#environmental_impact)
+### Environmental Impact
 
 * Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J. (2020). Towards the systematic reporting of the energy and carbon footprints of machine learning. Journal of Machine Learning Research, 21(248), 1-43. [[paper](https://www.jmlr.org/papers/volume21/20-312/20-312.pdf)]
 
