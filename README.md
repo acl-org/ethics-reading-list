@@ -1,6 +1,6 @@
 # Ethics Reading List
 
-[![PRs Welcome](ReadMe.assets/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![PRs Welcome](assets/img/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 A list of ethics related resources for researchers and practitioners of Natural Language Processing and Computational Linguistics.  This is a public list moderated by the current ACL Ethics Committee.  Please issue a pull request against the repository to have your suggestions discussed before they are approved for integration with the list.  Thanks!
 
@@ -13,7 +13,7 @@ _Last Updated: 2021 Oct 12_
 * Use APA style where possible.
 * Add minimally a `paper` link to direct readers directly to the `.pdf` or metadata page (arXiv or ACL Anthology) of the paper.
 
-### Contributed by 
+### Contributed by
 * [Karën Fort](https://members.loria.fr/KFort/) (Sorbonne Université)
 
 # Contents
@@ -25,11 +25,11 @@ _Last Updated: 2021 Oct 12_
 * [Environmental Impact](#environmental-impact)
 * [Data](#data)
 
-### General Resources 
+### General Resources
 
 * Monteiro, M. (2019). Ruined by design: How designers destroyed the world, and what we can do to fix it. Mule Design.
 
-* Hovy, D., & Spruit, S. L. (2016, August). The social impact of natural language processing. In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (pp. 591-598) doi:10.18653/v1/P16-2096. [[paper](https://www.aclweb.org/anthology/P16-2096)] 
+* Hovy, D., & Spruit, S. L. (2016, August). The social impact of natural language processing. In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (pp. 591-598) doi:10.18653/v1/P16-2096. [[paper](https://www.aclweb.org/anthology/P16-2096)]
 
 * Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54-63. [[paper](http://arxiv.org/abs/1907.10597)]
 
@@ -124,7 +124,7 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)]
 
 * Paullada, A., Raji, I. D., Bender, E. M., Denton, E., & Hanna, A. (2020). Data and its (dis) contents: A survey of dataset development and use in machine learning research. arXiv preprint arXiv:2012.05345. [[paper](https://arxiv.org/pdf/2012.05345)]
 
-* Bender, E. M., & Friedman, B. (2018). Data statements for natural language processing: Toward mitigating system bias and enabling better science. Transactions of the Association for Computational Linguistics, 6, 587-604 doi:10.1162/tacl\_a\_00041 [[paper](https://www.aclweb.org/anthology/Q18-1041)] 
+* Bender, E. M., & Friedman, B. (2018). Data statements for natural language processing: Toward mitigating system bias and enabling better science. Transactions of the Association for Computational Linguistics, 6, 587-604 doi:10.1162/tacl\_a\_00041 [[paper](https://www.aclweb.org/anthology/Q18-1041)]
 
 ### Crowdsourcing Issues
 
