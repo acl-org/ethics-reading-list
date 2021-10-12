@@ -96,18 +96,21 @@ _Last Updated: 2021 Oct 12_
 
 ### Environmental Impact
 
-* Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J. (2020). Towards the systematic reporting of the energy and carbon footprints of machine learning. Journal of Machine Learning Research, 21(248), 1-43. [[paper](https://www.jmlr.org/papers/volume21/20-312/20-312.pdf)]
+#### 2021–2020
 
 * Lannelongue, L., Grealey, J., & Inouye, M. (2021). Green algorithms: Quantifying the carbon footprint of computation. Advanced Science, 2100707. doi:10.1002/advs.202100707
 [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202100707)]
 
+* Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J. (2020). Towards the systematic reporting of the energy and carbon footprints of machine learning. Journal of Machine Learning Research, 21(248), 1-43. [[paper](https://www.jmlr.org/papers/volume21/20-312/20-312.pdf)]
+
 * Anthony, L. F. W., Kanding, B., & Selvan, R. (2020). Carbontracker: Tracking and predicting the carbon footprint of training deep learning models. arXiv preprint arXiv:2007.03051. [[paper](https://arxiv.org/pdf/2007.03051)]
+
+#### 2010–2019
 
 * Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy considerations for deep learning in NLP. arXiv preprint arXiv:1906.02243. doi:10.18653/v1/P19-1355
 [[paper](https://www.aclweb.org/anthology/P19-1355)]
 
 ### Data
-* Couillault, A., Fort, K., Adda, G., & De Mazancourt, H. (2014, May). Evaluating corpora documentation with regards to the ethics and big data charter. In International Conference on Language Resources and Evaluation (LREC). [[paper](https://hal.inria.fr/hal-00969180)]
 
 * Bird, S. (2020, December). Decolonising speech and language technology. In Proceedings of the 28th International Conference on Computational Linguistics (pp. 3504-3519). doi:10.18653/v1/2020.coling-main.313
 [[paper](https://www.aclweb.org/anthology/2020.coling-main.313)]
@@ -119,18 +122,20 @@ doi:10.18653/v1/2020.acl-main.560
 * Vidgen, B., & Derczynski, L. (2020). Directions in abusive language training data, a systematic review: Garbage in, garbage out. PloS one, 15(12), e0243300.
 [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243300)]
 
+* Paullada, A., Raji, I. D., Bender, E. M., Denton, E., & Hanna, A. (2020). Data and its (dis) contents: A survey of dataset development and use in machine learning research. arXiv preprint arXiv:2012.05345. [[paper](https://arxiv.org/pdf/2012.05345)]
+
 * Kann, K., Cho, K., & Bowman, S. R. (2019). Towards realistic practices in low-resource natural language processing: the development set. arXiv preprint arXiv:1909.01522.
 doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)]
 
-* Paullada, A., Raji, I. D., Bender, E. M., Denton, E., & Hanna, A. (2020). Data and its (dis) contents: A survey of dataset development and use in machine learning research. arXiv preprint arXiv:2012.05345. [[paper](https://arxiv.org/pdf/2012.05345)]
-
 * Bender, E. M., & Friedman, B. (2018). Data statements for natural language processing: Toward mitigating system bias and enabling better science. Transactions of the Association for Computational Linguistics, 6, 587-604 doi:10.1162/tacl\_a\_00041 [[paper](https://www.aclweb.org/anthology/Q18-1041)]
+
+* Couillault, A., Fort, K., Adda, G., & De Mazancourt, H. (2014, May). Evaluating corpora documentation with regards to the ethics and big data charter. In International Conference on Language Resources and Evaluation (LREC). [[paper](https://hal.inria.fr/hal-00969180)]
 
 ### Crowdsourcing Issues
 
-* Fort, K., Adda, G., & Cohen, K. B. (2011). Amazon Mechanical Turk: Gold mine or coal mine?. Computational Linguistics, 37(2), 413-420. doi:10.1162/COLI\_a\_00057 [[paper](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00057)]
-
 * Caswell, I., Kreutzer, J., Wang, L., Wahab, A., van Esch, D., Ulzii-Orshikh, N., ... & Adeyemi, M. (2021). Quality at a glance: An audit of web-crawled multilingual datasets. arXiv preprint arXiv:2103.12028. [[paper](https://arxiv.org/pdf/2103.12028)]
+
+* Shmueli, B., Fell, J., Ray, S., & Ku, L. W. (2021). Beyond fair pay: Ethical implications of NLP crowdsourcing. arXiv preprint arXiv:2104.10097. [[paper](https://arxiv.org/pdf/2104.10097)]
 
 * Tan, S., Joty, S., Baxter, K., Taeihagh, A., Bennett, G. A., & Kan, M. Y. (2021). Reliability Testing for Natural Language Processing Systems. arXiv preprint arXiv:2105.02590.
 doi:10.18653/v1/2021.acl-long.321
@@ -139,3 +144,8 @@ doi:10.18653/v1/2021.acl-long.321
 * Schneider, J. M., Rehm, G., Montiel-Ponsoda, E., Doncel, V. R., Revenko, A., Karampatakis, S., ... & Maganza, F. (2020, May). Orchestrating NLP Services for the Legal Domain. In Proceedings of the 12th Language Resources and Evaluation Conference (pp. 2332-2340). [[paper](https://aclanthology.org/2020.lrec-1.284)]
 
 * Sap, M., Gabriel, S., Qin, L., Jurafsky, D., Smith, N. A., & Choi, Y. (2019). Social bias frames: Reasoning about social and power implications of language. arXiv preprint arXiv:1911.03891. [[paper](http://arxiv.org/abs/1911.03891)]
+
+* Fort, K., Adda, G., & Cohen, K. B. (2011). Amazon Mechanical Turk: Gold mine or coal mine?. Computational Linguistics, 37(2), 413-420. doi:10.1162/COLI\_a\_00057 [[paper](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00057)]
+
+* Snyder, J. (2010). Exploitation and sweatshop labor: Perspectives and issues. Business Ethics Quarterly, 20(2), 187-213.
+[[paper](https://crowdsourcing-class.org/readings/downloads/ethics/exploitation-and-sweatshop-labor.pdf)]
