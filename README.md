@@ -16,6 +16,7 @@ _Last Updated: 2021 Oct 12_
 
 ### Contributed by
 * [Karën Fort](https://members.loria.fr/KFort/) (Sorbonne Université)
+* [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy) (National University of Singapore)
 
 # Contents
 * [General Resources](#general-resources)
@@ -32,8 +33,6 @@ _Last Updated: 2021 Oct 12_
 ### General Resources
 
 #### 2020–2021
-
-* Aka, O., Burke, K., Bäuerle, A., Greer, C., & Mitchell, M. (2021). Measuring Model Biases in the Absence of Ground Truth. arXiv preprint arXiv:2103.03417. [[paper](https://arxiv.org/abs/2103.03417)]
 
 * Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54-63. [[paper](http://arxiv.org/abs/1907.10597)]
 
@@ -96,6 +95,8 @@ doi:10.18653/v1/2021.acl-long.321
 
 #### 2020–2021
 
+* Aka, O., Burke, K., Bäuerle, A., Greer, C., & Mitchell, M. (2021). Measuring Model Biases in the Absence of Ground Truth. arXiv preprint arXiv:2103.03417. [[paper](https://arxiv.org/abs/2103.03417)]
+
 * Blodgett, S. L., Barocas, S., Daumé III, H., & Wallach, H. (2020). Language (technology) is power: A critical survey of" bias" in NLP. arXiv preprint arXiv:2005.14050. doi:10.18653/v1/2020.acl-main.485
 [[paper](https://www.aclweb.org/anthology/2020.acl-main.485)]
 
@@ -123,9 +124,16 @@ doi:10.18653/v1/2021.acl-long.321
 #### 2020–2021
 * Markl, N., & Lai, C. (2021, April). Context-sensitive evaluation of automatic speech recognition: considering user experience & language variation. In Proceedings of the First Workshop on Bridging Human–Computer Interaction and Natural Language Processing (pp. 34-40). [[paper](https://www.aclweb.org/anthology/2021.hcinlp-1.6.pdf)]
 
+* Tan, S., & Joty, S. (2021). Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots. arXiv preprint arXiv:2103.09593. [[paper](https://arxiv.org/pdf/2103.09593)]
+
 * Joshi, P., Santy, S., Budhiraja, A., Bali, K., & Choudhury, M. (2020). The state and fate of linguistic diversity and inclusion in the NLP world. arXiv preprint arXiv:2004.09095. [[paper](https://arxiv.org/pdf/2004.09095)]
 
 * Koenecke, A., Nam, A., Lake, E., Nudell, J., Quartey, M., Mengesha, Z., ... & Goel, S. (2020). Racial disparities in automated speech recognition. Proceedings of the National Academy of Sciences, 117(14), 7684-7689. [[paper](https://www.pnas.org/content/117/14/7684?utm_keyword=referral_input)]
+
+* Tan, S., Joty, S., Varshney, L. R., & Kan, M. Y. (2020). Mind your inflections! Improving NLP for non-standard Englishes with Base-Inflection Encoding. arXiv preprint arXiv:2004.14870.
+[[paper](https://arxiv.org/pdf/2004.14870)]
+
+* Tan, S., Joty, S., Kan, M. Y., & Socher, R. (2020). It's Morphin'Time! Combating Linguistic Discrimination with Inflectional Perturbations. arXiv preprint arXiv:2005.04364. [[paper](https://arxiv.org/pdf/2005.04364)]
 
 #### 2010–2019
 
