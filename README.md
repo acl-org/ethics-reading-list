@@ -165,10 +165,16 @@ doi:10.18653/v1/2021.acl-long.321
 
 * Anthony, L. F. W., Kanding, B., & Selvan, R. (2020). Carbontracker: Tracking and predicting the carbon footprint of training deep learning models. arXiv preprint arXiv:2007.03051. [[paper](https://arxiv.org/pdf/2007.03051)]
 
+* Martin Jaggi Tristan Trebaol, Mary-Anne Hartley and Hossein Shokri Ghadikolaei. (2020). A tool to quantify and report the carbon footprint of machine learning computations and communication in academia and healthcare. Infoscience EPFL: record 278189. [[report](https://infoscience.epfl.ch/record/278189/files/Msc_semester_project_report_TTre%CC%81baol_cumulator.pdf)]
+
+
 #### 2010–2019
 
 * Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy considerations for deep learning in NLP. arXiv preprint arXiv:1906.02243. doi:10.18653/v1/P19-1355
 [[paper](https://www.aclweb.org/anthology/P19-1355)]
+
+* Lacoste A., Luccioni A., Schmidt V., & Dandres T. (2019). Quantifying the carbon emissions of machine learning. In Climate Change workshop, NeurIPS 2019. [[paper](https://arxiv.org/pdf/1910.09700.pdf)]
+
 
 ### Data
 
