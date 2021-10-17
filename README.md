@@ -41,8 +41,6 @@ _Last Updated: 2021 Oct 12_
 
 * Monteiro, M. (2019). Ruined by design: How designers destroyed the world, and what we can do to fix it. Mule Design.
 
-* Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daumé III, H., & Crawford, K. (2018). Datasheets for datasets. arXiv preprint arXiv:1803.09010. [[paper](http://arxiv.org/abs/1803.09010)]
-
 * Amblard, M. (2016). Pour un TAL responsable. Traitement Automatique des Langues, 57(2), 21-45. [[paper](https://hal.inria.fr/hal-01414145)]
 
 * Fort, K., & Couillault, A. (2016, May). Yes, we care! results of the ethics and natural language processing surveys. In international Language Resources and Evaluation Conference (LREC) 2016. [[paper](https://hal.inria.fr/hal-01287467/file/EthicsAndNLPSurveys.pdf)]
@@ -105,11 +103,20 @@ doi:10.18653/v1/2021.acl-long.321
 
 * Nissim, M., van Noord, R., & van der Goot, R. (2020). Fair is better than sensational: Man is to doctor as woman is to doctor. Computational Linguistics, 46(2), 487-497. doi:10.1162/coli\_a\_00379 [[paper](https://www.aclweb.org/anthology/2020.cl-2.7)]
 
-* Schluter, N. (2018). The glass ceiling in NLP. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (pp. 2793-2798). doi:10.18653/v1/D18-1301
-[[paper](https://www.aclweb.org/anthology/D18-1301)]
+#### 2010–2019
+
+* Curry, A. C., & Rieser, V. (2018, June). # MeToo Alexa: How conversational systems respond to sexual harassment. In Proceedings of the second ACL workshop on ethics in natural language processing (pp. 7-14).
+[[paper](https://www.aclweb.org/anthology/W18-0802.pdf)]
 
 * Fort, K., & Névéol, A. (2018, January). Présence et représentation des femmes dans le traitement automatique des langues en France. In Penser la Recherche en Informatique comme pouvant être Située, Multidisciplinaire Et Genrée (PRISME-G).
 [[paper](https://hal.archives-ouvertes.fr/hal-01683774)]
+
+* Schluter, N. (2018). The glass ceiling in NLP. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (pp. 2793-2798). doi:10.18653/v1/D18-1301
+[[paper](https://www.aclweb.org/anthology/D18-1301)]
+
+* Larson, J., Angwin, J., & Parris, T. (2016). Breaking the black box: How machines learn to be racist. _ProPublica_.
+
+* Clark, J. (2016). Artificial intelligence has a ‘sea of dudes’ problem. Bloomberg Technology, 23.
 
 ### Language Variation
 
@@ -167,8 +174,19 @@ doi:10.18653/v1/2021.acl-long.321
 
 #### 2020–2021
 
+* Birhane, A., Prabhu, V. U., & Kahembwe, E. (2021). Multimodal datasets: misogyny, pornography, and malignant stereotypes. arXiv preprint arXiv:2110.01963. [[paper](https://arxiv.org/pdf/2110.01963)]
+
+* Dodge, J., Sap, M., Marasovic, A., Agnew, W., Ilharco, G., Groeneveld, D., ... & Face, H. Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus.
+[[paper](https://homes.cs.washington.edu/~msap/pdfs/dodge2021documentingC4.pdf)]
+
+* Moss, E., Watkins, E. A., Singh, R., Elish, M. C., & Metcalf, J. (2021). Assembling Accountability: Algorithmic Impact Assessment for the Public Interest. Available at SSRN 3877437.
+[[paper](https://apo.org.au/sites/default/files/resource-files/2021-06/apo-nid313046.pdf)]
+
 * Bird, S. (2020, December). Decolonising speech and language technology. In Proceedings of the 28th International Conference on Computational Linguistics (pp. 3504-3519). doi:10.18653/v1/2020.coling-main.313
 [[paper](https://www.aclweb.org/anthology/2020.coling-main.313)]
+
+* Jo, E. S., & Gebru, T. (2020, January). Lessons from archives: Strategies for collecting sociocultural data in machine learning. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 306-316).
+[[paper](https://dl.acm.org/doi/pdf/10.1145/3351095.3372829)]
 
 * Joshi, P., Santy, S., Budhiraja, A., Bali, K., & Choudhury, M. (2020). The state and fate of linguistic diversity and inclusion in the NLP world. arXiv preprint arXiv:2004.09095.
 doi:10.18653/v1/2020.acl-main.560
@@ -184,7 +202,18 @@ doi:10.18653/v1/2020.acl-main.560
 * Kann, K., Cho, K., & Bowman, S. R. (2019). Towards realistic practices in low-resource natural language processing: the development set. arXiv preprint arXiv:1909.01522.
 doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)]
 
+* Raji, I. D., & Yang, J. (2019). About ml: Annotation and benchmarking on understanding and transparency of machine learning lifecycles. arXiv preprint arXiv:1912.06166. [[paper](https://arxiv.org/pdf/1912.06166)]
+
 * Bender, E. M., & Friedman, B. (2018). Data statements for natural language processing: Toward mitigating system bias and enabling better science. Transactions of the Association for Computational Linguistics, 6, 587-604 doi:10.1162/tacl\_a\_00041 [[paper](https://www.aclweb.org/anthology/Q18-1041)]
+
+* Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daumé III, H., & Crawford, K. (2018). Datasheets for datasets. arXiv preprint arXiv:1803.09010. [[paper](http://arxiv.org/abs/1803.09010)]
+
+* Holland, S., Hosny, A., Newman, S., Joseph, J., & Chmielinski, K. (2018). The dataset nutrition label: A framework to drive higher data quality standards. arXiv preprint arXiv:1805.03677.
+[[paper](https://arxiv.org/pdf/1805.03677.pdf)]
+
+* Mieskes, M. (2017, April). A quantitative study of data in the NLP community. In Proceedings of the first ACL workshop on ethics in natural language processing (pp. 23-29). [[paper](https://www.aclweb.org/anthology/W17-1603.pdf)]
+
+* Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., ... & Gebru, T. (2019, January). Model cards for model reporting. In Proceedings of the conference on fairness, accountability, and transparency (pp. 220-229). [[paper](https://dl.acm.org/doi/pdf/10.1145/3287560.3287596)]
 
 * Couillault, A., Fort, K., Adda, G., & De Mazancourt, H. (2014, May). Evaluating corpora documentation with regards to the ethics and big data charter. In International Conference on Language Resources and Evaluation (LREC). [[paper](https://hal.inria.fr/hal-00969180)]
 
