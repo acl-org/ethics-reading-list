@@ -1,4 +1,4 @@
-# Ethics Reading List
+# Ethics Union Bibliography
 
 [![PRs Welcome](assets/img/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
@@ -6,13 +6,14 @@ A list of ethics related resources for researchers and practitioners of Natural 
 
 This list is intentionally kept with simple formatting in Markdown to allow machine-readable processing of the resource.
 
-_Last Updated: 2021 Oct 12_
+_Last Updated: 2021 Oct 17_
 
 ### Guidelines
 * Add your name to the [contributors](#contributors) section as part of your PR.  Include an affiliation and a weblink if you'd like.
 * References follow a three tier organization: by topic, then by year, then by first-author surname.
 * Use APA style where possible.
 * Add minimally a `paper` link to direct readers directly to the `.pdf` or metadata page (arXiv or ACL Anthology) of the paper.
+* Update the ``Last Updated'' datestamp above.
 
 ### Contributed by
 * [Karën Fort](https://members.loria.fr/KFort/) (Sorbonne Université)
@@ -39,6 +40,8 @@ _Last Updated: 2021 Oct 12_
 #### 2010–2019
 
 * Monteiro, M. (2019). Ruined by design: How designers destroyed the world, and what we can do to fix it. Mule Design.
+
+* Šuster, S., Tulkens, S., & Daelemans, W. (2017). A short review of ethical challenges in clinical natural language processing. arXiv preprint arXiv:1703.10090. [[paper](https://arxiv.org/pdf/1703.10090)]
 
 * Amblard, M. (2016). Pour un TAL responsable. Traitement Automatique des Langues, 57(2), 21-45. [[paper](https://hal.inria.fr/hal-01414145)]
 
@@ -237,11 +240,15 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)]
 
 * Caswell, I., Kreutzer, J., Wang, L., Wahab, A., van Esch, D., Ulzii-Orshikh, N., ... & Adeyemi, M. (2021). Quality at a glance: An audit of web-crawled multilingual datasets. arXiv preprint arXiv:2103.12028. [[paper](https://arxiv.org/pdf/2103.12028)]
 
+* Kummerfeld, J. K. (2021). Quantifying and Avoiding Unfair Qualification Labour in Crowdsourcing. arXiv preprint arXiv:2105.12762. [[paper](https://arxiv.org/pdf/2105.12762)]
+
 * Shmueli, B., Fell, J., Ray, S., & Ku, L. W. (2021). Beyond fair pay: Ethical implications of NLP crowdsourcing. arXiv preprint arXiv:2104.10097. [[paper](https://arxiv.org/pdf/2104.10097)]
 
 #### 2010–2019
 
 * Callison-Burch, C. (2014, September). Crowd-workers: Aggregating information across turkers to help them find higher paying work. In Proceedings of the AAAI Conference on Human Computation and Crowdsourcing (Vol. 2, No. 1). [[paper](https://ojs.aaai.org/index.php/HCOMP/article/download/13198/13046)]
+
+* Irani, L. C., & Silberman, M. S. (2013, April). Turkopticon: Interrupting worker invisibility in amazon mechanical turk. In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 611-620). [[paper](https://dl.acm.org/doi/pdf/10.1145/2470654.2470742)]
 
 * Bederson, B. B., & Quinn, A. J. (2011). Web workers unite! addressing challenges of online laborers. In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 97-106).
 
