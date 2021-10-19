@@ -6,7 +6,7 @@ A list of ethics related resources for researchers and practitioners of Natural 
 
 This list is intentionally kept with simple formatting in Markdown to allow machine-readable processing of the resource.
 
-_Last Updated: 2021 Oct 17_
+_Last Updated: 2021 Oct 19_
 
 ### Guidelines
 * Add your name to the [contributors](#contributors) section as part of your PR.  Include an affiliation and a weblink if you'd like.
@@ -71,7 +71,7 @@ doi:10.18653/v1/2021.acl-long.321
 
 * Garnerin, M., Rossato, S., & Besacier, L. (2020). Pratiques d’évaluation en ASR et biais de performance (Evaluation methodology in ASR and performance bias). In Actes de la 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). 2e atelier Éthique et TRaitemeNt Automatique des Langues (ETeRNAL) (pp. 1-9). [[paper](https://www.aclweb.org/anthology/2020.jeptalnrecital-eternal.1)]
 
-* Goldfarb-Tarrant, S., Marchant, R., Sanchez, R. M., Pandya, M., & Lopez, A. (2020). Intrinsic bias metrics do not correlate with application bias. arXiv preprint arXiv:2012.15859.
+* Goldfarb-Tarrant, S., Marchant, R., Sanchez, R. M., Pandya, M., & Lopez, A. (2020). Intrinsic bias metrics do not correlate with application bias. ACL 2021 [[paper](https://aclanthology.org/2021.acl-long.150/)].
 
 * Linzen, T. (2020). How can we accelerate progress towards human-like linguistic generalization?. arXiv preprint arXiv:2005.00955. doi:10.18653/v1/2020.acl-main.465 [[paper](https://www.aclweb.org/anthology/2020.acl-main.465)]
 
@@ -163,7 +163,7 @@ doi:10.18653/v1/2021.acl-long.321
 
 #### 2020–2021
 
-* Bonastre, J. F. (2020). 1990-2020: retours sur 30 ans d’échanges autour de l’identification de voix en milieu judiciaire. In 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). 2e atelier Éthique et TRaitemeNt Automatique des Langues (ETeRNAL) (pp. 38-47). ATALA; AFCP.
+* Bonastre, J. F. (2020). 1990-2020: retours sur 30 ans d’échanges autour de l’identification de voix en milieu judiciaire. In 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). 2e atelier Éthique et TRaitemeNt Automatique des Langues (ETeRNAL) (pp. 38-47). ATALA; AFCP. [[paper](https://aclanthology.org/2020.jeptalnrecital-eternal.5/)]
 
 ### Environmental Impact
 
