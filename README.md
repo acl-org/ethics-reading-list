@@ -94,6 +94,8 @@ doi:10.18653/v1/2021.acl-long.321
 
 * Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 610-623). doi:10.1145/3442188.3445922 [[paper](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)]
 
+* Floridi, L., Chiriatti, M. GPT-3: Its Nature, Scope, Limits, and Consequences. Minds & Machines 30, 681–694 (2020). https://doi.org/10.1007/s11023-020-09548-1 [[paper](https://link.springer.com/content/pdf/10.1007/s11023-020-09548-1.pdf)]
+
 ### Biases
 
 #### 2020–2021
