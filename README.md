@@ -35,7 +35,7 @@ _Last Updated: 2022 Feb 24_
 
 #### 2020–2021
 
-* Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54-63. [[paper](http://arxiv.org/abs/1907.10597)] [![General Resources](https://img.shields.io/badge/t-general-resources-red)]
+* Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54-63. [[paper](http://arxiv.org/abs/1907.10597)] [![General Resources](https://img.shields.io/badge/t-general%20resources-red)]
 
 #### 2010–2019
 
