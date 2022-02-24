@@ -6,11 +6,11 @@ A list of ethics related resources for researchers and practitioners of Natural 
 
 This list is intentionally kept with simple formatting in Markdown to allow machine-readable processing of the resource.
 
-_Last Updated: 2021 Oct 19_
+_Last Updated: 2022 Feb 24_
 
 ### Guidelines
 * Add your name to the [contributors](#contributors) section as part of your PR.  Include an affiliation and a weblink if you'd like.
-* References follow a three tier organization: by topic, then by year, then by first-author surname.
+* References follow a two tier organization: by year, then by first-author surname.  #tag papers with topics so that they can be found on a per topic basis.
 * Use APA style where possible.
 * Add minimally a `paper` link to direct readers directly to the `.pdf` or metadata page (arXiv or ACL Anthology) of the paper.
 * Update the ``Last Updated'' datestamp above.
@@ -35,7 +35,7 @@ _Last Updated: 2021 Oct 19_
 
 #### 2020–2021
 
-* Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54-63. [[paper](http://arxiv.org/abs/1907.10597)]
+* Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54-63. [[paper](http://arxiv.org/abs/1907.10597)] #general-resources
 
 #### 2010–2019
 
@@ -57,7 +57,7 @@ _Last Updated: 2021 Oct 19_
 
 ### Evaluation
 
-#### 2020–2021
+#### 2020
 
 * Tan, S., Joty, S., Baxter, K., Taeihagh, A., Bennett, G. A., & Kan, M. Y. (2021). Reliability Testing for Natural Language Processing Systems. arXiv preprint arXiv:2105.02590.
 doi:10.18653/v1/2021.acl-long.321
