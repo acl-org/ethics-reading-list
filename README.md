@@ -1,7 +1,6 @@
 # Ethics Union Bibliography
 
-[![PRs Welcome](assets/img/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Evaluation](https://img.shields.io/badge/t-evaluation-red)]
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)](http://makeapullrequest.com)
 
 A list of ethics related resources for researchers and practitioners of Natural Language Processing and Computational Linguistics.  This is a public list moderated by the current ACL Ethics Committee.  Please issue a pull request against the repository to have your suggestions discussed before they are approved for integration with the list.  Thanks!
 
@@ -36,7 +35,7 @@ _Last Updated: 2022 Feb 24_
 
 #### 2020–2021
 
-* Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54-63. [[paper](http://arxiv.org/abs/1907.10597)] #general-resources
+* Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54-63. [[paper](http://arxiv.org/abs/1907.10597)] [![General Resources](https://img.shields.io/badge/t-general-resources-red)]
 
 #### 2010–2019
 
