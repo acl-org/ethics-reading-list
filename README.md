@@ -1,6 +1,7 @@
 # Ethics Union Bibliography
 
 [![PRs Welcome](assets/img/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Evaluation](https://img.shields.io/badge/t-evaluation-red)]
 
 A list of ethics related resources for researchers and practitioners of Natural Language Processing and Computational Linguistics.  This is a public list moderated by the current ACL Ethics Committee.  Please issue a pull request against the repository to have your suggestions discussed before they are approved for integration with the list.  Thanks!
 
