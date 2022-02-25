@@ -21,7 +21,7 @@ _Last Updated: 2022 Feb 24_
 * [Karën Fort](https://members.loria.fr/KFort/) (Sorbonne Université)
 * [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy) (National University of Singapore)
 
-# [Contents]
+# Contents
 
 * [2022](#2022)
 * [2021](#2021)
@@ -229,7 +229,7 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 
 * Jørgensen, A., Hovy, D., & Søgaard, A. (2015, July). Challenges of studying and processing dialects in social media. In Proceedings of the workshop on noisy user-generated text (pp. 9-18). [[paper](https://www.aclweb.org/anthology/W15-4302.pdf)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
 
-### 2014 [#contents]
+### 2014 [[Contents](#contents)]
 
 * Callison-Burch, C. (2014, September). Crowd-workers: Aggregating information across turkers to help them find higher paying work. In Proceedings of the AAAI Conference on Human Computation and Crowdsourcing (Vol. 2, No. 1). [[paper](https://ojs.aaai.org/index.php/HCOMP/article/download/13198/13046)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
 
