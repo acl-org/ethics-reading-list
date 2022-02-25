@@ -37,8 +37,17 @@ _Last Updated: 2022 Feb 24_
 
 * Birhane, A., Prabhu, V. U., & Kahembwe, E. (2021). Multimodal datasets: misogyny, pornography, and malignant stereotypes. arXiv preprint arXiv:2110.01963. [[paper](https://arxiv.org/pdf/2110.01963)] ![Data](https://img.shields.io/badge/t-data-blue)
 
+* Caswell, I., Kreutzer, J., Wang, L., Wahab, A., van Esch, D., Ulzii-Orshikh, N., ... & Adeyemi, M. (2021). Quality at a glance: An audit of web-crawled multilingual datasets. arXiv preprint arXiv:2103.12028. [[paper](https://arxiv.org/pdf/2103.12028)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
+
+* Kummerfeld, J. K. (2021). Quantifying and Avoiding Unfair Qualification Labour in Crowdsourcing. arXiv preprint arXiv:2105.12762. [[paper](https://arxiv.org/pdf/2105.12762)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
+
+* Lannelongue, L., Grealey, J., & Inouye, M. (2021). Green algorithms: Quantifying the carbon footprint of computation. Advanced Science, 2100707. doi:10.1002/advs.202100707
+[[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202100707)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
+
 * Moss, E., Watkins, E. A., Singh, R., Elish, M. C., & Metcalf, J. (2021). Assembling Accountability: Algorithmic Impact Assessment for the Public Interest. Available at SSRN 3877437.
 [[paper](https://apo.org.au/sites/default/files/resource-files/2021-06/apo-nid313046.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
+
+* Shmueli, B., Fell, J., Ray, S., & Ku, L. W. (2021). Beyond fair pay: Ethical implications of NLP crowdsourcing. arXiv preprint arXiv:2104.10097. [[paper](https://arxiv.org/pdf/2104.10097)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
 
 ### 2020
 
@@ -61,6 +70,8 @@ _Last Updated: 2022 Feb 24_
 
 * Goldfarb-Tarrant, S., Marchant, R., Sanchez, R. M., Pandya, M., & Lopez, A. (2020). Intrinsic bias metrics do not correlate with application bias. ACL 2021 [[paper](https://aclanthology.org/2021.acl-long.150/)]. ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
 
+* Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J. (2020). Towards the systematic reporting of the energy and carbon footprints of machine learning. Journal of Machine Learning Research, 21(248), 1-43. [[paper](https://www.jmlr.org/papers/volume21/20-312/20-312.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
+
 * Jo, E. S., & Gebru, T. (2020, January). Lessons from archives: Strategies for collecting sociocultural data in machine learning. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 306-316).
 [[paper](https://dl.acm.org/doi/pdf/10.1145/3351095.3372829)] ![Data](https://img.shields.io/badge/t-data-blue)
 
@@ -76,6 +87,8 @@ doi:10.18653/v1/2020.acl-main.560
 * Nangia, N., Vania, C., Bhalerao, R., & Bowman, S. R. (2020). CrowS-pairs: A challenge dataset for measuring social biases in masked language models. arXiv preprint arXiv:2010.00133. doi:10.18653/v1/2020.emnlp-main.154 [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.154)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
 
 * Paullada, A., Raji, I. D., Bender, E. M., Denton, E., & Hanna, A. (2020). Data and its (dis) contents: A survey of dataset development and use in machine learning research. arXiv preprint arXiv:2012.05345. [[paper](https://arxiv.org/pdf/2012.05345)] ![Data](https://img.shields.io/badge/t-data-blue)
+
+* Schneider, J. M., Rehm, G., Montiel-Ponsoda, E., Doncel, V. R., Revenko, A., Karampatakis, S., ... & Maganza, F. (2020, May). Orchestrating NLP Services for the Legal Domain. In Proceedings of the 12th Language Resources and Evaluation Conference (pp. 2332-2340). [[paper](https://aclanthology.org/2020.lrec-1.284)] ![Uncategorized](https://img.shields.io/badge/t-uncategorized-grey)
 
 * Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54-63. [[paper](http://arxiv.org/abs/1907.10597)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 
@@ -98,9 +111,13 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 
 * Lacoste A., Luccioni A., Schmidt V., & Dandres T. (2019). Quantifying the carbon emissions of machine learning. In Climate Change workshop, NeurIPS 2019. [[paper](https://arxiv.org/pdf/1910.09700.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
 
+* Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., ... & Gebru, T. (2019, January). Model cards for model reporting. In Proceedings of the conference on fairness, accountability, and transparency (pp. 220-229). [[paper](https://dl.acm.org/doi/pdf/10.1145/3287560.3287596)] ![Data](https://img.shields.io/badge/t-data-blue)
+
 * Monteiro, M. (2019). Ruined by design: How designers destroyed the world, and what we can do to fix it. Mule Design. ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 
 * Raji, I. D., & Yang, J. (2019). About ml: Annotation and benchmarking on understanding and transparency of machine learning lifecycles. arXiv preprint arXiv:1912.06166. [[paper](https://arxiv.org/pdf/1912.06166)] ![Data](https://img.shields.io/badge/t-data-blue)
+
+* Sap, M., Gabriel, S., Qin, L., Jurafsky, D., Smith, N. A., & Choi, Y. (2019). Social bias frames: Reasoning about social and power implications of language. arXiv preprint arXiv:1911.03891. [[paper](http://arxiv.org/abs/1911.03891)] ![Uncategorized](https://img.shields.io/badge/t-uncategorized-grey)
 
 * Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy considerations for deep learning in NLP. arXiv preprint arXiv:1906.02243. doi:10.18653/v1/P19-1355
 [[paper](https://www.aclweb.org/anthology/P19-1355)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
@@ -109,9 +126,16 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 
 * Bender, E. M., & Friedman, B. (2018). Data statements for natural language processing: Toward mitigating system bias and enabling better science. Transactions of the Association for Computational Linguistics, 6, 587-604 doi:10.1162/tacl\_a\_00041 [[paper](https://www.aclweb.org/anthology/Q18-1041)] ![Data](https://img.shields.io/badge/t-data-blue)
 
+* Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daumé III, H., & Crawford, K. (2018). Datasheets for datasets. arXiv preprint arXiv:1803.09010. [[paper](http://arxiv.org/abs/1803.09010)] ![Data](https://img.shields.io/badge/t-data-blue)
+
+* Holland, S., Hosny, A., Newman, S., Joseph, J., & Chmielinski, K. (2018). The dataset nutrition label: A framework to drive higher data quality standards. arXiv preprint arXiv:1805.03677.
+[[paper](https://arxiv.org/pdf/1805.03677.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
+
 ### 2017
 
 * Caliskan, A., Bryson, J. J., & Narayanan, A. (2017). Semantics derived automatically from language corpora contain human-like biases. Science, 356(6334), 183-186. ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
+
+* Mieskes, M. (2017, April). A quantitative study of data in the NLP community. In Proceedings of the first ACL workshop on ethics in natural language processing (pp. 23-29). [[paper](https://www.aclweb.org/anthology/W17-1603.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
 
 * Šuster, S., Tulkens, S., & Daelemans, W. (2017). A short review of ethical challenges in clinical natural language processing. arXiv preprint arXiv:1703.10090. [[paper](https://arxiv.org/pdf/1703.10090)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 
@@ -135,8 +159,24 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 
 ### 2014
 
+* Callison-Burch, C. (2014, September). Crowd-workers: Aggregating information across turkers to help them find higher paying work. In Proceedings of the AAAI Conference on Human Computation and Crowdsourcing (Vol. 2, No. 1). [[paper](https://ojs.aaai.org/index.php/HCOMP/article/download/13198/13046)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
+
 * Couillault, A., Fort, K., Adda, G., & De Mazancourt, H. (2014, May). Evaluating corpora documentation with regards to the ethics and big data charter. In International Conference on Language Resources and Evaluation (LREC). [[paper](https://hal.inria.fr/hal-00969180)] ![Data](https://img.shields.io/badge/t-data-blue)
 
+### 2013
+
+* Irani, L. C., & Silberman, M. S. (2013, April). Turkopticon: Interrupting worker invisibility in amazon mechanical turk. In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 611-620). [[paper](https://dl.acm.org/doi/pdf/10.1145/2470654.2470742)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
+
+### 2011
+
+* Bederson, B. B., & Quinn, A. J. (2011). Web workers unite! addressing challenges of online laborers. In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 97-106). ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
+
+* Fort, K., Adda, G., & Cohen, K. B. (2011). Amazon Mechanical Turk: Gold mine or coal mine?. Computational Linguistics, 37(2), 413-420. doi:10.1162/COLI\_a\_00057 [[paper](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00057)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
+
+### 2010
+
+* Snyder, J. (2010). Exploitation and sweatshop labor: Perspectives and issues. Business Ethics Quarterly, 20(2), 187-213.
+[[paper](https://crowdsourcing-class.org/readings/downloads/ethics/exploitation-and-sweatshop-labor.pdf)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
 
 
 
@@ -186,8 +226,6 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 
 * Tan, S., Joty, S., Kan, M. Y., & Socher, R. (2020). It's Morphin'Time! Combating Linguistic Discrimination with Inflectional Perturbations. arXiv preprint arXiv:2005.04364. [[paper](https://arxiv.org/pdf/2005.04364)]
 
-#### 2010–2019
-
 * Bender, E. M. (2019). The #benderrule: On naming the languages we study and why it matters. The Gradient, 14. [[paper](http://faculty.washington.edu/ebender/papers/BenderRule_TheGradient-refs.pdf)]
 
 * Garimella, A., Banea, C., Hovy, D., & Mihalcea, R. (2019, July). Women’s syntactic resilience and men’s grammatical luck: Gender-Bias in Part-of-Speech Tagging and Dependency Parsing. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (pp. 3493-3498). [[paper](https://aclanthology.org/P19-1339.pdf)]
@@ -215,53 +253,7 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 
 
 
-* Lannelongue, L., Grealey, J., & Inouye, M. (2021). Green algorithms: Quantifying the carbon footprint of computation. Advanced Science, 2100707. doi:10.1002/advs.202100707
-[[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202100707)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
 
-* Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J. (2020). Towards the systematic reporting of the energy and carbon footprints of machine learning. Journal of Machine Learning Research, 21(248), 1-43. [[paper](https://www.jmlr.org/papers/volume21/20-312/20-312.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
 
 * Dodge, J., Sap, M., Marasovic, A., Agnew, W., Ilharco, G., Groeneveld, D., ... & Face, H. Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus.
 [[paper](https://homes.cs.washington.edu/~msap/pdfs/dodge2021documentingC4.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
-
-* Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daumé III, H., & Crawford, K. (2018). Datasheets for datasets. arXiv preprint arXiv:1803.09010. [[paper](http://arxiv.org/abs/1803.09010)] ![Data](https://img.shields.io/badge/t-data-blue)
-
-
-* Holland, S., Hosny, A., Newman, S., Joseph, J., & Chmielinski, K. (2018). The dataset nutrition label: A framework to drive higher data quality standards. arXiv preprint arXiv:1805.03677.
-[[paper](https://arxiv.org/pdf/1805.03677.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
-
-
-* Mieskes, M. (2017, April). A quantitative study of data in the NLP community. In Proceedings of the first ACL workshop on ethics in natural language processing (pp. 23-29). [[paper](https://www.aclweb.org/anthology/W17-1603.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
-
-* Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., ... & Gebru, T. (2019, January). Model cards for model reporting. In Proceedings of the conference on fairness, accountability, and transparency (pp. 220-229). [[paper](https://dl.acm.org/doi/pdf/10.1145/3287560.3287596)] ![Data](https://img.shields.io/badge/t-data-blue)
-
-
-
-
-### Crowdsourcing Issues
-
-#### 2020–2021
-
-* Caswell, I., Kreutzer, J., Wang, L., Wahab, A., van Esch, D., Ulzii-Orshikh, N., ... & Adeyemi, M. (2021). Quality at a glance: An audit of web-crawled multilingual datasets. arXiv preprint arXiv:2103.12028. [[paper](https://arxiv.org/pdf/2103.12028)]
-
-* Kummerfeld, J. K. (2021). Quantifying and Avoiding Unfair Qualification Labour in Crowdsourcing. arXiv preprint arXiv:2105.12762. [[paper](https://arxiv.org/pdf/2105.12762)]
-
-* Shmueli, B., Fell, J., Ray, S., & Ku, L. W. (2021). Beyond fair pay: Ethical implications of NLP crowdsourcing. arXiv preprint arXiv:2104.10097. [[paper](https://arxiv.org/pdf/2104.10097)]
-
-#### 2010–2019
-
-* Callison-Burch, C. (2014, September). Crowd-workers: Aggregating information across turkers to help them find higher paying work. In Proceedings of the AAAI Conference on Human Computation and Crowdsourcing (Vol. 2, No. 1). [[paper](https://ojs.aaai.org/index.php/HCOMP/article/download/13198/13046)]
-
-* Irani, L. C., & Silberman, M. S. (2013, April). Turkopticon: Interrupting worker invisibility in amazon mechanical turk. In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 611-620). [[paper](https://dl.acm.org/doi/pdf/10.1145/2470654.2470742)]
-
-* Bederson, B. B., & Quinn, A. J. (2011). Web workers unite! addressing challenges of online laborers. In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 97-106).
-
-* Fort, K., Adda, G., & Cohen, K. B. (2011). Amazon Mechanical Turk: Gold mine or coal mine?. Computational Linguistics, 37(2), 413-420. doi:10.1162/COLI\_a\_00057 [[paper](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00057)]
-
-* Snyder, J. (2010). Exploitation and sweatshop labor: Perspectives and issues. Business Ethics Quarterly, 20(2), 187-213.
-[[paper](https://crowdsourcing-class.org/readings/downloads/ethics/exploitation-and-sweatshop-labor.pdf)]
-
-### Uncategorized
-
-* Schneider, J. M., Rehm, G., Montiel-Ponsoda, E., Doncel, V. R., Revenko, A., Karampatakis, S., ... & Maganza, F. (2020, May). Orchestrating NLP Services for the Legal Domain. In Proceedings of the 12th Language Resources and Evaluation Conference (pp. 2332-2340). [[paper](https://aclanthology.org/2020.lrec-1.284)]
-
-* Sap, M., Gabriel, S., Qin, L., Jurafsky, D., Smith, N. A., & Choi, Y. (2019). Social bias frames: Reasoning about social and power implications of language. arXiv preprint arXiv:1911.03891. [[paper](http://arxiv.org/abs/1911.03891)]
