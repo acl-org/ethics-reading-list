@@ -23,7 +23,7 @@ _Last Updated: 2022 Feb 24_
 * ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 * ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
 * ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)
-* [Biases](#biases)
+* ![Biases](https://img.shields.io/badge/t-biases-pink)
 * [Language Variation](#language-variation)
 * ![Dual Use](https://img.shields.io/badge/t-dual%20use-purple)
 * ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
@@ -32,6 +32,8 @@ _Last Updated: 2022 Feb 24_
 * ![Uncategorized](https://img.shields.io/badge/t-uncategorized-grey)
 
 ### 2021
+
+* Aka, O., Burke, K., Bäuerle, A., Greer, C., & Mitchell, M. (2021). Measuring Model Biases in the Absence of Ground Truth. arXiv preprint arXiv:2103.03417. [[paper](https://arxiv.org/abs/2103.03417)] ![Biases](https://img.shields.io/badge/t-biases-pink)
 
 * Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 610-623). doi:10.1145/3442188.3445922 [[paper](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)
 
@@ -58,6 +60,9 @@ _Last Updated: 2022 Feb 24_
 
 * Bird, S. (2020, December). Decolonising speech and language technology. In Proceedings of the 28th International Conference on Computational Linguistics (pp. 3504-3519). doi:10.18653/v1/2020.coling-main.313
 [[paper](https://www.aclweb.org/anthology/2020.coling-main.313)] ![Data](https://img.shields.io/badge/t-data-blue)
+
+* Blodgett, S. L., Barocas, S., Daumé III, H., & Wallach, H. (2020). Language (technology) is power: A critical survey of "bias" in NLP. arXiv preprint arXiv:2005.14050. doi:10.18653/v1/2020.acl-main.485
+[[paper](https://www.aclweb.org/anthology/2020.acl-main.485)] ![Biases](https://img.shields.io/badge/t-biases-pink)
 
 * Bonastre, J. F. (2020). 1990-2020: retours sur 30 ans d’échanges autour de l’identification de voix en milieu judiciaire. In 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). 2e atelier Éthique et TRaitemeNt Automatique des Langues (ETeRNAL) (pp. 38-47). ATALA; AFCP. [[paper](https://aclanthology.org/2020.jeptalnrecital-eternal.5/)] ![Dual Use](https://img.shields.io/badge/t-dual%20use-purple)
 
@@ -87,7 +92,11 @@ doi:10.18653/v1/2020.acl-main.560
 * Mathur, N., Baldwin, T., & Cohn, T. (2020). Tangled up in BLEU: Reevaluating the evaluation of automatic machine translation evaluation metrics. arXiv preprint arXiv:2006.06264. doi:10.18653/v1/2020.acl-main.448
 [[paper](https://www.aclweb.org/anthology/2020.acl-main.448)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
 
+* Mohammad, S. M. (2020). Gender gap in natural language processing research: Disparities in authorship and citations. arXiv preprint arXiv:2005.00962. doi:10.18653/v1/2020.acl-main.702 [[paper](https://www.aclweb.org/anthology/2020.acl-main.702)] ![Biases](https://img.shields.io/badge/t-biases-pink)
+
 * Nangia, N., Vania, C., Bhalerao, R., & Bowman, S. R. (2020). CrowS-pairs: A challenge dataset for measuring social biases in masked language models. arXiv preprint arXiv:2010.00133. doi:10.18653/v1/2020.emnlp-main.154 [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.154)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
+
+* Nissim, M., van Noord, R., & van der Goot, R. (2020). Fair is better than sensational: Man is to doctor as woman is to doctor. Computational Linguistics, 46(2), 487-497. doi:10.1162/coli\_a\_00379 [[paper](https://www.aclweb.org/anthology/2020.cl-2.7)] ![Biases](https://img.shields.io/badge/t-biases-pink)
 
 * Paullada, A., Raji, I. D., Bender, E. M., Denton, E., & Hanna, A. (2020). Data and its (dis) contents: A survey of dataset development and use in machine learning research. arXiv preprint arXiv:2012.05345. [[paper](https://arxiv.org/pdf/2012.05345)] ![Data](https://img.shields.io/badge/t-data-blue)
 
@@ -129,10 +138,16 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 
 * Bender, E. M., & Friedman, B. (2018). Data statements for natural language processing: Toward mitigating system bias and enabling better science. Transactions of the Association for Computational Linguistics, 6, 587-604 doi:10.1162/tacl\_a\_00041 [[paper](https://www.aclweb.org/anthology/Q18-1041)] ![Data](https://img.shields.io/badge/t-data-blue)
 
+* Curry, A. C., & Rieser, V. (2018, June). # MeToo Alexa: How conversational systems respond to sexual harassment. In Proceedings of the second ACL workshop on ethics in natural language processing (pp. 7-14). [[paper](https://www.aclweb.org/anthology/W18-0802.pdf)] ![Biases](https://img.shields.io/badge/t-biases-pink)
+
+* Fort, K., & Névéol, A. (2018, January). Présence et représentation des femmes dans le traitement automatique des langues en France. In Penser la Recherche en Informatique comme pouvant être Située, Multidisciplinaire Et Genrée (PRISME-G). [[paper](https://hal.archives-ouvertes.fr/hal-01683774)] ![Biases](https://img.shields.io/badge/t-biases-pink)
+
 * Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daumé III, H., & Crawford, K. (2018). Datasheets for datasets. arXiv preprint arXiv:1803.09010. [[paper](http://arxiv.org/abs/1803.09010)] ![Data](https://img.shields.io/badge/t-data-blue)
 
 * Holland, S., Hosny, A., Newman, S., Joseph, J., & Chmielinski, K. (2018). The dataset nutrition label: A framework to drive higher data quality standards. arXiv preprint arXiv:1805.03677.
 [[paper](https://arxiv.org/pdf/1805.03677.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
+
+* Schluter, N. (2018). The glass ceiling in NLP. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (pp. 2793-2798). doi:10.18653/v1/D18-1301 [[paper](https://www.aclweb.org/anthology/D18-1301)] ![Biases](https://img.shields.io/badge/t-biases-pink)
 
 ### 2017
 
@@ -146,9 +161,13 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 
 * Amblard, M. (2016). Pour un TAL responsable. Traitement Automatique des Langues, 57(2), 21-45. [[paper](https://hal.inria.fr/hal-01414145)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 
+* Clark, J. (2016). Artificial intelligence has a ‘sea of dudes’ problem. Bloomberg Technology, 23. ![Biases](https://img.shields.io/badge/t-biases-pink)
+
 * Fort, K., & Couillault, A. (2016, May). Yes, we care! results of the ethics and natural language processing surveys. In international Language Resources and Evaluation Conference (LREC) 2016. [[paper](https://hal.inria.fr/hal-01287467/file/EthicsAndNLPSurveys.pdf)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 
 * Hovy, D., & Spruit, S. L. (2016, August). The social impact of natural language processing. In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (pp. 591-598) doi:10.18653/v1/P16-2096. [[paper](https://www.aclweb.org/anthology/P16-2096)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
+
+* Larson, J., Angwin, J., & Parris, T. (2016). Breaking the black box: How machines learn to be racist. _ProPublica_. ![Biases](https://img.shields.io/badge/t-biases-pink)
 
 * Lefeuvre-Halftermeyer, A., Govaere, V., Antoine, J. Y., Allegre, W., Pouplin, S., Departe, J. P., ... & Spagnulo, A. (2016). Typologie des risques pour une analyse éthique de l'impact des technologies du TAL. Traitement Automatique des Langues, 57(2), 47-71.
 [[paper](https://hal.archives-ouvertes.fr/hal-01501192)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
@@ -183,35 +202,6 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 
 
 
-
-
-### Biases
-
-#### 2020–2021
-
-* Aka, O., Burke, K., Bäuerle, A., Greer, C., & Mitchell, M. (2021). Measuring Model Biases in the Absence of Ground Truth. arXiv preprint arXiv:2103.03417. [[paper](https://arxiv.org/abs/2103.03417)]
-
-* Blodgett, S. L., Barocas, S., Daumé III, H., & Wallach, H. (2020). Language (technology) is power: A critical survey of" bias" in NLP. arXiv preprint arXiv:2005.14050. doi:10.18653/v1/2020.acl-main.485
-[[paper](https://www.aclweb.org/anthology/2020.acl-main.485)]
-
-* Mohammad, S. M. (2020). Gender gap in natural language processing research: Disparities in authorship and citations. arXiv preprint arXiv:2005.00962. doi:10.18653/v1/2020.acl-main.702 [[paper](https://www.aclweb.org/anthology/2020.acl-main.702)]
-
-* Nissim, M., van Noord, R., & van der Goot, R. (2020). Fair is better than sensational: Man is to doctor as woman is to doctor. Computational Linguistics, 46(2), 487-497. doi:10.1162/coli\_a\_00379 [[paper](https://www.aclweb.org/anthology/2020.cl-2.7)]
-
-#### 2010–2019
-
-* Curry, A. C., & Rieser, V. (2018, June). # MeToo Alexa: How conversational systems respond to sexual harassment. In Proceedings of the second ACL workshop on ethics in natural language processing (pp. 7-14).
-[[paper](https://www.aclweb.org/anthology/W18-0802.pdf)]
-
-* Fort, K., & Névéol, A. (2018, January). Présence et représentation des femmes dans le traitement automatique des langues en France. In Penser la Recherche en Informatique comme pouvant être Située, Multidisciplinaire Et Genrée (PRISME-G).
-[[paper](https://hal.archives-ouvertes.fr/hal-01683774)]
-
-* Schluter, N. (2018). The glass ceiling in NLP. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (pp. 2793-2798). doi:10.18653/v1/D18-1301
-[[paper](https://www.aclweb.org/anthology/D18-1301)]
-
-* Larson, J., Angwin, J., & Parris, T. (2016). Breaking the black box: How machines learn to be racist. _ProPublica_.
-
-* Clark, J. (2016). Artificial intelligence has a ‘sea of dudes’ problem. Bloomberg Technology, 23.
 
 ### Language Variation
 
