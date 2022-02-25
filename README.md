@@ -21,7 +21,7 @@ _Last Updated: 2022 Feb 24_
 * [Karën Fort](https://members.loria.fr/KFort/) (Sorbonne Université)
 * [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy) (National University of Singapore)
 
-# Contents
+# [Contents]
 
 * [2022](#2022)
 * [2021](#2021)
