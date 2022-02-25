@@ -20,16 +20,16 @@ _Last Updated: 2022 Feb 24_
 * [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy) (National University of Singapore)
 
 # Contents
-* [General Resources](#general-resources)
-* [Evaluation](#evaluation)
-* [Model Issues](#model-issues)
+* ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
+* ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
+* ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)
 * [Biases](#biases)
 * [Language Variation](#language-variation)
-* [Dual-Use](#dual-use)
-* [Environmental Impact](#environmental-impact)
-* [Data](#data)
-* [Crowdsourcing Issues](#crowdsourcing-issues)
-* [Uncategorized](#uncategorized)
+* ![Dual Use](https://img.shields.io/badge/t-dual%20use-purple)
+* ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
+* ![Data](https://img.shields.io/badge/t-data-blue)
+* ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
+* ![Uncategorized](https://img.shields.io/badge/t-uncategorized-grey)
 
 ### 2021
 
@@ -38,6 +38,9 @@ _Last Updated: 2022 Feb 24_
 * Birhane, A., Prabhu, V. U., & Kahembwe, E. (2021). Multimodal datasets: misogyny, pornography, and malignant stereotypes. arXiv preprint arXiv:2110.01963. [[paper](https://arxiv.org/pdf/2110.01963)] ![Data](https://img.shields.io/badge/t-data-blue)
 
 * Caswell, I., Kreutzer, J., Wang, L., Wahab, A., van Esch, D., Ulzii-Orshikh, N., ... & Adeyemi, M. (2021). Quality at a glance: An audit of web-crawled multilingual datasets. arXiv preprint arXiv:2103.12028. [[paper](https://arxiv.org/pdf/2103.12028)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
+
+* Dodge, J., Sap, M., Marasovic, A., Agnew, W., Ilharco, G., Groeneveld, D., ... & Face, H. (2021, September). Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus.
+[[paper](https://homes.cs.washington.edu/~msap/pdfs/dodge2021documentingC4.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
 
 * Kummerfeld, J. K. (2021). Quantifying and Avoiding Unfair Qualification Labour in Crowdsourcing. arXiv preprint arXiv:2105.12762. [[paper](https://arxiv.org/pdf/2105.12762)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
 
@@ -243,17 +246,3 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 * Jørgensen, A., Hovy, D., & Søgaard, A. (2015, July). Challenges of studying and processing dialects in social media. In Proceedings of the workshop on noisy user-generated text (pp. 9-18). [[paper](https://www.aclweb.org/anthology/W15-4302.pdf)]
 
 * Hovy, D., & Søgaard, A. (2015, July). Tagging performance correlates with author age. In Proceedings of the 53rd annual meeting of the Association for Computational Linguistics and the 7th international joint conference on natural language processing (volume 2: Short papers) (pp. 483-488). [[paper](https://www.aclweb.org/anthology/P15-2079.pdf)]
-
-
-
-
-
-
-
-
-
-
-
-
-* Dodge, J., Sap, M., Marasovic, A., Agnew, W., Ilharco, G., Groeneveld, D., ... & Face, H. Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus.
-[[paper](https://homes.cs.washington.edu/~msap/pdfs/dodge2021documentingC4.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
