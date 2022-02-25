@@ -60,6 +60,8 @@ We have tagged papers with several general tags.  These are indicative tags and 
 
 * Aka, O., Burke, K., Bäuerle, A., Greer, C., & Mitchell, M. (2021). Measuring Model Biases in the Absence of Ground Truth. arXiv preprint arXiv:2103.03417. [[paper](https://arxiv.org/abs/2103.03417)] ![Biases](https://img.shields.io/badge/t-biases-pink)
 
+* Nesrine Bannour, Sahar Ghannay, Aurélie Névéol, and Anne-Laure Ligozat. 2021. Evaluating the carbon footprint of NLP methods: a survey and analysis of existing tools. In Proceedings of the Second Workshop on Simple and Efficient Natural Language Processing, pages 11–21, Virtual. Association for Computational Linguistics. [[paper](https://aclanthology.org/2021.sustainlp-1.2.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
+
 * Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 610-623). doi:10.1145/3442188.3445922 [[paper](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow) ![Biases](https://img.shields.io/badge/t-biases-pink)
 
 * Birhane, A., Prabhu, V. U., & Kahembwe, E. (2021). Multimodal datasets: misogyny, pornography, and malignant stereotypes. arXiv preprint arXiv:2110.01963. [[paper](https://arxiv.org/pdf/2110.01963)] ![Data](https://img.shields.io/badge/t-data-blue)
@@ -226,7 +228,7 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 * Lefeuvre-Halftermeyer, A., Govaere, V., Antoine, J. Y., Allegre, W., Pouplin, S., Departe, J. P., ... & Spagnulo, A. (2016). Typologie des risques pour une analyse éthique de l'impact des technologies du TAL. Traitement Automatique des Langues, 57(2), 47-71.
 [[paper](https://hal.archives-ouvertes.fr/hal-01501192)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 
-* Mathet, Y., & Widlöcher, A. (2016). Évaluation des annotations: ses principes et ses pièges. Traitement Automatique des Langues, 57(2), 73-98. [[paper](https://hal.archives-ouvertes.fr/hal-01712282)] [![Evaluation](https://img.shields.io/badge/t-evaluation-orange)] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)
+* Mathet, Y., & Widlöcher, A. (2016). Évaluation des annotations: ses principes et ses pièges. Traitement Automatique des Langues, 57(2), 73-98. [[paper](https://hal.archives-ouvertes.fr/hal-01712282)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
 
 ### 2015
 [[Contents](#contents)]
