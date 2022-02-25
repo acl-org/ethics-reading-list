@@ -41,7 +41,6 @@ _Last Updated: 2022 Feb 24_
 We have tagged papers with several general tags.  These are indicative tags and not comprehensive.  We accept pull requests to change them!
 
 ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
-![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
 ![Biases](https://img.shields.io/badge/t-biases-pink)
 ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
 ![Data](https://img.shields.io/badge/t-data-blue)
