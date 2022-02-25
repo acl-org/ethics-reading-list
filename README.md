@@ -220,7 +220,7 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 
 * Mathet, Y., & Widlöcher, A. (2016). Évaluation des annotations: ses principes et ses pièges. Traitement Automatique des Langues, 57(2), 73-98. [[paper](https://hal.archives-ouvertes.fr/hal-01712282)] [![Evaluation](https://img.shields.io/badge/t-evaluation-orange)] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)
 
-### 2015
+### 2015 [#contents]
 
 * Ferraro, F., Mostafazadeh, N., Vanderwende, L., Devlin, J., Galley, M., & Mitchell, M. (2015). A survey of current datasets for vision and language research. arXiv preprint arXiv:1506.06833. doi:10.18653/v1/D15-1021
 [[paper](https://www.aclweb.org/anthology/D15-1021)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
@@ -229,7 +229,7 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 
 * Jørgensen, A., Hovy, D., & Søgaard, A. (2015, July). Challenges of studying and processing dialects in social media. In Proceedings of the workshop on noisy user-generated text (pp. 9-18). [[paper](https://www.aclweb.org/anthology/W15-4302.pdf)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
 
-### 2014
+### 2014 [#contents]
 
 * Callison-Burch, C. (2014, September). Crowd-workers: Aggregating information across turkers to help them find higher paying work. In Proceedings of the AAAI Conference on Human Computation and Crowdsourcing (Vol. 2, No. 1). [[paper](https://ojs.aaai.org/index.php/HCOMP/article/download/13198/13046)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
 
