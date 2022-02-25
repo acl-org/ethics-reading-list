@@ -12,9 +12,10 @@ _Last Updated: 2022 Feb 24_
 * Add your name to the [contributors](#contributors) section as part of your PR.  Include an affiliation and a weblink if you'd like.
 * References follow a two-tier organization: by year, then by first-author surname.  #tag papers with topics so that they can be found on a per topic basis.
 * Use APA style where possible.
-* Add minimally a `paper` link to direct readers directly to the `.pdf` or metadata page (arXiv or ACL Anthology) of the paper.
+* Add minimally a `paper` link to direct readers directly to the `.pdf` or metadata page (ACL Anthology for example) of the paper.
 * Papers are organized by tags.  We accept PRs to add or re-organize tags.  Please help tag your own papers!
 * Update the ``Last Updated'' datestamp above.
+* Prefer peer-reviewed conference or journal reference and link to ArXiv whenever possible.
 
 
 ### Contributed by
@@ -59,7 +60,7 @@ We have tagged papers with several general tags.  These are indicative tags and 
 
 * Aka, O., Burke, K., Bäuerle, A., Greer, C., & Mitchell, M. (2021). Measuring Model Biases in the Absence of Ground Truth. arXiv preprint arXiv:2103.03417. [[paper](https://arxiv.org/abs/2103.03417)] ![Biases](https://img.shields.io/badge/t-biases-pink)
 
-* Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 610-623). doi:10.1145/3442188.3445922 [[paper](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)
+* Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 610-623). doi:10.1145/3442188.3445922 [[paper](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow) ![Biases](https://img.shields.io/badge/t-biases-pink)
 
 * Birhane, A., Prabhu, V. U., & Kahembwe, E. (2021). Multimodal datasets: misogyny, pornography, and malignant stereotypes. arXiv preprint arXiv:2110.01963. [[paper](https://arxiv.org/pdf/2110.01963)] ![Data](https://img.shields.io/badge/t-data-blue)
 
