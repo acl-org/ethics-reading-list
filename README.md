@@ -41,7 +41,7 @@ _Last Updated: 2022 Feb 24_
 We have tagged papers with several general tags.  These are indicative tags and not comprehensive.  We accept pull requests to change them!
 
 ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
-* [Language Variation](#language-variation)
+![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
 ![Biases](https://img.shields.io/badge/t-biases-pink)
 ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
 ![Data](https://img.shields.io/badge/t-data-blue)
@@ -52,7 +52,11 @@ We have tagged papers with several general tags.  These are indicative tags and 
 ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)
 ![Uncategorized](https://img.shields.io/badge/t-uncategorized-grey)
 
+### 2022
+[[Contents](#contents)]
+
 ### 2021
+[[Contents](#contents)]
 
 * Aka, O., Burke, K., Bäuerle, A., Greer, C., & Mitchell, M. (2021). Measuring Model Biases in the Absence of Ground Truth. arXiv preprint arXiv:2103.03417. [[paper](https://arxiv.org/abs/2103.03417)] ![Biases](https://img.shields.io/badge/t-biases-pink)
 
@@ -84,6 +88,7 @@ doi:10.18653/v1/2021.acl-long.321
 [[paper](https://aclanthology.org/2021.acl-long.321/)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
 
 ### 2020
+[[Contents](#contents)]
 
 * Anthony, L. F. W., Kanding, B., & Selvan, R. (2020). Carbontracker: Tracking and predicting the carbon footprint of training deep learning models. arXiv preprint arXiv:2007.03051. [[paper](https://arxiv.org/pdf/2007.03051)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
 
@@ -145,8 +150,8 @@ doi:10.18653/v1/2020.acl-main.560
 * Vidgen, B., & Derczynski, L. (2020). Directions in abusive language training data, a systematic review: Garbage in, garbage out. PloS one, 15(12), e0243300.
 [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243300)] ![Data](https://img.shields.io/badge/t-data-blue)
 
-
 ### 2019
+[[Contents](#contents)]
 
 * Bender, E. M. (2019). The # benderrule: On naming the languages we study and why it matters. The Gradient, 14. [[paper](http://faculty.washington.edu/ebender/papers/BenderRule_TheGradient-refs.pdf)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
 
@@ -175,6 +180,7 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 * Zmigrod, R., Mielke, S. J., Wallach, H., & Cotterell, R. (2019). Counterfactual data augmentation for mitigating gender stereotypes in languages with rich morphology. arXiv preprint arXiv:1906.04571. [[paper](https://aclanthology.org/P19-1161.pdf)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
 
 ### 2018
+[[Contents](#contents)]
 
 * Bender, E. M., & Friedman, B. (2018). Data statements for natural language processing: Toward mitigating system bias and enabling better science. Transactions of the Association for Computational Linguistics, 6, 587-604 doi:10.1162/tacl\_a\_00041 [[paper](https://www.aclweb.org/anthology/Q18-1041)] ![Data](https://img.shields.io/badge/t-data-blue)
 
@@ -192,6 +198,7 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 * Schluter, N. (2018). The glass ceiling in NLP. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (pp. 2793-2798). doi:10.18653/v1/D18-1301 [[paper](https://www.aclweb.org/anthology/D18-1301)] ![Biases](https://img.shields.io/badge/t-biases-pink)
 
 ### 2017
+[[Contents](#contents)]
 
 * Caliskan, A., Bryson, J. J., & Narayanan, A. (2017). Semantics derived automatically from language corpora contain human-like biases. Science, 356(6334), 183-186. ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
 
@@ -204,6 +211,7 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 * Tatman, R. (2017, April). Gender and dialect bias in YouTube’s automatic captions. In Proceedings of the First ACL Workshop on Ethics in Natural Language Processing (pp. 53-59). [[paper](https://www.aclweb.org/anthology/W17-1606.pdf)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
 
 ### 2016
+[[Contents](#contents)]
 
 * Amblard, M. (2016). Pour un TAL responsable. Traitement Automatique des Langues, 57(2), 21-45. [[paper](https://hal.inria.fr/hal-01414145)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 
@@ -220,7 +228,8 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 
 * Mathet, Y., & Widlöcher, A. (2016). Évaluation des annotations: ses principes et ses pièges. Traitement Automatique des Langues, 57(2), 73-98. [[paper](https://hal.archives-ouvertes.fr/hal-01712282)] [![Evaluation](https://img.shields.io/badge/t-evaluation-orange)] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)
 
-### 2015 [#contents]
+### 2015
+[[Contents](#contents)]
 
 * Ferraro, F., Mostafazadeh, N., Vanderwende, L., Devlin, J., Galley, M., & Mitchell, M. (2015). A survey of current datasets for vision and language research. arXiv preprint arXiv:1506.06833. doi:10.18653/v1/D15-1021
 [[paper](https://www.aclweb.org/anthology/D15-1021)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
@@ -229,23 +238,27 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 
 * Jørgensen, A., Hovy, D., & Søgaard, A. (2015, July). Challenges of studying and processing dialects in social media. In Proceedings of the workshop on noisy user-generated text (pp. 9-18). [[paper](https://www.aclweb.org/anthology/W15-4302.pdf)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
 
-### 2014 [[Contents](#contents)]
+### 2014
+[[Contents](#contents)]
 
 * Callison-Burch, C. (2014, September). Crowd-workers: Aggregating information across turkers to help them find higher paying work. In Proceedings of the AAAI Conference on Human Computation and Crowdsourcing (Vol. 2, No. 1). [[paper](https://ojs.aaai.org/index.php/HCOMP/article/download/13198/13046)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
 
 * Couillault, A., Fort, K., Adda, G., & De Mazancourt, H. (2014, May). Evaluating corpora documentation with regards to the ethics and big data charter. In International Conference on Language Resources and Evaluation (LREC). [[paper](https://hal.inria.fr/hal-00969180)] ![Data](https://img.shields.io/badge/t-data-blue)
 
 ### 2013
+[[Contents](#contents)]
 
 * Irani, L. C., & Silberman, M. S. (2013, April). Turkopticon: Interrupting worker invisibility in amazon mechanical turk. In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 611-620). [[paper](https://dl.acm.org/doi/pdf/10.1145/2470654.2470742)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
 
 ### 2011
+[[Contents](#contents)]
 
 * Bederson, B. B., & Quinn, A. J. (2011). Web workers unite! addressing challenges of online laborers. In CHI'11 Extended Abstracts on Human Factors in Computing Systems (pp. 97-106). ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
 
 * Fort, K., Adda, G., & Cohen, K. B. (2011). Amazon Mechanical Turk: Gold mine or coal mine?. Computational Linguistics, 37(2), 413-420. doi:10.1162/COLI\_a\_00057 [[paper](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00057)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
 
 ### 2010
+[[Contents](#contents)]
 
 * Snyder, J. (2010). Exploitation and sweatshop labor: Perspectives and issues. Business Ethics Quarterly, 20(2), 187-213.
 [[paper](https://crowdsourcing-class.org/readings/downloads/ethics/exploitation-and-sweatshop-labor.pdf)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
