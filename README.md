@@ -35,7 +35,19 @@ _Last Updated: 2022 Feb 24_
 
 * Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 610-623). doi:10.1145/3442188.3445922 [[paper](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)
 
+* Birhane, A., Prabhu, V. U., & Kahembwe, E. (2021). Multimodal datasets: misogyny, pornography, and malignant stereotypes. arXiv preprint arXiv:2110.01963. [[paper](https://arxiv.org/pdf/2110.01963)] ![Data](https://img.shields.io/badge/t-data-blue)
+
+* Moss, E., Watkins, E. A., Singh, R., Elish, M. C., & Metcalf, J. (2021). Assembling Accountability: Algorithmic Impact Assessment for the Public Interest. Available at SSRN 3877437.
+[[paper](https://apo.org.au/sites/default/files/resource-files/2021-06/apo-nid313046.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
+
 ### 2020
+
+* Anthony, L. F. W., Kanding, B., & Selvan, R. (2020). Carbontracker: Tracking and predicting the carbon footprint of training deep learning models. arXiv preprint arXiv:2007.03051. [[paper](https://arxiv.org/pdf/2007.03051)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
+
+* Bird, S. (2020, December). Decolonising speech and language technology. In Proceedings of the 28th International Conference on Computational Linguistics (pp. 3504-3519). doi:10.18653/v1/2020.coling-main.313
+[[paper](https://www.aclweb.org/anthology/2020.coling-main.313)] ![Data](https://img.shields.io/badge/t-data-blue)
+
+* Bonastre, J. F. (2020). 1990-2020: retours sur 30 ans d’échanges autour de l’identification de voix en milieu judiciaire. In 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). 2e atelier Éthique et TRaitemeNt Automatique des Langues (ETeRNAL) (pp. 38-47). ATALA; AFCP. [[paper](https://aclanthology.org/2020.jeptalnrecital-eternal.5/)] ![Dual Use](https://img.shields.io/badge/t-dual%20use-purple)
 
 * Caglayan, O., Madhyastha, P., & Specia, L. (2020). Curious case of language generation evaluation metrics: A cautionary tale. arXiv preprint arXiv:2010.13588. doi:10.18653/v1/2020.coling-main.210
 [[paper](https://www.aclweb.org/anthology/2020.coling-main.210)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
@@ -49,6 +61,13 @@ _Last Updated: 2022 Feb 24_
 
 * Goldfarb-Tarrant, S., Marchant, R., Sanchez, R. M., Pandya, M., & Lopez, A. (2020). Intrinsic bias metrics do not correlate with application bias. ACL 2021 [[paper](https://aclanthology.org/2021.acl-long.150/)]. ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
 
+* Jo, E. S., & Gebru, T. (2020, January). Lessons from archives: Strategies for collecting sociocultural data in machine learning. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 306-316).
+[[paper](https://dl.acm.org/doi/pdf/10.1145/3351095.3372829)] ![Data](https://img.shields.io/badge/t-data-blue)
+
+* Joshi, P., Santy, S., Budhiraja, A., Bali, K., & Choudhury, M. (2020). The state and fate of linguistic diversity and inclusion in the NLP world. arXiv preprint arXiv:2004.09095.
+doi:10.18653/v1/2020.acl-main.560
+[[paper](https://www.aclweb.org/anthology/2020.acl-main.560)] ![Data](https://img.shields.io/badge/t-data-blue)
+
 * Linzen, T. (2020). How can we accelerate progress towards human-like linguistic generalization?. arXiv preprint arXiv:2005.00955. doi:10.18653/v1/2020.acl-main.465 [[paper](https://www.aclweb.org/anthology/2020.acl-main.465)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
 
 * Mathur, N., Baldwin, T., & Cohn, T. (2020). Tangled up in BLEU: Reevaluating the evaluation of automatic machine translation evaluation metrics. arXiv preprint arXiv:2006.06264. doi:10.18653/v1/2020.acl-main.448
@@ -56,17 +75,39 @@ _Last Updated: 2022 Feb 24_
 
 * Nangia, N., Vania, C., Bhalerao, R., & Bowman, S. R. (2020). CrowS-pairs: A challenge dataset for measuring social biases in masked language models. arXiv preprint arXiv:2010.00133. doi:10.18653/v1/2020.emnlp-main.154 [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.154)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
 
+* Paullada, A., Raji, I. D., Bender, E. M., Denton, E., & Hanna, A. (2020). Data and its (dis) contents: A survey of dataset development and use in machine learning research. arXiv preprint arXiv:2012.05345. [[paper](https://arxiv.org/pdf/2012.05345)] ![Data](https://img.shields.io/badge/t-data-blue)
+
 * Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54-63. [[paper](http://arxiv.org/abs/1907.10597)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 
 * Tan, S., Joty, S., Baxter, K., Taeihagh, A., Bennett, G. A., & Kan, M. Y. (2021). Reliability Testing for Natural Language Processing Systems. arXiv preprint arXiv:2105.02590.
 doi:10.18653/v1/2021.acl-long.321
-[[paper](https://aclanthology.org/2021.acl-long.321/) ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
+[[paper](https://aclanthology.org/2021.acl-long.321/)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
+
+* Trebaol, M. J. T., Hartley, M.-A., & Ghadikolaei, H. S. (2020). A tool to quantify and report the carbon footprint of machine learning computations and communication in academia and healthcare. Infoscience EPFL: record 278189. [[report](https://infoscience.epfl.ch/record/278189/files/Msc_semester_project_report_TTre%CC%81baol_cumulator.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
+
+* Vidgen, B., & Derczynski, L. (2020). Directions in abusive language training data, a systematic review: Garbage in, garbage out. PloS one, 15(12), e0243300.
+[[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243300)] ![Data](https://img.shields.io/badge/t-data-blue)
+
 
 ### 2019
 
 * Bregeon, D., Antoine, J. Y., Villaneau, J., & Lefeuvre-Halftermeyer, A. (2019). Redonner du sens à l’accord interannotateurs: vers une interprétation des mesures d’accord en termes de reproductibilité de l’annotation. Traitement Automatique des Langues, 60(2), 23.  [[paper](https://hal.archives-ouvertes.fr/hal-02375240)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
 
+* Kann, K., Cho, K., & Bowman, S. R. (2019). Towards realistic practices in low-resource natural language processing: the development set. arXiv preprint arXiv:1909.01522.
+doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![Data](https://img.shields.io/badge/t-data-blue)
+
+* Lacoste A., Luccioni A., Schmidt V., & Dandres T. (2019). Quantifying the carbon emissions of machine learning. In Climate Change workshop, NeurIPS 2019. [[paper](https://arxiv.org/pdf/1910.09700.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
+
 * Monteiro, M. (2019). Ruined by design: How designers destroyed the world, and what we can do to fix it. Mule Design. ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
+
+* Raji, I. D., & Yang, J. (2019). About ml: Annotation and benchmarking on understanding and transparency of machine learning lifecycles. arXiv preprint arXiv:1912.06166. [[paper](https://arxiv.org/pdf/1912.06166)] ![Data](https://img.shields.io/badge/t-data-blue)
+
+* Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy considerations for deep learning in NLP. arXiv preprint arXiv:1906.02243. doi:10.18653/v1/P19-1355
+[[paper](https://www.aclweb.org/anthology/P19-1355)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
+
+### 2018
+
+* Bender, E. M., & Friedman, B. (2018). Data statements for natural language processing: Toward mitigating system bias and enabling better science. Transactions of the Association for Computational Linguistics, 6, 587-604 doi:10.1162/tacl\_a\_00041 [[paper](https://www.aclweb.org/anthology/Q18-1041)] ![Data](https://img.shields.io/badge/t-data-blue)
 
 ### 2017
 
@@ -92,8 +133,9 @@ doi:10.18653/v1/2021.acl-long.321
 * Ferraro, F., Mostafazadeh, N., Vanderwende, L., Devlin, J., Galley, M., & Mitchell, M. (2015). A survey of current datasets for vision and language research. arXiv preprint arXiv:1506.06833. doi:10.18653/v1/D15-1021
 [[paper](https://www.aclweb.org/anthology/D15-1021)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 
+### 2014
 
-
+* Couillault, A., Fort, K., Adda, G., & De Mazancourt, H. (2014, May). Evaluating corpora documentation with regards to the ethics and big data charter. In International Conference on Language Resources and Evaluation (LREC). [[paper](https://hal.inria.fr/hal-00969180)] ![Data](https://img.shields.io/badge/t-data-blue)
 
 
 
@@ -164,81 +206,36 @@ doi:10.18653/v1/2021.acl-long.321
 
 * Hovy, D., & Søgaard, A. (2015, July). Tagging performance correlates with author age. In Proceedings of the 53rd annual meeting of the Association for Computational Linguistics and the 7th international joint conference on natural language processing (volume 2: Short papers) (pp. 483-488). [[paper](https://www.aclweb.org/anthology/P15-2079.pdf)]
 
-### Dual Use
 
 
-#### 2020–2021
 
-* Bonastre, J. F. (2020). 1990-2020: retours sur 30 ans d’échanges autour de l’identification de voix en milieu judiciaire. In 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). 2e atelier Éthique et TRaitemeNt Automatique des Langues (ETeRNAL) (pp. 38-47). ATALA; AFCP. [[paper](https://aclanthology.org/2020.jeptalnrecital-eternal.5/)]
 
-### Environmental Impact
 
-#### 2020–2021
+
+
+
 
 * Lannelongue, L., Grealey, J., & Inouye, M. (2021). Green algorithms: Quantifying the carbon footprint of computation. Advanced Science, 2100707. doi:10.1002/advs.202100707
-[[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202100707)]
+[[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202100707)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
 
-* Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J. (2020). Towards the systematic reporting of the energy and carbon footprints of machine learning. Journal of Machine Learning Research, 21(248), 1-43. [[paper](https://www.jmlr.org/papers/volume21/20-312/20-312.pdf)]
-
-* Anthony, L. F. W., Kanding, B., & Selvan, R. (2020). Carbontracker: Tracking and predicting the carbon footprint of training deep learning models. arXiv preprint arXiv:2007.03051. [[paper](https://arxiv.org/pdf/2007.03051)]
-
-* Martin Jaggi Tristan Trebaol, Mary-Anne Hartley and Hossein Shokri Ghadikolaei. (2020). A tool to quantify and report the carbon footprint of machine learning computations and communication in academia and healthcare. Infoscience EPFL: record 278189. [[report](https://infoscience.epfl.ch/record/278189/files/Msc_semester_project_report_TTre%CC%81baol_cumulator.pdf)]
-
-
-#### 2010–2019
-
-* Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy considerations for deep learning in NLP. arXiv preprint arXiv:1906.02243. doi:10.18653/v1/P19-1355
-[[paper](https://www.aclweb.org/anthology/P19-1355)]
-
-* Lacoste A., Luccioni A., Schmidt V., & Dandres T. (2019). Quantifying the carbon emissions of machine learning. In Climate Change workshop, NeurIPS 2019. [[paper](https://arxiv.org/pdf/1910.09700.pdf)]
-
-
-### Data
-
-#### 2020–2021
-
-* Birhane, A., Prabhu, V. U., & Kahembwe, E. (2021). Multimodal datasets: misogyny, pornography, and malignant stereotypes. arXiv preprint arXiv:2110.01963. [[paper](https://arxiv.org/pdf/2110.01963)]
+* Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J. (2020). Towards the systematic reporting of the energy and carbon footprints of machine learning. Journal of Machine Learning Research, 21(248), 1-43. [[paper](https://www.jmlr.org/papers/volume21/20-312/20-312.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
 
 * Dodge, J., Sap, M., Marasovic, A., Agnew, W., Ilharco, G., Groeneveld, D., ... & Face, H. Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus.
-[[paper](https://homes.cs.washington.edu/~msap/pdfs/dodge2021documentingC4.pdf)]
+[[paper](https://homes.cs.washington.edu/~msap/pdfs/dodge2021documentingC4.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
 
-* Moss, E., Watkins, E. A., Singh, R., Elish, M. C., & Metcalf, J. (2021). Assembling Accountability: Algorithmic Impact Assessment for the Public Interest. Available at SSRN 3877437.
-[[paper](https://apo.org.au/sites/default/files/resource-files/2021-06/apo-nid313046.pdf)]
+* Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daumé III, H., & Crawford, K. (2018). Datasheets for datasets. arXiv preprint arXiv:1803.09010. [[paper](http://arxiv.org/abs/1803.09010)] ![Data](https://img.shields.io/badge/t-data-blue)
 
-* Bird, S. (2020, December). Decolonising speech and language technology. In Proceedings of the 28th International Conference on Computational Linguistics (pp. 3504-3519). doi:10.18653/v1/2020.coling-main.313
-[[paper](https://www.aclweb.org/anthology/2020.coling-main.313)]
-
-* Jo, E. S., & Gebru, T. (2020, January). Lessons from archives: Strategies for collecting sociocultural data in machine learning. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 306-316).
-[[paper](https://dl.acm.org/doi/pdf/10.1145/3351095.3372829)]
-
-* Joshi, P., Santy, S., Budhiraja, A., Bali, K., & Choudhury, M. (2020). The state and fate of linguistic diversity and inclusion in the NLP world. arXiv preprint arXiv:2004.09095.
-doi:10.18653/v1/2020.acl-main.560
-[[paper](https://www.aclweb.org/anthology/2020.acl-main.560)]
-
-* Vidgen, B., & Derczynski, L. (2020). Directions in abusive language training data, a systematic review: Garbage in, garbage out. PloS one, 15(12), e0243300.
-[[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243300)]
-
-* Paullada, A., Raji, I. D., Bender, E. M., Denton, E., & Hanna, A. (2020). Data and its (dis) contents: A survey of dataset development and use in machine learning research. arXiv preprint arXiv:2012.05345. [[paper](https://arxiv.org/pdf/2012.05345)]
-
-#### 2010–2019
-
-* Kann, K., Cho, K., & Bowman, S. R. (2019). Towards realistic practices in low-resource natural language processing: the development set. arXiv preprint arXiv:1909.01522.
-doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)]
-
-* Raji, I. D., & Yang, J. (2019). About ml: Annotation and benchmarking on understanding and transparency of machine learning lifecycles. arXiv preprint arXiv:1912.06166. [[paper](https://arxiv.org/pdf/1912.06166)]
-
-* Bender, E. M., & Friedman, B. (2018). Data statements for natural language processing: Toward mitigating system bias and enabling better science. Transactions of the Association for Computational Linguistics, 6, 587-604 doi:10.1162/tacl\_a\_00041 [[paper](https://www.aclweb.org/anthology/Q18-1041)]
-
-* Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daumé III, H., & Crawford, K. (2018). Datasheets for datasets. arXiv preprint arXiv:1803.09010. [[paper](http://arxiv.org/abs/1803.09010)]
 
 * Holland, S., Hosny, A., Newman, S., Joseph, J., & Chmielinski, K. (2018). The dataset nutrition label: A framework to drive higher data quality standards. arXiv preprint arXiv:1805.03677.
-[[paper](https://arxiv.org/pdf/1805.03677.pdf)]
+[[paper](https://arxiv.org/pdf/1805.03677.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
 
-* Mieskes, M. (2017, April). A quantitative study of data in the NLP community. In Proceedings of the first ACL workshop on ethics in natural language processing (pp. 23-29). [[paper](https://www.aclweb.org/anthology/W17-1603.pdf)]
 
-* Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., ... & Gebru, T. (2019, January). Model cards for model reporting. In Proceedings of the conference on fairness, accountability, and transparency (pp. 220-229). [[paper](https://dl.acm.org/doi/pdf/10.1145/3287560.3287596)]
+* Mieskes, M. (2017, April). A quantitative study of data in the NLP community. In Proceedings of the first ACL workshop on ethics in natural language processing (pp. 23-29). [[paper](https://www.aclweb.org/anthology/W17-1603.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
 
-* Couillault, A., Fort, K., Adda, G., & De Mazancourt, H. (2014, May). Evaluating corpora documentation with regards to the ethics and big data charter. In International Conference on Language Resources and Evaluation (LREC). [[paper](https://hal.inria.fr/hal-00969180)]
+* Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., ... & Gebru, T. (2019, January). Model cards for model reporting. In Proceedings of the conference on fairness, accountability, and transparency (pp. 220-229). [[paper](https://dl.acm.org/doi/pdf/10.1145/3287560.3287596)] ![Data](https://img.shields.io/badge/t-data-blue)
+
+
+
 
 ### Crowdsourcing Issues
 
