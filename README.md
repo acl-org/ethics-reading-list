@@ -14,9 +14,12 @@ _Last Updated: 2022 Feb 24_
 * Use APA style where possible.
 * Add minimally a `paper` link to direct readers directly to the `.pdf` or metadata page (ACL Anthology for example) of the paper.
 * Papers are organized by tags.  We accept PRs to add or re-organize tags.  Please help tag your own papers!
+  * Tags for topics: starting with `t`
+  * Tags for bibliographic type: starting with `type`
+  * Simply copy the tags from the below [#tags](#tags) section to tag
+  * Tags are provided using the [shields.io](http://shields.io) service
 * Update the ``Last Updated'' datestamp above.
 * Prefer peer-reviewed conference or journal reference and link to ArXiv whenever possible.
-
 
 ### Contributed by
 * [Karën Fort](https://members.loria.fr/KFort/) (Sorbonne Université)
@@ -39,7 +42,9 @@ _Last Updated: 2022 Feb 24_
 
 ## Tags
 
-We have tagged papers with several general tags.  These are indicative tags and not comprehensive.  We accept pull requests to change them!
+We have tagged papers with several topic tags and bibliographic type.  These are indicative tags and not comprehensive.  We accept pull requests to change them!
+
+#### By Topic
 
 ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 ![Biases](https://img.shields.io/badge/t-biases-pink)
@@ -48,9 +53,16 @@ We have tagged papers with several general tags.  These are indicative tags and 
 ![Dual Use](https://img.shields.io/badge/t-dual%20use-purple)
 ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
 ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
-![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
+![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
 ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)
 ![Uncategorized](https://img.shields.io/badge/t-uncategorized-grey)
+
+#### By Bibliographic Type
+
+![published](https://img.shields.io/badge/type-published-lightgrey)
+![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
+![post](https://img.shields.io/badge/type-post-lightgrey)
+
 
 ### 2022
 [[Contents](#contents)]
@@ -76,14 +88,14 @@ We have tagged papers with several general tags.  These are indicative tags and 
 * Lannelongue, L., Grealey, J., & Inouye, M. (2021). Green algorithms: Quantifying the carbon footprint of computation. Advanced Science, 2100707. doi:10.1002/advs.202100707
 [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202100707)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
 
-* Markl, N., & Lai, C. (2021, April). Context-sensitive evaluation of automatic speech recognition: considering user experience & language variation. In Proceedings of the First Workshop on Bridging Human–Computer Interaction and Natural Language Processing (pp. 34-40). [[paper](https://www.aclweb.org/anthology/2021.hcinlp-1.6.pdf)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
+* Markl, N., & Lai, C. (2021, April). Context-sensitive evaluation of automatic speech recognition: considering user experience & . In Proceedings of the First Workshop on Bridging Human–Computer Interaction and Natural Language Processing (pp. 34-40). [[paper](https://www.aclweb.org/anthology/2021.hcinlp-1.6.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
 
 * Moss, E., Watkins, E. A., Singh, R., Elish, M. C., & Metcalf, J. (2021). Assembling Accountability: Algorithmic Impact Assessment for the Public Interest. Available at SSRN 3877437.
 [[paper](https://apo.org.au/sites/default/files/resource-files/2021-06/apo-nid313046.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
 
 * Shmueli, B., Fell, J., Ray, S., & Ku, L. W. (2021). Beyond fair pay: Ethical implications of NLP crowdsourcing. arXiv preprint arXiv:2104.10097. [[paper](https://arxiv.org/pdf/2104.10097)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
 
-* Tan, S., & Joty, S. (2021). Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots. arXiv preprint arXiv:2103.09593. [[paper](https://arxiv.org/pdf/2103.09593)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
+* Tan, S., & Joty, S. (2021). Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots. arXiv preprint arXiv:2103.09593. [[paper](https://arxiv.org/pdf/2103.09593)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
 
 * Tan, S., Joty, S., Baxter, K., Taeihagh, A., Bennett, G. A., & Kan, M. Y. (2021). Reliability Testing for Natural Language Processing Systems. arXiv preprint arXiv:2105.02590.
 doi:10.18653/v1/2021.acl-long.321
@@ -121,9 +133,9 @@ doi:10.18653/v1/2021.acl-long.321
 
 * Joshi, P., Santy, S., Budhiraja, A., Bali, K., & Choudhury, M. (2020). The state and fate of linguistic diversity and inclusion in the NLP world. arXiv preprint arXiv:2004.09095.
 doi:10.18653/v1/2020.acl-main.560
-[[paper](https://www.aclweb.org/anthology/2020.acl-main.560)] ![Data](https://img.shields.io/badge/t-data-blue) ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
+[[paper](https://www.aclweb.org/anthology/2020.acl-main.560)] ![Data](https://img.shields.io/badge/t-data-blue) ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
 
-* Koenecke, A., Nam, A., Lake, E., Nudell, J., Quartey, M., Mengesha, Z., ... & Goel, S. (2020). Racial disparities in automated speech recognition. Proceedings of the National Academy of Sciences, 117(14), 7684-7689. [[paper](https://www.pnas.org/content/117/14/7684?utm_keyword=referral_input)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
+* Koenecke, A., Nam, A., Lake, E., Nudell, J., Quartey, M., Mengesha, Z., ... & Goel, S. (2020). Racial disparities in automated speech recognition. Proceedings of the National Academy of Sciences, 117(14), 7684-7689. [[paper](https://www.pnas.org/content/117/14/7684?utm_keyword=referral_input)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
 
 * Linzen, T. (2020). How can we accelerate progress towards human-like linguistic generalization?. arXiv preprint arXiv:2005.00955. doi:10.18653/v1/2020.acl-main.465 [[paper](https://www.aclweb.org/anthology/2020.acl-main.465)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
 
@@ -142,10 +154,10 @@ doi:10.18653/v1/2020.acl-main.560
 
 * Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54-63. [[paper](http://arxiv.org/abs/1907.10597)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 
-* Tan, S., Joty, S., Kan, M. Y., & Socher, R. (2020). It's Morphin'Time! Combating Linguistic Discrimination with Inflectional Perturbations. arXiv preprint arXiv:2005.04364. [[paper](https://arxiv.org/pdf/2005.04364)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
+* Tan, S., Joty, S., Kan, M. Y., & Socher, R. (2020). It's Morphin'Time! Combating Linguistic Discrimination with Inflectional Perturbations. arXiv preprint arXiv:2005.04364. [[paper](https://arxiv.org/pdf/2005.04364)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
 
 * Tan, S., Joty, S., Varshney, L. R., & Kan, M. Y. (2020). Mind your inflections! Improving NLP for non-standard Englishes with Base-Inflection Encoding. arXiv preprint arXiv:2004.14870.
-[[paper](https://arxiv.org/pdf/2004.14870)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
+[[paper](https://arxiv.org/pdf/2004.14870)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
 
 * Trebaol, M. J. T., Hartley, M.-A., & Ghadikolaei, H. S. (2020). A tool to quantify and report the carbon footprint of machine learning computations and communication in academia and healthcare. Infoscience EPFL: record 278189. [[report](https://infoscience.epfl.ch/record/278189/files/Msc_semester_project_report_TTre%CC%81baol_cumulator.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
 
@@ -155,13 +167,13 @@ doi:10.18653/v1/2020.acl-main.560
 ### 2019
 [[Contents](#contents)]
 
-* Bender, E. M. (2019). The # benderrule: On naming the languages we study and why it matters. The Gradient, 14. [[paper](http://faculty.washington.edu/ebender/papers/BenderRule_TheGradient-refs.pdf)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
+* Bender, E. M. (2019). The # benderrule: On naming the languages we study and why it matters. The Gradient, 14. [[paper](http://faculty.washington.edu/ebender/papers/BenderRule_TheGradient-refs.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
 
 * Bregeon, D., Antoine, J. Y., Villaneau, J., & Lefeuvre-Halftermeyer, A. (2019). Redonner du sens à l’accord interannotateurs: vers une interprétation des mesures d’accord en termes de reproductibilité de l’annotation. Traitement Automatique des Langues, 60(2), 23.  [[paper](https://hal.archives-ouvertes.fr/hal-02375240)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
 
 * Garimella, A., Banea, C., Hovy, D., & Mihalcea, R. (2019, July). Women’s syntactic resilience and men’s grammatical luck: Gender-Bias in Part-of-Speech Tagging and Dependency Parsing. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (pp. 3493-3498). [[paper](https://aclanthology.org/P19-1339.pdf)]
 
-* Huang, X., & Paul, M. (2019, June). Neural user factor adaptation for text classification: Learning to generalize across author demographics. In Proceedings of the Eighth Joint Conference on Lexical and Computational Semantics (* SEM 2019) (pp. 136-146). [[paper](https://aclanthology.org/S19-1015.pdf)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
+* Huang, X., & Paul, M. (2019, June). Neural user factor adaptation for text classification: Learning to generalize across author demographics. In Proceedings of the Eighth Joint Conference on Lexical and Computational Semantics (* SEM 2019) (pp. 136-146). [[paper](https://aclanthology.org/S19-1015.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
 
 * Kann, K., Cho, K., & Bowman, S. R. (2019). Towards realistic practices in low-resource natural language processing: the development set. arXiv preprint arXiv:1909.01522.
 doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![Data](https://img.shields.io/badge/t-data-blue)
@@ -179,14 +191,14 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 * Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and policy considerations for deep learning in NLP. arXiv preprint arXiv:1906.02243. doi:10.18653/v1/P19-1355
 [[paper](https://www.aclweb.org/anthology/P19-1355)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
 
-* Zmigrod, R., Mielke, S. J., Wallach, H., & Cotterell, R. (2019). Counterfactual data augmentation for mitigating gender stereotypes in languages with rich morphology. arXiv preprint arXiv:1906.04571. [[paper](https://aclanthology.org/P19-1161.pdf)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
+* Zmigrod, R., Mielke, S. J., Wallach, H., & Cotterell, R. (2019). Counterfactual data augmentation for mitigating gender stereotypes in languages with rich morphology. arXiv preprint arXiv:1906.04571. [[paper](https://aclanthology.org/P19-1161.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
 
 ### 2018
 [[Contents](#contents)]
 
 * Bender, E. M., & Friedman, B. (2018). Data statements for natural language processing: Toward mitigating system bias and enabling better science. Transactions of the Association for Computational Linguistics, 6, 587-604 doi:10.1162/tacl\_a\_00041 [[paper](https://www.aclweb.org/anthology/Q18-1041)] ![Data](https://img.shields.io/badge/t-data-blue)
 
-* Broussard, M. (2018). Why the Scots are such a struggle for Alexa and Siri. The Herald,(Glasgow, UK), May, 11. ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
+* Broussard, M. (2018). Why the Scots are such a struggle for Alexa and Siri. The Herald,(Glasgow, UK), May, 11. ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
 
 * Curry, A. C., & Rieser, V. (2018, June). # MeToo Alexa: How conversational systems respond to sexual harassment. In Proceedings of the second ACL workshop on ethics in natural language processing (pp. 7-14). [[paper](https://www.aclweb.org/anthology/W18-0802.pdf)] ![Biases](https://img.shields.io/badge/t-biases-pink)
 
@@ -204,13 +216,13 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 
 * Caliskan, A., Bryson, J. J., & Narayanan, A. (2017). Semantics derived automatically from language corpora contain human-like biases. Science, 356(6334), 183-186. ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
 
-* Jurgens, D., Tsvetkov, Y., & Jurafsky, D. (2017, July). Incorporating dialectal variability for socially equitable language identification. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (pp. 51-57). [[paper](https://www.aclweb.org/anthology/P17-2009.pdf)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
+* Jurgens, D., Tsvetkov, Y., & Jurafsky, D. (2017, July). Incorporating dialectal variability for socially equitable language identification. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (pp. 51-57). [[paper](https://www.aclweb.org/anthology/P17-2009.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
 
 * Mieskes, M. (2017, April). A quantitative study of data in the NLP community. In Proceedings of the first ACL workshop on ethics in natural language processing (pp. 23-29). [[paper](https://www.aclweb.org/anthology/W17-1603.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
 
 * Šuster, S., Tulkens, S., & Daelemans, W. (2017). A short review of ethical challenges in clinical natural language processing. arXiv preprint arXiv:1703.10090. [[paper](https://arxiv.org/pdf/1703.10090)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 
-* Tatman, R. (2017, April). Gender and dialect bias in YouTube’s automatic captions. In Proceedings of the First ACL Workshop on Ethics in Natural Language Processing (pp. 53-59). [[paper](https://www.aclweb.org/anthology/W17-1606.pdf)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
+* Tatman, R. (2017, April). Gender and dialect bias in YouTube’s automatic captions. In Proceedings of the First ACL Workshop on Ethics in Natural Language Processing (pp. 53-59). [[paper](https://www.aclweb.org/anthology/W17-1606.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
 
 ### 2016
 [[Contents](#contents)]
@@ -236,9 +248,9 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 * Ferraro, F., Mostafazadeh, N., Vanderwende, L., Devlin, J., Galley, M., & Mitchell, M. (2015). A survey of current datasets for vision and language research. arXiv preprint arXiv:1506.06833. doi:10.18653/v1/D15-1021
 [[paper](https://www.aclweb.org/anthology/D15-1021)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 
-* Hovy, D., & Søgaard, A. (2015, July). Tagging performance correlates with author age. In Proceedings of the 53rd annual meeting of the Association for Computational Linguistics and the 7th international joint conference on natural language processing (volume 2: Short papers) (pp. 483-488). [[paper](https://www.aclweb.org/anthology/P15-2079.pdf)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
+* Hovy, D., & Søgaard, A. (2015, July). Tagging performance correlates with author age. In Proceedings of the 53rd annual meeting of the Association for Computational Linguistics and the 7th international joint conference on natural language processing (volume 2: Short papers) (pp. 483-488). [[paper](https://www.aclweb.org/anthology/P15-2079.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
 
-* Jørgensen, A., Hovy, D., & Søgaard, A. (2015, July). Challenges of studying and processing dialects in social media. In Proceedings of the workshop on noisy user-generated text (pp. 9-18). [[paper](https://www.aclweb.org/anthology/W15-4302.pdf)] ![Language Variation](https://img.shields.io/badge/t-language%20variation-blueviolet)
+* Jørgensen, A., Hovy, D., & Søgaard, A. (2015, July). Challenges of studying and processing dialects in social media. In Proceedings of the workshop on noisy user-generated text (pp. 9-18). [[paper](https://www.aclweb.org/anthology/W15-4302.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
 
 ### 2014
 [[Contents](#contents)]
