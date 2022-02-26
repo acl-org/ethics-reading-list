@@ -9,7 +9,7 @@ This list is intentionally kept with simple formatting in Markdown to allow mach
 _Last Updated: 2022 Feb 24_
 
 ### Guidelines
-* Add your name to the [contributors](#contributors) section as part of your PR.  Include an affiliation and a weblink if you'd like.
+* Add your name to the [contributors](#contributed-by) section as part of your PR.  Include an affiliation and a weblink if you'd like.
 * References follow a two-tier organization: by year, then by first-author surname.  #tag papers with topics so that they can be found on a per topic basis.
 * Use APA style where possible.
 * Add minimally a `paper` link to direct readers directly to the `.pdf` or metadata page (ACL Anthology for example) of the paper.
