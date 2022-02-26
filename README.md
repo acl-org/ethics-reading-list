@@ -70,36 +70,38 @@ We have tagged papers with several topic tags and bibliographic type.  These are
 ### 2021
 [[Contents](#contents)]
 
-* Aka, O., Burke, K., Bäuerle, A., Greer, C., & Mitchell, M. (2021). Measuring Model Biases in the Absence of Ground Truth. arXiv preprint arXiv:2103.03417. [[paper](https://arxiv.org/abs/2103.03417)] ![Biases](https://img.shields.io/badge/t-biases-pink)
+* Aka, O., Burke, K., Bäuerle, A., Greer, C., & Mitchell, M. (2021). Measuring Model Biases in the Absence of Ground Truth. arXiv preprint arXiv:2103.03417. [[paper](https://arxiv.org/abs/2103.03417)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Nesrine Bannour, Sahar Ghannay, Aurélie Névéol, and Anne-Laure Ligozat. 2021. Evaluating the carbon footprint of NLP methods: a survey and analysis of existing tools. In Proceedings of the Second Workshop on Simple and Efficient Natural Language Processing, pages 11–21, Virtual. Association for Computational Linguistics. [[paper](https://aclanthology.org/2021.sustainlp-1.2.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
 
-* Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 610-623). doi:10.1145/3442188.3445922 [[paper](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow) ![Biases](https://img.shields.io/badge/t-biases-pink)
+* Nesrine Bannour, Sahar Ghannay, Aurélie Névéol, and Anne-Laure Ligozat. 2021. Evaluating the carbon footprint of NLP methods: a survey and analysis of existing tools. In Proceedings of the Second Workshop on Simple and Efficient Natural Language Processing, pages 11–21, Virtual. Association for Computational Linguistics. [[paper](https://aclanthology.org/2021.sustainlp-1.2.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Birhane, A., Prabhu, V. U., & Kahembwe, E. (2021). Multimodal datasets: misogyny, pornography, and malignant stereotypes. arXiv preprint arXiv:2110.01963. [[paper](https://arxiv.org/pdf/2110.01963)] ![Data](https://img.shields.io/badge/t-data-blue)
 
-* Caswell, I., Kreutzer, J., Wang, L., Wahab, A., van Esch, D., Ulzii-Orshikh, N., ... & Adeyemi, M. (2021). Quality at a glance: An audit of web-crawled multilingual datasets. arXiv preprint arXiv:2103.12028. [[paper](https://arxiv.org/pdf/2103.12028)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
+* Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 610-623). doi:10.1145/3442188.3445922 [[paper](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow) ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
+
+
+* Birhane, A., Prabhu, V. U., & Kahembwe, E. (2021). Multimodal datasets: misogyny, pornography, and malignant stereotypes. arXiv preprint arXiv:2110.01963. [[paper](https://arxiv.org/pdf/2110.01963)] ![Data](https://img.shields.io/badge/t-data-blue) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
+
+* Caswell, I., Kreutzer, J., Wang, L., Wahab, A., van Esch, D., Ulzii-Orshikh, N., ... & Adeyemi, M. (2021). Quality at a glance: An audit of web-crawled multilingual datasets. arXiv preprint arXiv:2103.12028. [[paper](https://arxiv.org/pdf/2103.12028)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
 
 * Dodge, J., Sap, M., Marasovic, A., Agnew, W., Ilharco, G., Groeneveld, D., ... & Face, H. (2021, September). Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus.
-[[paper](https://homes.cs.washington.edu/~msap/pdfs/dodge2021documentingC4.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
+[[paper](https://homes.cs.washington.edu/~msap/pdfs/dodge2021documentingC4.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
 
-* Kummerfeld, J. K. (2021). Quantifying and Avoiding Unfair Qualification Labour in Crowdsourcing. arXiv preprint arXiv:2105.12762. [[paper](https://arxiv.org/pdf/2105.12762)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
+* Kummerfeld, J. K. (2021). Quantifying and Avoiding Unfair Qualification Labour in Crowdsourcing. arXiv preprint arXiv:2105.12762. [[paper](https://arxiv.org/pdf/2105.12762)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
 
 * Lannelongue, L., Grealey, J., & Inouye, M. (2021). Green algorithms: Quantifying the carbon footprint of computation. Advanced Science, 2100707. doi:10.1002/advs.202100707
-[[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202100707)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
+[[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202100707)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Markl, N., & Lai, C. (2021, April). Context-sensitive evaluation of automatic speech recognition: considering user experience & . In Proceedings of the First Workshop on Bridging Human–Computer Interaction and Natural Language Processing (pp. 34-40). [[paper](https://www.aclweb.org/anthology/2021.hcinlp-1.6.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
+* Markl, N., & Lai, C. (2021, April). Context-sensitive evaluation of automatic speech recognition: considering user experience & . In Proceedings of the First Workshop on Bridging Human–Computer Interaction and Natural Language Processing (pp. 34-40). [[paper](https://www.aclweb.org/anthology/2021.hcinlp-1.6.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Moss, E., Watkins, E. A., Singh, R., Elish, M. C., & Metcalf, J. (2021). Assembling Accountability: Algorithmic Impact Assessment for the Public Interest. Available at SSRN 3877437.
-[[paper](https://apo.org.au/sites/default/files/resource-files/2021-06/apo-nid313046.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
+[[paper](https://apo.org.au/sites/default/files/resource-files/2021-06/apo-nid313046.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
 
-* Shmueli, B., Fell, J., Ray, S., & Ku, L. W. (2021). Beyond fair pay: Ethical implications of NLP crowdsourcing. arXiv preprint arXiv:2104.10097. [[paper](https://arxiv.org/pdf/2104.10097)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
+* Shmueli, B., Fell, J., Ray, S., & Ku, L. W. (2021). Beyond fair pay: Ethical implications of NLP crowdsourcing. arXiv preprint arXiv:2104.10097. [[paper](https://arxiv.org/pdf/2104.10097)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
 
-* Tan, S., & Joty, S. (2021). Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots. arXiv preprint arXiv:2103.09593. [[paper](https://arxiv.org/pdf/2103.09593)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
+* Tan, S., & Joty, S. (2021). Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots. Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. doi:10.18653/v1/2021.naacl-main.282 [[paper](https://aclanthology.org/2021.naacl-main.282) ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Tan, S., Joty, S., Baxter, K., Taeihagh, A., Bennett, G. A., & Kan, M. Y. (2021). Reliability Testing for Natural Language Processing Systems. arXiv preprint arXiv:2105.02590.
-doi:10.18653/v1/2021.acl-long.321
-[[paper](https://aclanthology.org/2021.acl-long.321/)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
+doi:10.18653/v1/2021.acl-long.321 [[paper](https://aclanthology.org/2021.acl-long.321/)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 ### 2020
 [[Contents](#contents)]
@@ -107,62 +109,62 @@ doi:10.18653/v1/2021.acl-long.321
 * Anthony, L. F. W., Kanding, B., & Selvan, R. (2020). Carbontracker: Tracking and predicting the carbon footprint of training deep learning models. arXiv preprint arXiv:2007.03051. [[paper](https://arxiv.org/pdf/2007.03051)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
 
 * Bird, S. (2020, December). Decolonising speech and language technology. In Proceedings of the 28th International Conference on Computational Linguistics (pp. 3504-3519). doi:10.18653/v1/2020.coling-main.313
-[[paper](https://www.aclweb.org/anthology/2020.coling-main.313)] ![Data](https://img.shields.io/badge/t-data-blue)
+[[paper](https://www.aclweb.org/anthology/2020.coling-main.313)] ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Blodgett, S. L., Barocas, S., Daumé III, H., & Wallach, H. (2020). Language (technology) is power: A critical survey of "bias" in NLP. arXiv preprint arXiv:2005.14050. doi:10.18653/v1/2020.acl-main.485
-[[paper](https://www.aclweb.org/anthology/2020.acl-main.485)] ![Biases](https://img.shields.io/badge/t-biases-pink)
+[[paper](https://www.aclweb.org/anthology/2020.acl-main.485)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Bonastre, J. F. (2020). 1990-2020: retours sur 30 ans d’échanges autour de l’identification de voix en milieu judiciaire. In 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). 2e atelier Éthique et TRaitemeNt Automatique des Langues (ETeRNAL) (pp. 38-47). ATALA; AFCP. [[paper](https://aclanthology.org/2020.jeptalnrecital-eternal.5/)] ![Dual Use](https://img.shields.io/badge/t-dual%20use-purple)
+* Bonastre, J. F. (2020). 1990-2020: retours sur 30 ans d’échanges autour de l’identification de voix en milieu judiciaire. In 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). 2e atelier Éthique et TRaitemeNt Automatique des Langues (ETeRNAL) (pp. 38-47). ATALA; AFCP. [[paper](https://aclanthology.org/2020.jeptalnrecital-eternal.5/)] ![Dual Use](https://img.shields.io/badge/t-dual%20use-purple) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Caglayan, O., Madhyastha, P., & Specia, L. (2020). Curious case of language generation evaluation metrics: A cautionary tale. arXiv preprint arXiv:2010.13588. doi:10.18653/v1/2020.coling-main.210
 [[paper](https://www.aclweb.org/anthology/2020.coling-main.210)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
 
-* Ethayarajh, K., & Jurafsky, D. (2020). Utility is in the eye of the user: A critique of NLP leaderboards. arXiv preprint arXiv:2009.13888. doi:10.18653/v1/2020.emnlp-main.393
-[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.393)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
+* Ethayarajh, K., & Jurafsky, D. (2020, November). Utility is in the eye of the user: A critique of NLP leaderboards. Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) doi:10.18653/v1/2020.emnlp-main.393
+[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.393)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Floridi, L., Chiriatti, M. GPT-3: Its Nature, Scope, Limits, and Consequences. Minds & Machines 30, 681–694 (2020). https://doi.org/10.1007/s11023-020-09548-1 [[paper](https://link.springer.com/content/pdf/10.1007/s11023-020-09548-1.pdf)] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)
+* Floridi, L., Chiriatti, M. GPT-3: Its Nature, Scope, Limits, and Consequences. Minds & Machines 30, 681–694 (2020). https://doi.org/10.1007/s11023-020-09548-1 [[paper](https://link.springer.com/content/pdf/10.1007/s11023-020-09548-1.pdf)] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Garnerin, M., Rossato, S., & Besacier, L. (2020). Pratiques d’évaluation en ASR et biais de performance (Evaluation methodology in ASR and performance bias). In Actes de la 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). 2e atelier Éthique et TRaitemeNt Automatique des Langues (ETeRNAL) (pp. 1-9). [[paper](https://www.aclweb.org/anthology/2020.jeptalnrecital-eternal.1)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
+* Garnerin, M., Rossato, S., & Besacier, L. (2020). Pratiques d’évaluation en ASR et biais de performance (Evaluation methodology in ASR and performance bias). In Actes de la 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). 2e atelier Éthique et TRaitemeNt Automatique des Langues (ETeRNAL) (pp. 1-9). [[paper](https://www.aclweb.org/anthology/2020.jeptalnrecital-eternal.1)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Goldfarb-Tarrant, S., Marchant, R., Sanchez, R. M., Pandya, M., & Lopez, A. (2020). Intrinsic bias metrics do not correlate with application bias. ACL 2021 [[paper](https://aclanthology.org/2021.acl-long.150/)]. ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
+* Goldfarb-Tarrant, S., Marchant, R., Sanchez, R. M., Pandya, M., & Lopez, A. (2020). Intrinsic bias metrics do not correlate with application bias. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) [[paper](https://aclanthology.org/2021.acl-long.150/)]. ![Evaluation](https://img.shields.io/badge/t-evaluation-orange) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J. (2020). Towards the systematic reporting of the energy and carbon footprints of machine learning. Journal of Machine Learning Research, 21(248), 1-43. [[paper](https://www.jmlr.org/papers/volume21/20-312/20-312.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
+* Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J. (2020). Towards the systematic reporting of the energy and carbon footprints of machine learning. Journal of Machine Learning Research, 21(248), 1-43. [[paper](https://www.jmlr.org/papers/volume21/20-312/20-312.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Jo, E. S., & Gebru, T. (2020, January). Lessons from archives: Strategies for collecting sociocultural data in machine learning. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 306-316).
-[[paper](https://dl.acm.org/doi/pdf/10.1145/3351095.3372829)] ![Data](https://img.shields.io/badge/t-data-blue)
+[[paper](https://dl.acm.org/doi/pdf/10.1145/3351095.3372829)] ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Joshi, P., Santy, S., Budhiraja, A., Bali, K., & Choudhury, M. (2020). The state and fate of linguistic diversity and inclusion in the NLP world. arXiv preprint arXiv:2004.09095.
 doi:10.18653/v1/2020.acl-main.560
 [[paper](https://www.aclweb.org/anthology/2020.acl-main.560)] ![Data](https://img.shields.io/badge/t-data-blue) ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
 
-* Koenecke, A., Nam, A., Lake, E., Nudell, J., Quartey, M., Mengesha, Z., ... & Goel, S. (2020). Racial disparities in automated speech recognition. Proceedings of the National Academy of Sciences, 117(14), 7684-7689. [[paper](https://www.pnas.org/content/117/14/7684?utm_keyword=referral_input)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
+* Koenecke, A., Nam, A., Lake, E., Nudell, J., Quartey, M., Mengesha, Z., ... & Goel, S. (2020). Racial disparities in automated speech recognition. Proceedings of the National Academy of Sciences, 117(14), 7684-7689. [[paper](https://www.pnas.org/content/117/14/7684?utm_keyword=referral_input)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Linzen, T. (2020). How can we accelerate progress towards human-like linguistic generalization?. arXiv preprint arXiv:2005.00955. doi:10.18653/v1/2020.acl-main.465 [[paper](https://www.aclweb.org/anthology/2020.acl-main.465)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
+* Linzen, T. (2020, July). How can we accelerate progress towards human-like linguistic generalization?.  Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. doi:10.18653/v1/2020.acl-main.465 [[paper](https://www.aclweb.org/anthology/2020.acl-main.465)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Mathur, N., Baldwin, T., & Cohn, T. (2020). Tangled up in BLEU: Reevaluating the evaluation of automatic machine translation evaluation metrics. arXiv preprint arXiv:2006.06264. doi:10.18653/v1/2020.acl-main.448
-[[paper](https://www.aclweb.org/anthology/2020.acl-main.448)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
+* Mathur, N., Baldwin, T., & Cohn, T. (2020, July). Tangled up in BLEU: Reevaluating the evaluation of automatic machine translation evaluation metrics.  Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. doi:10.18653/v1/2020.acl-main.448 [[paper](https://www.aclweb.org/anthology/2020.acl-main.448)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Mohammad, S. M. (2020). Gender gap in natural language processing research: Disparities in authorship and citations. arXiv preprint arXiv:2005.00962. doi:10.18653/v1/2020.acl-main.702 [[paper](https://www.aclweb.org/anthology/2020.acl-main.702)] ![Biases](https://img.shields.io/badge/t-biases-pink)
+* Mohammad, S. M. (2020, July). Gender gap in natural language processing research: Disparities in authorship and citations. Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. doi:10.18653/v1/2020.acl-main.702 [[paper](https://www.aclweb.org/anthology/2020.acl-main.702)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Nangia, N., Vania, C., Bhalerao, R., & Bowman, S. R. (2020). CrowS-pairs: A challenge dataset for measuring social biases in masked language models. arXiv preprint arXiv:2010.00133. doi:10.18653/v1/2020.emnlp-main.154 [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.154)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
+* Nangia, N., Vania, C., Bhalerao, R., & Bowman, S. R. (2020, November). CrowS-pairs: A challenge dataset for measuring social biases in masked language models. Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).  doi:10.18653/v1/2020.emnlp-main.154 [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.154)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Nissim, M., van Noord, R., & van der Goot, R. (2020). Fair is better than sensational: Man is to doctor as woman is to doctor. Computational Linguistics, 46(2), 487-497. doi:10.1162/coli\_a\_00379 [[paper](https://www.aclweb.org/anthology/2020.cl-2.7)] ![Biases](https://img.shields.io/badge/t-biases-pink)
+* Nissim, M., van Noord, R., & van der Goot, R. (2020). Fair is better than sensational: Man is to doctor as woman is to doctor. Computational Linguistics, 46(2), 487-497. doi:10.1162/coli\_a\_00379 [[paper](https://www.aclweb.org/anthology/2020.cl-2.7)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Paullada, A., Raji, I. D., Bender, E. M., Denton, E., & Hanna, A. (2020). Data and its (dis) contents: A survey of dataset development and use in machine learning research. arXiv preprint arXiv:2012.05345. [[paper](https://arxiv.org/pdf/2012.05345)] ![Data](https://img.shields.io/badge/t-data-blue)
 
-* Schneider, J. M., Rehm, G., Montiel-Ponsoda, E., Doncel, V. R., Revenko, A., Karampatakis, S., ... & Maganza, F. (2020, May). Orchestrating NLP Services for the Legal Domain. In Proceedings of the 12th Language Resources and Evaluation Conference (pp. 2332-2340). [[paper](https://aclanthology.org/2020.lrec-1.284)] ![Uncategorized](https://img.shields.io/badge/t-uncategorized-grey)
+* Schneider, J. M., Rehm, G., Montiel-Ponsoda, E., Doncel, V. R., Revenko, A., Karampatakis, S., ... & Maganza, F. (2020, May). Orchestrating NLP Services for the Legal Domain. In Proceedings of the 12th Language Resources and Evaluation Conference (pp. 2332-2340). [[paper](https://aclanthology.org/2020.lrec-1.284)] ![Uncategorized](https://img.shields.io/badge/t-uncategorized-grey) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54-63. [[paper](http://arxiv.org/abs/1907.10597)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
+* Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54-63. [[paper](http://arxiv.org/abs/1907.10597)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Tan, S., Joty, S., Kan, M. Y., & Socher, R. (2020). It's Morphin'Time! Combating Linguistic Discrimination with Inflectional Perturbations. arXiv preprint arXiv:2005.04364. [[paper](https://arxiv.org/pdf/2005.04364)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
+* Tan, S., Joty, S., Kan, M. Y., & Socher, R. (2020, July). It's Morphin'Time! Combating Linguistic Discrimination with Inflectional Perturbations.
+Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. [[paper](https://aclanthology.org/2020.acl-main.263.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Tan, S., Joty, S., Varshney, L. R., & Kan, M. Y. (2020). Mind your inflections! Improving NLP for non-standard Englishes with Base-Inflection Encoding. arXiv preprint arXiv:2004.14870.
-[[paper](https://arxiv.org/pdf/2004.14870)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
+* Tan, S., Joty, S., Varshney, L. R., & Kan, M. Y. (2020, November). Mind your inflections! Improving NLP for non-standard Englishes with Base-Inflection Encoding. Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+[[paper](https://aclanthology.org/2020.emnlp-main.455v2.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Trebaol, M. J. T., Hartley, M.-A., & Ghadikolaei, H. S. (2020). A tool to quantify and report the carbon footprint of machine learning computations and communication in academia and healthcare. Infoscience EPFL: record 278189. [[report](https://infoscience.epfl.ch/record/278189/files/Msc_semester_project_report_TTre%CC%81baol_cumulator.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
 
 * Vidgen, B., & Derczynski, L. (2020). Directions in abusive language training data, a systematic review: Garbage in, garbage out. PloS one, 15(12), e0243300.
-[[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243300)] ![Data](https://img.shields.io/badge/t-data-blue)
+[[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243300)] ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 ### 2019
 [[Contents](#contents)]
