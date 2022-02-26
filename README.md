@@ -6,7 +6,7 @@ A list of ethics related resources for researchers and practitioners of Natural 
 
 This list is intentionally kept with simple formatting in Markdown to allow machine-readable processing of the resource.
 
-_Last Updated: 2022 Feb 24_
+![GitHub last commit](https://img.shields.io/github/last-commit/acl-org/ethics-reading-list)
 
 ### Guidelines
 * Add your name to the [contributors](#contributed-by) section as part of your PR.  Include an affiliation and a weblink if you'd like.
@@ -18,7 +18,6 @@ _Last Updated: 2022 Feb 24_
   * Tags for bibliographic type: starting with `type`
   * Simply copy the tags from the below [#tags](#tags) section to tag
   * Tags are provided using the [shields.io](http://shields.io) service
-* Update the ``Last Updated'' datestamp above.
 * Prefer peer-reviewed conference or journal reference and link to ArXiv whenever possible.
 
 ### Contributed by
