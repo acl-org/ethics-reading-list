@@ -232,22 +232,24 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 
 * Clark, J. (2016). Artificial intelligence has a ‘sea of dudes’ problem. Bloomberg Technology, 23. ![Biases](https://img.shields.io/badge/t-biases-pink)
 
+* Cohen, K. B.; Fort, K.; Adda, G.; Zhou, S. & Farri, D. Ethical Issues in Corpus Linguistics And Annotation: Pay Per Hit Does Not Affect Effective Hourly Rate For Linguistic Resource Development On Amazon Mechanical Turk ETHics In Corpus collection, Annotation and Application workshop, 2016. [[paper](https://hal.inria.fr/hal-01324362/document)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
+
 * Fort, K., & Couillault, A. (2016, May). Yes, we care! results of the ethics and natural language processing surveys. In international Language Resources and Evaluation Conference (LREC) 2016. [[paper](https://hal.inria.fr/hal-01287467/file/EthicsAndNLPSurveys.pdf)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 
 * Hovy, D., & Spruit, S. L. (2016, August). The social impact of natural language processing. In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (pp. 591-598) doi:10.18653/v1/P16-2096. [[paper](https://www.aclweb.org/anthology/P16-2096)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 
 * Larson, J., Angwin, J., & Parris, T. (2016). Breaking the black box: How machines learn to be racist. _ProPublica_. ![Biases](https://img.shields.io/badge/t-biases-pink)
 
-* Lefeuvre-Halftermeyer, A., Govaere, V., Antoine, J. Y., Allegre, W., Pouplin, S., Departe, J. P., ... & Spagnulo, A. (2016). Typologie des risques pour une analyse éthique de l'impact des technologies du TAL. Traitement Automatique des Langues, 57(2), 47-71.
-[[paper](https://hal.archives-ouvertes.fr/hal-01501192)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
+* Lefeuvre-Halftermeyer, A., Govaere, V., Antoine, J. Y., Allegre, W., Pouplin, S., Departe, J. P., ... & Spagnulo, A. (2016). Typologie des risques pour une analyse éthique de l'impact des technologies du TAL. Traitement Automatique des Langues, 57(2), 47-71. [[paper](https://hal.archives-ouvertes.fr/hal-01501192)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 
 * Mathet, Y., & Widlöcher, A. (2016). Évaluation des annotations: ses principes et ses pièges. Traitement Automatique des Langues, 57(2), 73-98. [[paper](https://hal.archives-ouvertes.fr/hal-01712282)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
 
 ### 2015
 [[Contents](#contents)]
 
-* Ferraro, F., Mostafazadeh, N., Vanderwende, L., Devlin, J., Galley, M., & Mitchell, M. (2015). A survey of current datasets for vision and language research. arXiv preprint arXiv:1506.06833. doi:10.18653/v1/D15-1021
-[[paper](https://www.aclweb.org/anthology/D15-1021)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
+* Bretonnel Cohen, K.; Pestian, J. P. & Fort, K. Annotating suicide notes : ethical issues at a glance. In Proc. of ETeRNAL (Ethique et Traitement Automatique des Langues), June 2015, Caen, France. [[paper](https://hal.inria.fr/hal-01159052/file/ETeRNAL_Lettres_Suicides.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
+
+* Ferraro, F., Mostafazadeh, N., Vanderwende, L., Devlin, J., Galley, M., & Mitchell, M. (2015). A survey of current datasets for vision and language research. arXiv preprint arXiv:1506.06833. doi:10.18653/v1/D15-1021 [[paper](https://www.aclweb.org/anthology/D15-1021)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
 
 * Hovy, D., & Søgaard, A. (2015, July). Tagging performance correlates with author age. In Proceedings of the 53rd annual meeting of the Association for Computational Linguistics and the 7th international joint conference on natural language processing (volume 2: Short papers) (pp. 483-488). [[paper](https://www.aclweb.org/anthology/P15-2079.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
 
@@ -259,6 +261,8 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 * Callison-Burch, C. (2014, September). Crowd-workers: Aggregating information across turkers to help them find higher paying work. In Proceedings of the AAAI Conference on Human Computation and Crowdsourcing (Vol. 2, No. 1). [[paper](https://ojs.aaai.org/index.php/HCOMP/article/download/13198/13046)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
 
 * Couillault, A., Fort, K., Adda, G., & De Mazancourt, H. (2014, May). Evaluating corpora documentation with regards to the ethics and big data charter. In International Conference on Language Resources and Evaluation (LREC). [[paper](https://hal.inria.fr/hal-00969180)] ![Data](https://img.shields.io/badge/t-data-blue)
+
+* Fort K., Adda G., Sagot B., Mariani J., Couillault A.. Crowdsourcing for Language Resource Development: Criticisms About Amazon Mechanical Turk Overpowering Use. Vetulani, Zygmunt and Mariani, Joseph. Human Language Technology Challenges for Computer Science and Linguistics, 8387, Springer International Publishing, pp.303-314, 2014, Lecture Notes in Computer Science, 978-3-319-08957-7. [[paper](https://hal.inria.fr/hal-01053047/document)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
 
 ### 2013
 [[Contents](#contents)]
@@ -272,8 +276,12 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 
 * Fort, K., Adda, G., & Cohen, K. B. (2011). Amazon Mechanical Turk: Gold mine or coal mine?. Computational Linguistics, 37(2), 413-420. doi:10.1162/COLI\_a\_00057 [[paper](https://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00057)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
 
+* Kenny, D. The ethics of machine translation. New Zealand Society of Translators and Interpreters Annual Conference 2011, 2011. [[paper](doras.dcu.ie/17606/1/The_Ethics_of_Machine_Translation_pre-final_version.pdf)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
+
 ### 2010
 [[Contents](#contents)]
+
+* Drugan, J. & Babych, B. Shared Resources, Shared Values? Ethical Implications of Sharing Translation Resources. Proceedings of the Second Joint EM+/CNGL Workshop: Bringing MT to the User: Research on Integrating MT in the Translation Industry, Association for Machine Translation in the Americas, 2010, 3-10. [[paper](https://aclanthology.org/2010.jec-1.2.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
 
 * Snyder, J. (2010). Exploitation and sweatshop labor: Perspectives and issues. Business Ethics Quarterly, 20(2), 187-213.
 [[paper](https://crowdsourcing-class.org/readings/downloads/ethics/exploitation-and-sweatshop-labor.pdf)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
