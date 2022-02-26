@@ -6,7 +6,7 @@ A list of ethics related resources for researchers and practitioners of Natural 
 
 This list is intentionally kept with simple formatting in Markdown to allow machine-readable processing of the resource.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/acl-org/ethics-reading-list)
+![GitHub last commit](https://img.shields.io/github/last-commit/acl-org/ethics-reading-list) ![GitHub contributors](https://img.shields.io/github/contributors/acl-org/ethics-reading-list)
 
 ### Guidelines
 * Add your name to the [contributors](#contributed-by) section as part of your PR.  Include an affiliation and a weblink if you'd like.
