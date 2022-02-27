@@ -59,7 +59,7 @@ We have tagged papers with several topic tags and bibliographic type.  These are
 ![published](https://img.shields.io/badge/type-published-lightgrey)
 ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
 ![post](https://img.shields.io/badge/type-post-lightgrey)
-
+![report](https://img.shields.io/badge/type-post-lightgrey)
 
 ### 2022
 [[Contents](#contents)]
@@ -103,21 +103,18 @@ doi:10.18653/v1/2021.acl-long.321 [[paper](https://aclanthology.org/2021.acl-lon
 ### 2020
 [[Contents](#contents)]
 
-* Anthony, L. F. W., Kanding, B., & Selvan, R. (2020). Carbontracker: Tracking and predicting the carbon footprint of training deep learning models. arXiv preprint arXiv:2007.03051. [[paper](https://arxiv.org/pdf/2007.03051)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
+* Anthony, L. F. W., Kanding, B., & Selvan, R. (2020). Carbontracker: Tracking and predicting the carbon footprint of training deep learning models. arXiv preprint arXiv:2007.03051. [[paper](https://arxiv.org/pdf/2007.03051)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
 
 * Bird, S. (2020, December). Decolonising speech and language technology. In Proceedings of the 28th International Conference on Computational Linguistics (pp. 3504-3519). doi:10.18653/v1/2020.coling-main.313
-[[paper](https://www.aclweb.org/anthology/2020.coling-main.313)] ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
+[[paper](https://www.aclweb.org/anthology/2020.coling-main.313)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Blodgett, S. L., Barocas, S., Daumé III, H., & Wallach, H. (2020). Language (technology) is power: A critical survey of "bias" in NLP. arXiv preprint arXiv:2005.14050. doi:10.18653/v1/2020.acl-main.485
-[[paper](https://www.aclweb.org/anthology/2020.acl-main.485)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Blodgett, S. L., Barocas, S., Daumé III, H., & Wallach, H. (2020). Language (technology) is power: A critical survey of "bias" in NLP.  In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 5454–5476, Online. Association for Computational Linguistics. doi:10.18653/v1/2020.acl-main.485. [[paper](https://www.aclweb.org/anthology/2020.acl-main.485)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Bonastre, J. F. (2020). 1990-2020: retours sur 30 ans d’échanges autour de l’identification de voix en milieu judiciaire. In 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). 2e atelier Éthique et TRaitemeNt Automatique des Langues (ETeRNAL) (pp. 38-47). ATALA; AFCP. [[paper](https://aclanthology.org/2020.jeptalnrecital-eternal.5/)] ![Dual Use](https://img.shields.io/badge/t-dual%20use-purple) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Caglayan, O., Madhyastha, P., & Specia, L. (2020). Curious case of language generation evaluation metrics: A cautionary tale. arXiv preprint arXiv:2010.13588. doi:10.18653/v1/2020.coling-main.210
-[[paper](https://www.aclweb.org/anthology/2020.coling-main.210)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
+* Caglayan, O., Madhyastha, P., & Specia, L. (2020). Curious case of language generation evaluation metrics: A cautionary tale.  In Proceedings of the 28th International Conference on Computational Linguistics, pages 2322–2328, Barcelona, Spain (Online). International Committee on Computational Linguistics. doi:10.18653/v1/2020.coling-main.210. [[paper](https://www.aclweb.org/anthology/2020.coling-main.210)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Ethayarajh, K., & Jurafsky, D. (2020, November). Utility is in the eye of the user: A critique of NLP leaderboards. Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) doi:10.18653/v1/2020.emnlp-main.393
-[[paper](https://www.aclweb.org/anthology/2020.emnlp-main.393)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Ethayarajh, K., & Jurafsky, D. (2020, November). Utility is in the eye of the user: A critique of NLP leaderboards. Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) doi:10.18653/v1/2020.emnlp-main.393. [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.393)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Floridi, L., Chiriatti, M. GPT-3: Its Nature, Scope, Limits, and Consequences. Minds & Machines 30, 681–694 (2020). https://doi.org/10.1007/s11023-020-09548-1 [[paper](https://link.springer.com/content/pdf/10.1007/s11023-020-09548-1.pdf)] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
@@ -127,12 +124,9 @@ doi:10.18653/v1/2021.acl-long.321 [[paper](https://aclanthology.org/2021.acl-lon
 
 * Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J. (2020). Towards the systematic reporting of the energy and carbon footprints of machine learning. Journal of Machine Learning Research, 21(248), 1-43. [[paper](https://www.jmlr.org/papers/volume21/20-312/20-312.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Jo, E. S., & Gebru, T. (2020, January). Lessons from archives: Strategies for collecting sociocultural data in machine learning. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 306-316).
-[[paper](https://dl.acm.org/doi/pdf/10.1145/3351095.3372829)] ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Jo, E. S., & Gebru, T. (2020, January). Lessons from archives: Strategies for collecting sociocultural data in machine learning. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 306-316). [[paper](https://dl.acm.org/doi/pdf/10.1145/3351095.3372829)] ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Joshi, P., Santy, S., Budhiraja, A., Bali, K., & Choudhury, M. (2020). The state and fate of linguistic diversity and inclusion in the NLP world. arXiv preprint arXiv:2004.09095.
-doi:10.18653/v1/2020.acl-main.560
-[[paper](https://www.aclweb.org/anthology/2020.acl-main.560)] ![Data](https://img.shields.io/badge/t-data-blue) ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
+* Joshi, P., Santy, S., Budhiraja, A., Bali, K., & Choudhury, M. (2020). The state and fate of linguistic diversity and inclusion in the NLP world. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, Association for Computational Linguistics, 2020, 6282-6293. doi:10.18653/v1/2020.acl-main.560 [[paper](https://www.aclweb.org/anthology/2020.acl-main.560)] ![Data](https://img.shields.io/badge/t-data-blue) ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)  ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Koenecke, A., Nam, A., Lake, E., Nudell, J., Quartey, M., Mengesha, Z., ... & Goel, S. (2020). Racial disparities in automated speech recognition. Proceedings of the National Academy of Sciences, 117(14), 7684-7689. [[paper](https://www.pnas.org/content/117/14/7684?utm_keyword=referral_input)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
@@ -148,11 +142,11 @@ doi:10.18653/v1/2020.acl-main.560
 
 * Nissim, M., van Noord, R., & van der Goot, R. (2020). Fair is better than sensational: Man is to doctor as woman is to doctor. Computational Linguistics, 46(2), 487-497. doi:10.1162/coli\_a\_00379 [[paper](https://www.aclweb.org/anthology/2020.cl-2.7)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Paullada, A., Raji, I. D., Bender, E. M., Denton, E., & Hanna, A. (2020). Data and its (dis) contents: A survey of dataset development and use in machine learning research. arXiv preprint arXiv:2012.05345. [[paper](https://arxiv.org/pdf/2012.05345)] ![Data](https://img.shields.io/badge/t-data-blue)
+* Paullada, A., Raji, I. D., Bender, E. M., Denton, E., & Hanna, A. (2020). Data and its (dis) contents: A survey of dataset development and use in machine learning research. Patterns, Volume 2, Issue 11, 12 November 2021, Pages 100388. [[paper](https://arxiv.org/pdf/2012.05345)] ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Schneider, J. M., Rehm, G., Montiel-Ponsoda, E., Doncel, V. R., Revenko, A., Karampatakis, S., ... & Maganza, F. (2020, May). Orchestrating NLP Services for the Legal Domain. In Proceedings of the 12th Language Resources and Evaluation Conference (pp. 2332-2340). [[paper](https://aclanthology.org/2020.lrec-1.284)] ![Uncategorized](https://img.shields.io/badge/t-uncategorized-grey) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54-63. [[paper](http://arxiv.org/abs/1907.10597)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54-63. [[paper](http://arxiv.org/abs/1907.10597)]  ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Tan, S., Joty, S., Kan, M. Y., & Socher, R. (2020, July). It's Morphin'Time! Combating Linguistic Discrimination with Inflectional Perturbations.
 Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. [[paper](https://aclanthology.org/2020.acl-main.263.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
@@ -160,7 +154,7 @@ Proceedings of the 58th Annual Meeting of the Association for Computational Ling
 * Tan, S., Joty, S., Varshney, L. R., & Kan, M. Y. (2020, November). Mind your inflections! Improving NLP for non-standard Englishes with Base-Inflection Encoding. Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).
 [[paper](https://aclanthology.org/2020.emnlp-main.455v2.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Trebaol, M. J. T., Hartley, M.-A., & Ghadikolaei, H. S. (2020). A tool to quantify and report the carbon footprint of machine learning computations and communication in academia and healthcare. Infoscience EPFL: record 278189. [[report](https://infoscience.epfl.ch/record/278189/files/Msc_semester_project_report_TTre%CC%81baol_cumulator.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
+* Trebaol, M. J. T., Hartley, M.-A., & Ghadikolaei, H. S. (2020). A tool to quantify and report the carbon footprint of machine learning computations and communication in academia and healthcare. Infoscience EPFL: record 278189. [[report](https://infoscience.epfl.ch/record/278189/files/Msc_semester_project_report_TTre%CC%81baol_cumulator.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![report](https://img.shields.io/badge/type-post-lightgrey)
 
 * Vidgen, B., & Derczynski, L. (2020). Directions in abusive language training data, a systematic review: Garbage in, garbage out. PloS one, 15(12), e0243300.
 [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0243300)] ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
