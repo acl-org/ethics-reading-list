@@ -215,15 +215,22 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 ### 2017
 [[Contents](#contents)]
 
-* Caliskan, A., Bryson, J. J., & Narayanan, A. (2017). Semantics derived automatically from language corpora contain human-like biases. Science, 356(6334), 183-186. ![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
+* Caliskan, A., Bryson, J. J., & Narayanan, A. (2017). Semantics derived automatically from language corpora contain human-like biases. Science, 356(6334), 183-186. ![Evaluation](https://img.shields.io/badge/t-evaluation-orange) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Jurgens, D., Tsvetkov, Y., & Jurafsky, D. (2017, July). Incorporating dialectal variability for socially equitable language identification. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (pp. 51-57). [[paper](https://www.aclweb.org/anthology/P17-2009.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
+* Jurgens, D., Tsvetkov, Y., & Jurafsky, D. (2017, July). Incorporating dialectal variability for socially equitable language identification. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (pp. 51-57). [[paper](https://www.aclweb.org/anthology/P17-2009.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Mieskes, M. (2017, April). A quantitative study of data in the NLP community. In Proceedings of the first ACL workshop on ethics in natural language processing (pp. 23-29). [[paper](https://www.aclweb.org/anthology/W17-1603.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
+* Koolen, C. & van Cranenburgh, A. These are not the Stereotypes You are Looking For: Bias and Fairness in Authorial Gender Attribution. In Proceedings of the first ACL workshop on ethics in natural language processing (pp. 12-22). [[paper](https://aclanthology.org/W17-1602.pdf)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Šuster, S., Tulkens, S., & Daelemans, W. (2017). A short review of ethical challenges in clinical natural language processing. arXiv preprint arXiv:1703.10090. [[paper](https://arxiv.org/pdf/1703.10090)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)
+* Leidner, J. L. & Plachouras, V. Ethical by Design: Ethics Best Practices for Natural Language Processing. In Proceedings of the First ACL Workshop on Ethics in Natural Language Processing, Association for Computational Linguistics, 2017, 30-40.  [[paper](https://aclanthology.org/W17-1604.pdf)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Tatman, R. (2017, April). Gender and dialect bias in YouTube’s automatic captions. In Proceedings of the First ACL Workshop on Ethics in Natural Language Processing (pp. 53-59). [[paper](https://www.aclweb.org/anthology/W17-1606.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
+* Mieskes, M. (2017, April). A quantitative study of data in the NLP community. In Proceedings of the first ACL workshop on ethics in natural language processing (pp. 23-29). [[paper](https://www.aclweb.org/anthology/W17-1603.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
+
+* Parra Escartin, C.; Reijers, W.; Lynn, T.; Moorkens, J.; Way, A. & Liu, C.-H. Ethical Considerations in NLP Shared Tasks. In Proceedings of the First ACL Workshop on Ethics in Natural Language Processing, Association for Computational Linguistics, 2017, 66-73.  [[paper](https://aclanthology.org/W17-1608.pdf)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red) ![published](https://img.shields.io/badge/type-published-lightgrey)
+
+
+* Šuster, S., Tulkens, S., & Daelemans, W. (2017). A short review of ethical challenges in clinical natural language processing.  In Proceedings of the First ACL Workshop on Ethics in Natural Language Processing. [[paper](https://arxiv.org/pdf/1703.10090)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red) ![published](https://img.shields.io/badge/type-published-lightgrey)
+
+* Tatman, R. (2017, April). Gender and dialect bias in YouTube’s automatic captions. In Proceedings of the First ACL Workshop on Ethics in Natural Language Processing (pp. 53-59). [[paper](https://www.aclweb.org/anthology/W17-1606.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 ### 2016
 [[Contents](#contents)]
