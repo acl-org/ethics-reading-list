@@ -59,7 +59,7 @@ We have tagged papers with several topic tags and bibliographic type.  These are
 ![published](https://img.shields.io/badge/type-published-lightgrey)
 ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
 ![post](https://img.shields.io/badge/type-post-lightgrey)
-![report](https://img.shields.io/badge/type-post-lightgrey)
+![report](https://img.shields.io/badge/type-report-lightgrey)
 
 ### 2022
 [[Contents](#contents)]
@@ -67,7 +67,7 @@ We have tagged papers with several topic tags and bibliographic type.  These are
 ### 2021
 [[Contents](#contents)]
 
-* Aka, O., Burke, K., Bäuerle, A., Greer, C., & Mitchell, M. (2021). Measuring Model Biases in the Absence of Ground Truth. arXiv preprint arXiv:2103.03417. [[paper](https://arxiv.org/abs/2103.03417)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Aka, O., Burke, K., Bäuerle, A., Greer, C., & Mitchell, M. (2021). Measuring Model Biases in the Absence of Ground Truth. DOI:10.1145/3461702.3462557. AIES '21: AAAI/ACM Conference on AI, Ethics, and Society. [[paper](https://arxiv.org/abs/2103.03417)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 
 * Nesrine Bannour, Sahar Ghannay, Aurélie Névéol, and Anne-Laure Ligozat. 2021. Evaluating the carbon footprint of NLP methods: a survey and analysis of existing tools. In Proceedings of the Second Workshop on Simple and Efficient Natural Language Processing, pages 11–21, Virtual. Association for Computational Linguistics. [[paper](https://aclanthology.org/2021.sustainlp-1.2.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![published](https://img.shields.io/badge/type-published-lightgrey)
@@ -78,27 +78,24 @@ We have tagged papers with several topic tags and bibliographic type.  These are
 
 * Birhane, A., Prabhu, V. U., & Kahembwe, E. (2021). Multimodal datasets: misogyny, pornography, and malignant stereotypes. arXiv preprint arXiv:2110.01963. [[paper](https://arxiv.org/pdf/2110.01963)] ![Data](https://img.shields.io/badge/t-data-blue) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
 
-* Caswell, I., Kreutzer, J., Wang, L., Wahab, A., van Esch, D., Ulzii-Orshikh, N., ... & Adeyemi, M. (2021). Quality at a glance: An audit of web-crawled multilingual datasets. arXiv preprint arXiv:2103.12028. [[paper](https://arxiv.org/pdf/2103.12028)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
 
-* Dodge, J., Sap, M., Marasovic, A., Agnew, W., Ilharco, G., Groeneveld, D., ... & Face, H. (2021, September). Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus.
-[[paper](https://homes.cs.washington.edu/~msap/pdfs/dodge2021documentingC4.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
+* Dodge, J., Sap, M., Marasovic, A., Agnew, W., Ilharco, G., Groeneveld, D., ... & Face, H. (2021, September). Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pages 1286–1305, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics. [[paper](https://aclanthology.org/2021.emnlp-main.98.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Kummerfeld, J. K. (2021). Quantifying and Avoiding Unfair Qualification Labour in Crowdsourcing. arXiv preprint arXiv:2105.12762. [[paper](https://arxiv.org/pdf/2105.12762)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
+* Kreutzer, J., Caswell, I., Wang, L., Wahab, A., van Esch, D., Ulzii-Orshikh, N., ... & Adeyemi, M. (2021). Quality at a glance: An audit of web-crawled multilingual datasets.Transactions of the Association for Computational Linguistics, The MIT Press, 2022, 10, pp.50-72. [[paper](https://hal.inria.fr/hal-03177623/document)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Lannelongue, L., Grealey, J., & Inouye, M. (2021). Green algorithms: Quantifying the carbon footprint of computation. Advanced Science, 2100707. doi:10.1002/advs.202100707
-[[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202100707)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Kummerfeld, J. K. (2021). Quantifying and Avoiding Unfair Qualification Labour in Crowdsourcing. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers), pages 343–349, Online. Association for Computational Linguistics. [[paper](https://aclanthology.org/2021.acl-short.44.pdf)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold) ![published](https://img.shields.io/badge/type-published-lightgrey)
+
+* Lannelongue, L., Grealey, J., & Inouye, M. (2021). Green algorithms: Quantifying the carbon footprint of computation. Advanced Science, 2100707. doi:10.1002/advs.202100707. [[paper](https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202100707)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Markl, N., & Lai, C. (2021, April). Context-sensitive evaluation of automatic speech recognition: considering user experience & . In Proceedings of the First Workshop on Bridging Human–Computer Interaction and Natural Language Processing (pp. 34-40). [[paper](https://www.aclweb.org/anthology/2021.hcinlp-1.6.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Moss, E., Watkins, E. A., Singh, R., Elish, M. C., & Metcalf, J. (2021). Assembling Accountability: Algorithmic Impact Assessment for the Public Interest. Available at SSRN 3877437.
-[[paper](https://apo.org.au/sites/default/files/resource-files/2021-06/apo-nid313046.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
+* Moss, E., Watkins, E. A., Singh, R., Elish, M. C., & Metcalf, J. (2021). Assembling Accountability: Algorithmic Impact Assessment for the Public Interest. Available at SSRN 3877437. [[paper](https://apo.org.au/sites/default/files/resource-files/2021-06/apo-nid313046.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) ![report](https://img.shields.io/badge/type-report-lightgrey)
 
-* Shmueli, B., Fell, J., Ray, S., & Ku, L. W. (2021). Beyond fair pay: Ethical implications of NLP crowdsourcing. arXiv preprint arXiv:2104.10097. [[paper](https://arxiv.org/pdf/2104.10097)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
+* Shmueli, B., Fell, J., Ray, S., & Ku, L. W. (2021). Beyond fair pay: Ethical implications of NLP crowdsourcing. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 3758–3769, Online. Association for Computational Linguistics. [[paper](https://arxiv.org/pdf/2104.10097)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Tan, S., & Joty, S. (2021). Code-Mixing on Sesame Street: Dawn of the Adversarial Polyglots. Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. doi:10.18653/v1/2021.naacl-main.282 [[paper](https://aclanthology.org/2021.naacl-main.282) ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Tan, S., Joty, S., Baxter, K., Taeihagh, A., Bennett, G. A., & Kan, M. Y. (2021). Reliability Testing for Natural Language Processing Systems. arXiv preprint arXiv:2105.02590.
-doi:10.18653/v1/2021.acl-long.321 [[paper](https://aclanthology.org/2021.acl-long.321/)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Tan, S., Joty, S., Baxter, K., Taeihagh, A., Bennett, G. A., & Kan, M. Y. (2021). Reliability Testing for Natural Language Processing Systems.  In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pages 4153–4169, Online. Association for Computational Linguistics. doi:10.18653/v1/2021.acl-long.321 [[paper](https://aclanthology.org/2021.acl-long.321/)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 ### 2020
 [[Contents](#contents)]
@@ -121,6 +118,8 @@ doi:10.18653/v1/2021.acl-long.321 [[paper](https://aclanthology.org/2021.acl-lon
 * Garnerin, M., Rossato, S., & Besacier, L. (2020). Pratiques d’évaluation en ASR et biais de performance (Evaluation methodology in ASR and performance bias). In Actes de la 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL, 22e édition). 2e atelier Éthique et TRaitemeNt Automatique des Langues (ETeRNAL) (pp. 1-9). [[paper](https://www.aclweb.org/anthology/2020.jeptalnrecital-eternal.1)] ![Evaluation](https://img.shields.io/badge/t-evaluation-orange) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Goldfarb-Tarrant, S., Marchant, R., Sanchez, R. M., Pandya, M., & Lopez, A. (2020). Intrinsic bias metrics do not correlate with application bias. Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) [[paper](https://aclanthology.org/2021.acl-long.150/)]. ![Evaluation](https://img.shields.io/badge/t-evaluation-orange) ![published](https://img.shields.io/badge/type-published-lightgrey)
+
+* Hagendorff, T. The Ethics of AI Ethics: An Evaluation of Guidelines Minds & Machines, 2020, 30, 99-120. [[paper](https://link.springer.com/content/pdf/10.1007/s11023-020-09517-8.pdf)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)  ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J. (2020). Towards the systematic reporting of the energy and carbon footprints of machine learning. Journal of Machine Learning Research, 21(248), 1-43. [[paper](https://www.jmlr.org/papers/volume21/20-312/20-312.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
