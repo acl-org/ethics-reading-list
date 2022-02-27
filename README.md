@@ -197,20 +197,20 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 ### 2018
 [[Contents](#contents)]
 
-* Bender, E. M., & Friedman, B. (2018). Data statements for natural language processing: Toward mitigating system bias and enabling better science. Transactions of the Association for Computational Linguistics, 6, 587-604 doi:10.1162/tacl\_a\_00041 [[paper](https://www.aclweb.org/anthology/Q18-1041)] ![Data](https://img.shields.io/badge/t-data-blue)
+* Bender, E. M., & Friedman, B. (2018). Data statements for natural language processing: Toward mitigating system bias and enabling better science. Transactions of the Association for Computational Linguistics, 6, 587-604 doi:10.1162/tacl\_a\_00041 [[paper](https://www.aclweb.org/anthology/Q18-1041)] ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Broussard, M. (2018). Why the Scots are such a struggle for Alexa and Siri. The Herald,(Glasgow, UK), May, 11. ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
+<!-- * Broussard, M. (2018). Why the Scots are such a struggle for Alexa and Siri. The Herald,(Glasgow, UK), May, 11. ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![post](https://img.shields.io/badge/type-post-lightgrey)-->
 
-* Curry, A. C., & Rieser, V. (2018, June). # MeToo Alexa: How conversational systems respond to sexual harassment. In Proceedings of the second ACL workshop on ethics in natural language processing (pp. 7-14). [[paper](https://www.aclweb.org/anthology/W18-0802.pdf)] ![Biases](https://img.shields.io/badge/t-biases-pink)
+* Curry, A. C., & Rieser, V. (2018, June). # MeToo Alexa: How conversational systems respond to sexual harassment. In Proceedings of the second ACL workshop on ethics in natural language processing (pp. 7-14). [[paper](https://www.aclweb.org/anthology/W18-0802.pdf)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Fort, K., & Névéol, A. (2018, January). Présence et représentation des femmes dans le traitement automatique des langues en France. In Penser la Recherche en Informatique comme pouvant être Située, Multidisciplinaire Et Genrée (PRISME-G). [[paper](https://hal.archives-ouvertes.fr/hal-01683774)] ![Biases](https://img.shields.io/badge/t-biases-pink)
+* Fort, K., & Névéol, A. (2018, January). Présence et représentation des femmes dans le traitement automatique des langues en France. In Penser la Recherche en Informatique comme pouvant être Située, Multidisciplinaire Et Genrée (PRISME-G). [[paper](https://hal.archives-ouvertes.fr/hal-01683774)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daumé III, H., & Crawford, K. (2018). Datasheets for datasets. arXiv preprint arXiv:1803.09010. [[paper](http://arxiv.org/abs/1803.09010)] ![Data](https://img.shields.io/badge/t-data-blue)
+* Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., Daumé III, H., & Crawford, K. (2018). Datasheets for datasets. Commun. ACM 64, 12 (December 2021), 86–92. DOI:https://doi.org/10.1145/3458723. [[paper](https://dl.acm.org/doi/pdf/10.1145/3458723)] ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Holland, S., Hosny, A., Newman, S., Joseph, J., & Chmielinski, K. (2018). The dataset nutrition label: A framework to drive higher data quality standards. arXiv preprint arXiv:1805.03677.
-[[paper](https://arxiv.org/pdf/1805.03677.pdf)] ![Data](https://img.shields.io/badge/t-data-blue)
+[[paper](https://arxiv.org/pdf/1805.03677.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
 
-* Schluter, N. (2018). The glass ceiling in NLP. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (pp. 2793-2798). doi:10.18653/v1/D18-1301 [[paper](https://www.aclweb.org/anthology/D18-1301)] ![Biases](https://img.shields.io/badge/t-biases-pink)
+* Schluter, N. (2018). The glass ceiling in NLP. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (pp. 2793-2798). doi:10.18653/v1/D18-1301 [[paper](https://www.aclweb.org/anthology/D18-1301)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 ### 2017
 [[Contents](#contents)]
