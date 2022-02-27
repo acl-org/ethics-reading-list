@@ -19,7 +19,7 @@ This list is intentionally kept with simple formatting in Markdown to allow mach
 * Prefer peer-reviewed conference or journal reference and link to ArXiv whenever possible.
 
 ### Contributed by
-* [Karën Fort](https://members.loria.fr/KFort/) (Sorbonne Université)
+* [Karën Fort](https://members.loria.fr/KFort/) (Sorbonne Université and LORIA)
 * [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy) (National University of Singapore)
 
 # Contents
@@ -237,7 +237,7 @@ doi:10.18653/v1/D19-1329 [[paper](https://www.aclweb.org/anthology/D19-1329)] ![
 
 * Amblard, M. (2016). Pour un TAL responsable. Traitement Automatique des Langues, 57(2), 21-45. [[paper](https://hal.inria.fr/hal-01414145)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Clark, J. (2016). Artificial intelligence has a ‘sea of dudes’ problem. Bloomberg Technology, 23. [[paper](https://www.bloomberg.com/news/articles/2016-06-23/artificial-intelligence-has-a-sea-of-dudes-problem)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![post](https://img.shields.io/badge/type-post-lightgrey)
+<!--* Clark, J. (2016). Artificial intelligence has a ‘sea of dudes’ problem. Bloomberg Technology, 23. [[paper](https://www.bloomberg.com/news/articles/2016-06-23/artificial-intelligence-has-a-sea-of-dudes-problem)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![post](https://img.shields.io/badge/type-post-lightgrey)-->
 
 * Cohen, K. B.; Fort, K.; Adda, G.; Zhou, S. & Farri, D. Ethical Issues in Corpus Linguistics And Annotation: Pay Per Hit Does Not Affect Effective Hourly Rate For Linguistic Resource Development On Amazon Mechanical Turk ETHics In Corpus collection, Annotation and Application workshop, 2016. [[paper](https://hal.inria.fr/hal-01324362/document)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
