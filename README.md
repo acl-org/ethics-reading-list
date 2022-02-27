@@ -16,7 +16,7 @@ This list is intentionally kept with simple formatting in Markdown to allow mach
   * Tags for bibliographic type: starting with `type`
   * Simply copy the tags from the below [#tags](#tags) section to tag
   * Tags are provided using the [shields.io](http://shields.io) service
-* Prefer peer-reviewed conference or journal reference and link to ArXiv whenever possible.
+* Prefer peer-reviewed conference or journal reference to link to ArXiv whenever possible.
 
 ### Contributed by
 * [Karën Fort](https://members.loria.fr/KFort/) (Sorbonne Université and LORIA)
