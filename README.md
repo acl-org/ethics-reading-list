@@ -283,6 +283,8 @@ Proceedings of the 58th Annual Meeting of the Association for Computational Ling
 ### 2010
 [[Contents](#contents)]
 
+* Adda, G. & Mariani, J. Language resources and Amazon Mechanical Turk: legal, ethical and other issues. Proceedings of Legal Issues for Sharing Language Resources workshop in International Conference on Language Resources and Evaluation (LREC), European Language Resources Association (ELRA), 2010. [[paper](https://aclanthology.org/www.mt-archive.info/LREC-2010-Adda.pdf)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold) ![published](https://img.shields.io/badge/type-published-lightgrey)
+
 * Drugan, J. & Babych, B. Shared Resources, Shared Values? Ethical Implications of Sharing Translation Resources. Proceedings of the Second Joint EM+/CNGL Workshop: Bringing MT to the User: Research on Integrating MT in the Translation Industry, Association for Machine Translation in the Americas, 2010, 3-10. [[paper](https://aclanthology.org/2010.jec-1.2.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Snyder, J. (2010). Exploitation and sweatshop labor: Perspectives and issues. Business Ethics Quarterly, 20(2), 187-213.
