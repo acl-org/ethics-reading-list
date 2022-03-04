@@ -257,6 +257,8 @@ Proceedings of the 58th Annual Meeting of the Association for Computational Ling
 
 * Jørgensen, A., Hovy, D., & Søgaard, A. (2015, July). Challenges of studying and processing dialects in social media. In Proceedings of the workshop on noisy user-generated text (pp. 9-18). [[paper](https://www.aclweb.org/anthology/W15-4302.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
+* Lefeuvre A., Antoine J-Y., Allegre W.. Ethique conséquentialiste et traitement automatique des langues : une typologie de facteurs de risques adaptée aux technologies langagières. Atelier Ethique et TRaitemeNt Automatique des Langues (ETeRNAL'2015), conférence TALN'2015, Jun 2015, Caen, France. pp.53-66. ⟨hal-01170630⟩ [[paper](https://hal.archives-ouvertes.fr/hal-01170630/document)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)  ![published](https://img.shields.io/badge/type-published-lightgrey)
+
 ### 2014
 [[Contents](#contents)]
 
