@@ -240,7 +240,7 @@ Proceedings of the 58th Annual Meeting of the Association for Computational Ling
 
 * Hovy, D., & Spruit, S. L. (2016, August). The social impact of natural language processing. In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (pp. 591-598) doi:10.18653/v1/P16-2096. [[paper](https://www.aclweb.org/anthology/P16-2096)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Larson, J., Angwin, J., & Parris, T. (2016). Breaking the black box: How machines learn to be racist. _ProPublica_. ![Biases](https://img.shields.io/badge/t-biases-pink) ![post](https://img.shields.io/badge/type-post-lightgrey)
+* Larson, J., Angwin, J., & Parris, T. (2016). Breaking the black box: How machines learn to be racist. _ProPublica_. [[paper](https://www.propublica.org/article/breaking-the-black-box-how-machines-learn-to-be-racist)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![post](https://img.shields.io/badge/type-post-lightgrey)
 
 * Lefeuvre-Halftermeyer, A., Govaere, V., Antoine, J. Y., Allegre, W., Pouplin, S., Departe, J. P., ... & Spagnulo, A. (2016). Typologie des risques pour une analyse éthique de l'impact des technologies du TAL. Traitement Automatique des Langues, 57(2), 47-71. [[paper](https://hal.archives-ouvertes.fr/hal-01501192)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
