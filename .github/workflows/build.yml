@@ -21,8 +21,8 @@ jobs:
       - name: commit
         run: |
           # Stage the file, commit and push
-          git add biases.md
-          git commit -m "new biases commit"
+          git add .
+          git commit -am "new biases commit"
           git push origin
       
       - run: echo "🍏 This job's status is ${{ job.status }}."
