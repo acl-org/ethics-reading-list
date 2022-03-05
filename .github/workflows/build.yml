@@ -1,7 +1,6 @@
 name: Build Single Tag Versions
 on: [push]
-jobs:
-  Build-Single-Tag-Versions
+jobs: Build-Single-Tag-Versions
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
