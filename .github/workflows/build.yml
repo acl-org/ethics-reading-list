@@ -1,7 +1,7 @@
-name: GitHub Actions Demo
+name: Build Single Tag Versions
 on: [push]
 jobs:
-  Explore-GitHub-Actions:
+  Build-Single-Tag-Versions
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
@@ -13,5 +13,6 @@ jobs:
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - name: List files in the repository
         run: |
-          ls ${{ github.workspace }}
+           python grep biases ${{ github.workspace }}/README.md
+      #    ls ${{ github.workspace }}  
       - run: echo "🍏 This job's status is ${{ job.status }}."
