@@ -14,7 +14,7 @@ This list is intentionally kept with simple formatting in Markdown to allow mach
 * Papers are organized by tags.  We accept PRs to add or re-organize tags.  Please help tag your own papers!
   * Tags for topics: starting with `t`
   * Tags for bibliographic type: starting with `type`
-  * Simply copy the tags from the below [#tags](#tags) section to tag
+  * Simply copy the tags from the below [#tags](#tags) section to tag, ordering tags alphabetically and putting **t**opic tags before **type** ones.
   * Tags are provided using the [shields.io](http://shields.io) service
 * Prefer peer-reviewed conference or journal reference to link to ArXiv whenever possible.
 
@@ -39,7 +39,7 @@ This list is intentionally kept with simple formatting in Markdown to allow mach
 
 ## Tags
 
-We have tagged papers with several topic tags and bibliographic type.  These are indicative tags and not comprehensive.  We accept pull requests to change them!
+We have tagged papers with several topic tags and bibliographic type.  You can click on these images to get to per-topic or per-type filtered versions of this list (automatically produced on new pushes to the repository).  These are indicative tags and not comprehensive.  We accept pull requests to change them!
 
 #### By Topic
 
