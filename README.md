@@ -43,23 +43,23 @@ We have tagged papers with several topic tags and bibliographic type.  These are
 
 #### By Topic
 
-![General Resources](https://img.shields.io/badge/t-general%20resources-red)
-![Biases](https://img.shields.io/badge/t-biases-pink)
-![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)
-![Data](https://img.shields.io/badge/t-data-blue)
-![Dual Use](https://img.shields.io/badge/t-dual%20use-purple)
-![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)
-![Evaluation](https://img.shields.io/badge/t-evaluation-orange)
-![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)
-![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)
-![Uncategorized](https://img.shields.io/badge/t-uncategorized-grey)
+![General Resources](https://img.shields.io/badge/t-general%20resources-red) [filter only for General Resources](t-general-resources.md)
+![Biases](https://img.shields.io/badge/t-biases-pink) [filter only for Biases](t-biases.md)
+![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold) [filter only for Crowdsourcing Issues](t-crowdsourcing-issues.md)
+![Data](https://img.shields.io/badge/t-data-blue) [filter only for Data](t-Data.md)
+![Dual Use](https://img.shields.io/badge/t-dual%20use-purple) [filter only for Dual Use](t-dual-use.md)
+![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) [filter only for Environmental Impact](t-environmental-impact.md)
+![Evaluation](https://img.shields.io/badge/t-evaluation-orange) [filter only for Evaluation](t-evaluation.md)
+![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) [filter only for Language Diversity](t-language-diversity.md)
+![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow) [filter only for Model Issues](t-model-issues.md)
+![Uncategorized](https://img.shields.io/badge/t-uncategorized-grey) [filter only for Uncategorized](t-uncategorized.md)
 
 #### By Bibliographic Type
 
-![published](https://img.shields.io/badge/type-published-lightgrey)
-![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
-![post](https://img.shields.io/badge/type-post-lightgrey)
-![report](https://img.shields.io/badge/type-report-lightgrey)
+![published](https://img.shields.io/badge/type-published-lightgrey) [filter only for Published](t-published.md)
+![preprint](https://img.shields.io/badge/type-preprint-lightgrey) [filter only for Preprint](t-preprint.md)
+![post](https://img.shields.io/badge/type-post-lightgrey) [filter only for Post](type-post.md)
+![report](https://img.shields.io/badge/type-report-lightgrey) [filter only for Report](type-report.md)
 
 ### 2022
 [[Contents](#contents)]
