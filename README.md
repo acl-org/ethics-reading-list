@@ -9,7 +9,7 @@ This list is intentionally kept with simple formatting in Markdown to allow mach
 ### Guidelines
 * Add your name to the [contributors](#contributed-by) section as part of your PR.  Include an affiliation and a weblink if you'd like.
 * References follow a two-tier organization: by year, then by first-author surname.  #tag papers with topics so that they can be found on a per topic basis.
-* Use APA style where possible.
+* Use APA style where possible.  Confine references to a **single line**.
 * Add minimally a `paper` link to direct readers directly to the `.pdf` or metadata page (ACL Anthology for example) of the paper.
 * Papers are organized by tags.  We accept PRs to add or re-organize tags.  Please help tag your own papers!
   * Tags for topics: starting with `t`
@@ -46,8 +46,8 @@ We have tagged papers with several topic tags and bibliographic type.  These are
 [![General Resources](https://img.shields.io/badge/t-general%20resources-red)](t-general-resources.md)
 [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md)
 [![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)](t-crowdsourcing-issues.md)
-[![Data](https://img.shields.io/badge/t-data-blue)](t-Data.md)]
-[![Dual Use](https://img.shields.io/badge/t-dual%20use-purple)](t-dual-use.md)]
+[![Data](https://img.shields.io/badge/t-data-blue)](t-data.md)
+[![Dual Use](https://img.shields.io/badge/t-dual%20use-purple)](t-dual-use.md)
 [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
 [![Evaluation](https://img.shields.io/badge/t-evaluation-orange)](t-evaluation.md)
 [![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)](t-language-diversity.md)
@@ -69,15 +69,11 @@ We have tagged papers with several topic tags and bibliographic type.  These are
 
 * Aka, O., Burke, K., Bäuerle, A., Greer, C., & Mitchell, M. (2021). Measuring Model Biases in the Absence of Ground Truth. DOI:10.1145/3461702.3462557. AIES '21: AAAI/ACM Conference on AI, Ethics, and Society. [[paper](https://arxiv.org/abs/2103.03417)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-
 * Nesrine Bannour, Sahar Ghannay, Aurélie Névéol, and Anne-Laure Ligozat. 2021. Evaluating the carbon footprint of NLP methods: a survey and analysis of existing tools. In Proceedings of the Second Workshop on Simple and Efficient Natural Language Processing, pages 11–21, Virtual. Association for Computational Linguistics. [[paper](https://aclanthology.org/2021.sustainlp-1.2.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![published](https://img.shields.io/badge/type-published-lightgrey)
-
 
 * Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 610-623). doi:10.1145/3442188.3445922 [[paper](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow) ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-
 * Birhane, A., Prabhu, V. U., & Kahembwe, E. (2021). Multimodal datasets: misogyny, pornography, and malignant stereotypes. arXiv preprint arXiv:2110.01963. [[paper](https://arxiv.org/pdf/2110.01963)] ![Data](https://img.shields.io/badge/t-data-blue) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
-
 
 * Dodge, J., Sap, M., Marasovic, A., Agnew, W., Ilharco, G., Groeneveld, D., ... & Face, H. (2021, September). Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pages 1286–1305, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics. [[paper](https://aclanthology.org/2021.emnlp-main.98.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
@@ -102,8 +98,7 @@ We have tagged papers with several topic tags and bibliographic type.  These are
 
 * Anthony, L. F. W., Kanding, B., & Selvan, R. (2020). Carbontracker: Tracking and predicting the carbon footprint of training deep learning models. arXiv preprint arXiv:2007.03051. [[paper](https://arxiv.org/pdf/2007.03051)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
 
-* Bird, S. (2020, December). Decolonising speech and language technology. In Proceedings of the 28th International Conference on Computational Linguistics (pp. 3504-3519). doi:10.18653/v1/2020.coling-main.313
-[[paper](https://www.aclweb.org/anthology/2020.coling-main.313)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Bird, S. (2020, December). Decolonising speech and language technology. In Proceedings of the 28th International Conference on Computational Linguistics (pp. 3504-3519). doi:10.18653/v1/2020.coling-main.313 [[paper](https://www.aclweb.org/anthology/2020.coling-main.313)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Blodgett, S. L., Barocas, S., Daumé III, H., & Wallach, H. (2020). Language (technology) is power: A critical survey of "bias" in NLP.  In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 5454–5476, Online. Association for Computational Linguistics. doi:10.18653/v1/2020.acl-main.485. [[paper](https://www.aclweb.org/anthology/2020.acl-main.485)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
@@ -147,11 +142,9 @@ We have tagged papers with several topic tags and bibliographic type.  These are
 
 * Schwartz, R., Dodge, J., Smith, N. A., & Etzioni, O. (2020). Green AI. Communications of the ACM, 63(12), 54-63. [[paper](http://arxiv.org/abs/1907.10597)]  ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Tan, S., Joty, S., Kan, M. Y., & Socher, R. (2020, July). It's Morphin'Time! Combating Linguistic Discrimination with Inflectional Perturbations.
-Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. [[paper](https://aclanthology.org/2020.acl-main.263.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Tan, S., Joty, S., Kan, M. Y., & Socher, R. (2020, July). It's Morphin'Time! Combating Linguistic Discrimination with Inflectional Perturbations. Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. [[paper](https://aclanthology.org/2020.acl-main.263.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Tan, S., Joty, S., Varshney, L. R., & Kan, M. Y. (2020, November). Mind your inflections! Improving NLP for non-standard Englishes with Base-Inflection Encoding. Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).
-[[paper](https://aclanthology.org/2020.emnlp-main.455v2.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Tan, S., Joty, S., Varshney, L. R., & Kan, M. Y. (2020, November). Mind your inflections! Improving NLP for non-standard Englishes with Base-Inflection Encoding. Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP). [[paper](https://aclanthology.org/2020.emnlp-main.455v2.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Trebaol, M. J. T., Hartley, M.-A., & Ghadikolaei, H. S. (2020). A tool to quantify and report the carbon footprint of machine learning computations and communication in academia and healthcare. Infoscience EPFL: record 278189. [[report](https://infoscience.epfl.ch/record/278189/files/Msc_semester_project_report_TTre%CC%81baol_cumulator.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![report](https://img.shields.io/badge/type-post-lightgrey)
 
@@ -202,8 +195,7 @@ Proceedings of the 58th Annual Meeting of the Association for Computational Ling
 
 * Hara, K.; Adams, A.; Milland, K.; Savage, S.; Callison-Burch, C. & Bigham, J. P. A Data-Driven Analysis of Workers' Earnings on Amazon Mechanical Turk CHI 2018, 2018.  [[paper](https://www.cis.upenn.edu/~ccb/publications/data-driven-analysis-of-workers-earnings-on-amazon-mechanical-turk.pdf)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Holland, S., Hosny, A., Newman, S., Joseph, J., & Chmielinski, K. (2018). The dataset nutrition label: A framework to drive higher data quality standards. arXiv preprint arXiv:1805.03677.
-[[paper](https://arxiv.org/pdf/1805.03677.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
+* Holland, S., Hosny, A., Newman, S., Joseph, J., & Chmielinski, K. (2018). The dataset nutrition label: A framework to drive higher data quality standards. arXiv preprint arXiv:1805.03677. [[paper](https://arxiv.org/pdf/1805.03677.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
 
 * Schluter, N. (2018). The glass ceiling in NLP. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (pp. 2793-2798). doi:10.18653/v1/D18-1301 [[paper](https://www.aclweb.org/anthology/D18-1301)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
@@ -221,7 +213,6 @@ Proceedings of the 58th Annual Meeting of the Association for Computational Ling
 * Mieskes, M. (2017, April). A quantitative study of data in the NLP community. In Proceedings of the first ACL workshop on ethics in natural language processing (pp. 23-29). [[paper](https://www.aclweb.org/anthology/W17-1603.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Parra Escartin, C.; Reijers, W.; Lynn, T.; Moorkens, J.; Way, A. & Liu, C.-H. Ethical Considerations in NLP Shared Tasks. In Proceedings of the First ACL Workshop on Ethics in Natural Language Processing, Association for Computational Linguistics, 2017, 66-73.  [[paper](https://aclanthology.org/W17-1608.pdf)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red) ![published](https://img.shields.io/badge/type-published-lightgrey)
-
 
 * Šuster, S., Tulkens, S., & Daelemans, W. (2017). A short review of ethical challenges in clinical natural language processing.  In Proceedings of the First ACL Workshop on Ethics in Natural Language Processing. [[paper](https://arxiv.org/pdf/1703.10090)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
