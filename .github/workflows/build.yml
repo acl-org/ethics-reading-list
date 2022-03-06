@@ -11,23 +11,26 @@ jobs:
       - name: Create topic files in repository
         run: |
           grep t-general%20resources ${{ github.workspace }}/README.md > t-general-resources.md
-          grep t-biases ${{ github.workspace }}/README.md > t-biases.md
           grep t-crowdsourcing%20issues ${{ github.workspace }}/README.md > t-crowdsourcing-issues.md
-          grep t-data ${{ github.workspace }}/README.md > t-data.md
           grep t-dual%20use ${{ github.workspace }}/README.md > t-dual-use.md
-          grep t-environmental%20impact ${{ github.workspace }}/README.md > t-environmental-impact.md
-          grep t-evaluation ${{ github.workspace }}/README.md > t-evaluation.md
+          grep t-model%20issues ${{ github.workspace }}/README.md > t-model-issues.md
           grep t-language%20diversity ${{ github.workspace }}/README.md > t-language-diversity.md
-          grep model%20issues ${{ github.workspace }}/README.md > t-model-issues.md
-          grep uncategorized ${{ github.workspace }}/README.md > t-uncategorized.md
+          grep t-environmental%20impact ${{ github.workspace }}/README.md > t-environmental-impact.md
+          # single
+          grep t-biases ${{ github.workspace }}/README.md > x-biases.md
+          grep t-data ${{ github.workspace }}/README.md > x-data.md
+          grep t-evaluation ${{ github.workspace }}/README.md > x-evaluation.md
+          grep t-uncategorized ${{ github.workspace }}/README.md > x-uncategorized.md
+          for n in biases data evaluation uncategorized; do cat single-file-header.md x-$n.md > t-$n.md; done
+          rm -f x-*
 
       - name: Create type files in repository
         run: |
-          grep type-published ${{ github.workspace }}/README.md > x-published.md
-          grep type-preprint ${{ github.workspace }}/README.md > x-preprint.md
-          grep type-post ${{ github.workspace }}/README.md > x-post.md
-          grep type-report ${{ github.workspace }}/README.md > x-report.md
-          for n in published preprint post report; do cat single-file-header.md x-$n.md > type-$n.md; done
+#          grep type-published ${{ github.workspace }}/README.md > x-published.md
+#          grep type-preprint ${{ github.workspace }}/README.md > x-preprint.md
+#          grep type-post ${{ github.workspace }}/README.md > x-post.md
+#          grep type-report ${{ github.workspace }}/README.md > x-report.md
+          for n in published preprint post report; do grep type-$n ${{ github.workspace }}/README.md > x-$n.md; cat single-file-header.md x-$n.md > type-$n.md; done
           rm -f x-*
           
       - name: setup git config
