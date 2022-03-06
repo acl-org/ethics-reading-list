@@ -26,10 +26,10 @@ jobs:
 
       - name: Create type files in repository
         run: |
-#          grep type-published ${{ github.workspace }}/README.md > x-published.md
-#          grep type-preprint ${{ github.workspace }}/README.md > x-preprint.md
-#          grep type-post ${{ github.workspace }}/README.md > x-post.md
-#          grep type-report ${{ github.workspace }}/README.md > x-report.md
+          #          grep type-published ${{ github.workspace }}/README.md > x-published.md
+          #          grep type-preprint ${{ github.workspace }}/README.md > x-preprint.md
+          #          grep type-post ${{ github.workspace }}/README.md > x-post.md
+          #          grep type-report ${{ github.workspace }}/README.md > x-report.md
           for n in published preprint post report; do grep type-$n ${{ github.workspace }}/README.md > x-$n.md; cat single-file-header.md x-$n.md > type-$n.md; done
           rm -f x-*
           
