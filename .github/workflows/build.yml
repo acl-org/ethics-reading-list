@@ -23,10 +23,12 @@ jobs:
 
       - name: Create type files in repository
         run: |
-          grep type-published ${{ github.workspace }}/README.md > type-published.md
-          grep type-preprint ${{ github.workspace }}/README.md > type-preprint.md
-          grep type-post ${{ github.workspace }}/README.md > type-post.md
-          grep type-report ${{ github.workspace }}/README.md > type-report.md
+          grep type-published ${{ github.workspace }}/README.md > x-published.md
+          grep type-preprint ${{ github.workspace }}/README.md > x-preprint.md
+          grep type-post ${{ github.workspace }}/README.md > x-post.md
+          grep type-report ${{ github.workspace }}/README.md > x-report.md
+          for n in published preprint post report do cat single-file-header.md x-$.md > type-$n.md; done
+          rm -f x-*
           
       - name: setup git config
         run: |
