@@ -18,7 +18,7 @@ jobs:
           grep t-environmental%20impact ${{ github.workspace }}/README.md > t-environmental-impact.md
           grep t-evaluation ${{ github.workspace }}/README.md > t-evaluation.md
           grep t-language%20diversity ${{ github.workspace }}/README.md > t-language-diversity.md
-          grep model%20issues ${{ github.workspace }}/README.md > t-model%20issues.md
+          grep model%20issues ${{ github.workspace }}/README.md > t-model-issues.md
           grep uncategorized ${{ github.workspace }}/README.md > t-uncategorized.md
 
       - name: Create type files in repository
@@ -30,8 +30,7 @@ jobs:
           
       - name: setup git config
         run: |
-          # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
-          git config user.name "GitHub Actions Bot"
+          git config user.name "ACL Ethics Bibliography Actions Bot"
           git config user.email "<>"
 
       - name: commit
