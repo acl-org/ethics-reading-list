@@ -10,14 +10,8 @@ jobs:
 
       - name: Create topic files in repository
         run: |
-          grep t-general%20resources ${{ github.workspace }}/README.md > t-general-resources.md
-          grep t-crowdsourcing%20issues ${{ github.workspace }}/README.md > t-crowdsourcing-issues.md
-          grep t-dual%20use ${{ github.workspace }}/README.md > t-dual-use.md
-          grep t-model%20issues ${{ github.workspace }}/README.md > t-model-issues.md
-          grep t-language%20diversity ${{ github.workspace }}/README.md > t-language-diversity.md
-          grep t-environmental%20impact ${{ github.workspace }}/README.md > t-environmental-impact.md
-          # two word tag do a=( $i ); echo "${a[1]}"; echo "${a[0]}"; d
-          for n in "general%20resources general-resources"; do a=( $n ); grep t-${a[0]} ${{ github.workspace }}/README.md > x-${a[1]}.md; cat single-file-header.md x-${a[1]}.md > t-${a[1]}.md; done
+          # multi-word tags
+          for n in "general%20resources general-resources" "crowdsourcing%20issues crowdsourcing-issues" "dual%20use dual-use" "model%20issues model-issues" "language%20diversity language-diversity" "environmental%20impact environmental-impact"; do a=( $n ); grep t-${a[0]} ${{ github.workspace }}/README.md > x-${a[1]}.md; cat single-file-header.md x-${a[1]}.md > t-${a[1]}.md; done
           rm -f x-*
           # single word tag
           for n in biases data evaluation uncategorized; do grep t-$n ${{ github.workspace }}/README.md > x-$n.md; cat single-file-header.md x-$n.md > t-$n.md; done
@@ -25,10 +19,6 @@ jobs:
 
       - name: Create type files in repository
         run: |
-          #          grep type-published ${{ github.workspace }}/README.md > x-published.md
-          #          grep type-preprint ${{ github.workspace }}/README.md > x-preprint.md
-          #          grep type-post ${{ github.workspace }}/README.md > x-post.md
-          #          grep type-report ${{ github.workspace }}/README.md > x-report.md
           for n in published preprint post report; do grep type-$n ${{ github.workspace }}/README.md > x-$n.md; cat single-file-header.md x-$n.md > type-$n.md; done
           rm -f x-*
           
