@@ -36,6 +36,7 @@ This list is intentionally kept with simple formatting in Markdown to allow mach
 * [2013](#2013)
 * [2011](#2011)
 * [2010](#2010)
+* [2006](#2006)
 
 ## Tags
 
@@ -218,7 +219,6 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 
 * Šuster, S., Tulkens, S., & Daelemans, W. (2017). A short review of ethical challenges in clinical natural language processing.  In Proceedings of the First ACL Workshop on Ethics in Natural Language Processing. [[paper](https://arxiv.org/pdf/1703.10090)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-
 * Tatman, R. (2017, April). Gender and dialect bias in YouTube’s automatic captions. In Proceedings of the First ACL Workshop on Ethics in Natural Language Processing (pp. 53-59). [[paper](https://www.aclweb.org/anthology/W17-1606.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 ### 2016
@@ -285,3 +285,7 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 
 * Snyder, J. (2010). Exploitation and sweatshop labor: Perspectives and issues. Business Ethics Quarterly, 20(2), 187-213.
 [[paper](https://crowdsourcing-class.org/readings/downloads/ethics/exploitation-and-sweatshop-labor.pdf)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold) ![published](https://img.shields.io/badge/type-published-lightgrey)
+
+### 2006
+
+* Kacmarcik, G., & Gamon, M. (2006, July). Obfuscating document stylometry to preserve author anonymity. In Proceedings of the COLING/ACL 2006 Main Conference Poster Sessions (pp. 444-451). [[paper](https://aclanthology.org/P06-2058.pdf)] [![Dual Use](https://img.shields.io/badge/t-dual%20use-purple)](t-dual-use.md) ![published](https://img.shields.io/badge/type-published-lightgrey)
