@@ -27,7 +27,7 @@ jobs:
           grep type-preprint ${{ github.workspace }}/README.md > x-preprint.md
           grep type-post ${{ github.workspace }}/README.md > x-post.md
           grep type-report ${{ github.workspace }}/README.md > x-report.md
-          for n in published preprint post report do cat single-file-header.md x-$.md > type-$n.md; done
+          for n in published preprint post report; do cat single-file-header.md x-$.md > type-$n.md; done
           rm -f x-*
           
       - name: setup git config
