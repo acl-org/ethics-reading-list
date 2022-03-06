@@ -56,8 +56,8 @@ We have tagged papers with several topic tags and bibliographic type.  These are
 
 #### By Bibliographic Type
 
-[![published](https://img.shields.io/badge/type-published-lightgrey)](t-published.md)
-[![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](t-preprint.md)
+[![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+[![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md)
 [![post](https://img.shields.io/badge/type-post-lightgrey)](type-post.md)
 [![report](https://img.shields.io/badge/type-report-lightgrey)](type-report.md)
 
