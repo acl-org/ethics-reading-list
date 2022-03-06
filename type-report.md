@@ -1,2 +1,2 @@
-![report](https://img.shields.io/badge/type-report-lightgrey)
+[![report](https://img.shields.io/badge/type-report-lightgrey)](type-report.md)
 * Moss, E., Watkins, E. A., Singh, R., Elish, M. C., & Metcalf, J. (2021). Assembling Accountability: Algorithmic Impact Assessment for the Public Interest. Available at SSRN 3877437. [[paper](https://apo.org.au/sites/default/files/resource-files/2021-06/apo-nid313046.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) ![report](https://img.shields.io/badge/type-report-lightgrey)

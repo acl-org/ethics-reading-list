@@ -1,4 +1,4 @@
-![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
+[![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](t-preprint.md)
 * Birhane, A., Prabhu, V. U., & Kahembwe, E. (2021). Multimodal datasets: misogyny, pornography, and malignant stereotypes. arXiv preprint arXiv:2110.01963. [[paper](https://arxiv.org/pdf/2110.01963)] ![Data](https://img.shields.io/badge/t-data-blue) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
 * Anthony, L. F. W., Kanding, B., & Selvan, R. (2020). Carbontracker: Tracking and predicting the carbon footprint of training deep learning models. arXiv preprint arXiv:2007.03051. [[paper](https://arxiv.org/pdf/2007.03051)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
 * Raji, I. D., & Yang, J. (2019). About ML: Annotation and benchmarking on understanding and transparency of machine learning lifecycles. arXiv preprint arXiv:1912.06166. [[paper](https://arxiv.org/pdf/1912.06166)] ![Data](https://img.shields.io/badge/t-data-blue) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)

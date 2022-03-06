@@ -1,2 +1,2 @@
-![Uncategorized](https://img.shields.io/badge/t-uncategorized-grey)
+[![Uncategorized](https://img.shields.io/badge/t-uncategorized-grey)](t-uncategorized.md)
 * Schneider, J. M., Rehm, G., Montiel-Ponsoda, E., Doncel, V. R., Revenko, A., Karampatakis, S., ... & Maganza, F. (2020, May). Orchestrating NLP Services for the Legal Domain. In Proceedings of the 12th Language Resources and Evaluation Conference (pp. 2332-2340). [[paper](https://aclanthology.org/2020.lrec-1.284)] ![Uncategorized](https://img.shields.io/badge/t-uncategorized-grey) ![published](https://img.shields.io/badge/type-published-lightgrey)
