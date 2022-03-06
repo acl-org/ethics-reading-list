@@ -214,7 +214,10 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 
 * Parra Escartin, C.; Reijers, W.; Lynn, T.; Moorkens, J.; Way, A. & Liu, C.-H. Ethical Considerations in NLP Shared Tasks. In Proceedings of the First ACL Workshop on Ethics in Natural Language Processing, Association for Computational Linguistics, 2017, 66-73.  [[paper](https://aclanthology.org/W17-1608.pdf)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
+* Rudinger, R., May, C., & Van Durme, B. (2017, April). Social bias in elicited natural language inferences. In Proceedings of the First ACL Workshop on Ethics in Natural Language Processing (pp. 74-79). [[paper](https://aclanthology.org/W17-1609.pdf)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
+
 * Šuster, S., Tulkens, S., & Daelemans, W. (2017). A short review of ethical challenges in clinical natural language processing.  In Proceedings of the First ACL Workshop on Ethics in Natural Language Processing. [[paper](https://arxiv.org/pdf/1703.10090)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red) ![published](https://img.shields.io/badge/type-published-lightgrey)
+
 
 * Tatman, R. (2017, April). Gender and dialect bias in YouTube’s automatic captions. In Proceedings of the First ACL Workshop on Ethics in Natural Language Processing (pp. 53-59). [[paper](https://www.aclweb.org/anthology/W17-1606.pdf)] ![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
