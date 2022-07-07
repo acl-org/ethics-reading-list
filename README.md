@@ -204,6 +204,8 @@ AAAI/ACM Conference on AI, Ethics, and Society, Association for Computing Machin
 
 * Holland, S., Hosny, A., Newman, S., Joseph, J., & Chmielinski, K. (2018). The dataset nutrition label: A framework to drive higher data quality standards. arXiv preprint arXiv:1805.03677. [[paper](https://arxiv.org/pdf/1805.03677.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) ![preprint](https://img.shields.io/badge/type-preprint-lightgrey)
 
+* Kiritchenko S. and Mohammad S. 2018. Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems. In Proceedings of the Seventh Joint Conference on Lexical and Computational Semantics, pages 43–53, New Orleans, Louisiana. Association for Computational Linguistics. [[paper](https://aclanthology.org/S18-2005.pdf)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
+
 * Schluter, N. (2018). The glass ceiling in NLP. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (pp. 2793-2798). doi:10.18653/v1/D18-1301 [[paper](https://www.aclweb.org/anthology/D18-1301)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 ### 2017
