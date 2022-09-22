@@ -21,6 +21,7 @@ This list is intentionally kept with simple formatting in Markdown to allow mach
 ### Contributed by
 * [Karën Fort](https://members.loria.fr/KFort/) (Sorbonne Université and LORIA)
 * [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy) (National University of Singapore)
+* [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) (University of Washington)
 
 # Contents
 
@@ -93,7 +94,7 @@ AAAI/ACM Conference on AI, Ethics, and Society, Association for Computing Machin
 
 * Dodge, J., Sap, M., Marasovic, A., Agnew, W., Ilharco, G., Groeneveld, D., ... & Face, H. (2021, September). Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pages 1286–1305, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics. [[paper](https://aclanthology.org/2021.emnlp-main.98.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Field, A., Blodgett, S. L., Talat, Z., & Tsvetkov, Y. (2021, August). A Survey of Race, Racism, and Anti-Racism in NLP. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 1905-1925). [[paper]([https://arxiv.org/pdf/2110.01963](https://aclanthology.org/2021.acl-long.149))] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow) ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Field, A., Blodgett, S. L., Talat, Z., & Tsvetkov, Y. (2021, August). A Survey of Race, Racism, and Anti-Racism in NLP. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pages 1905–1925, Online. Association for Computational Linguistics. doi:10.18653/v1/2021.acl-long.149 [[paper](https://aclanthology.org/2021.acl-long.149/)] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow) ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Kreutzer, J., Caswell, I., Wang, L., Wahab, A., van Esch, D., Ulzii-Orshikh, N., ... & Adeyemi, M. (2021). Quality at a glance: An audit of web-crawled multilingual datasets.Transactions of the Association for Computational Linguistics, The MIT Press, 2022, 10, pp.50-72. [[paper](https://hal.inria.fr/hal-03177623/document)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
