@@ -79,6 +79,7 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 
 * Névéol A., Dupont Y., Bezançon J., and Fort K.. 2022. French CrowS-Pairs: Extending a challenge dataset for measuring social bias in masked language models to a language other than English. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 8521–8531, Dublin, Ireland. Association for Computational Linguistics. [[paper](https://aclanthology.org/2022.acl-long.583.pdf)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
+* Przybyła P., and Shardlow M. 2022. Using NLP to quantify the environmental cost and diversity benefits of in-person NLP conferences. In Findings of the Association for Computational Linguistics: ACL 2022, pages 3853–3863, Dublin, Ireland. Association for Computational Linguistics. [[paper](https://aclanthology.org/2022.findings-acl.304/)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 ### 2021
 [[Contents](#contents)]
