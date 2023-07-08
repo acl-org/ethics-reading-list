@@ -23,6 +23,7 @@ This list is intentionally kept with simple formatting in Markdown to allow mach
 * [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy) (National University of Singapore)
 * [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) (University of Washington)
 * [Luciana Benotti](https://benotti.github.io/) (Universidad Nacional de Córdoba)
+* [Yisong Miao](http://yisong.me) (National University of Singapore)
 
 # Contents
 
