@@ -64,6 +64,14 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 [![post](https://img.shields.io/badge/type-post-lightgrey)](type-post.md)
 [![report](https://img.shields.io/badge/type-report-lightgrey)](type-report.md)
 
+### 2023
+
+[[Contents](#contents)]
+
+- Pyatkin, V., Yung, F., Scholman, M. C., Tsarfaty, R., Dagan, I., & Demberg, V. (2023). Design Choices for Crowdsourcing Implicit Discourse Relations: Revealing the Biases Introduced by Task Design. Transaction of Association for Computational Linguistics (TACL '23). [[paper](https://arxiv.org/abs/2304.00815)] [![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)](t-crowdsourcing-issues.md)  [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+- Kirk, H. R., Vidgen, B., Röttger, P., Thrush, T., & Hale, S. A. (2023). Hatemoji: A test suite and adversarially-generated dataset for benchmarking and detecting emoji-based hate. Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. (NAACL '23') 10.18653/v1/2022.naacl-main.97 [[paper](https://aclanthology.org/2022.naacl-main.97/)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![Evaluation](https://img.shields.io/badge/t-evaluation-orange)](t-evaluation.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+
 ### 2022
 [[Contents](#contents)]
 
