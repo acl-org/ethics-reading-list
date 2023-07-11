@@ -19,14 +19,16 @@ This list is intentionally kept with simple formatting in Markdown to allow mach
 * Prefer peer-reviewed conference or journal reference to link to ArXiv whenever possible.
 
 ### Contributed by
+(put in alpha order by surname)
+* [Luciana Benotti](https://benotti.github.io/) (Universidad Nacional de Córdoba)
 * [Karën Fort](https://members.loria.fr/KFort/) (Sorbonne Université and LORIA)
 * [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy) (National University of Singapore)
-* [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) (University of Washington)
-* [Luciana Benotti](https://benotti.github.io/) (Universidad Nacional de Córdoba)
 * [Yisong Miao](http://yisong.me) (National University of Singapore)
+* [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) (University of Washington)
 
 # Contents
 
+* [2023](#2023)
 * [2022](#2022)
 * [2021](#2021)
 * [2020](#2020)
@@ -69,8 +71,9 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 
 [[Contents](#contents)]
 
-- Pyatkin, V., Yung, F., Scholman, M. C., Tsarfaty, R., Dagan, I., & Demberg, V. (2023). Design Choices for Crowdsourcing Implicit Discourse Relations: Revealing the Biases Introduced by Task Design. Transaction of Association for Computational Linguistics (TACL '23). [[paper](https://arxiv.org/abs/2304.00815)] [![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)](t-crowdsourcing-issues.md)  [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
-- Kirk, H. R., Vidgen, B., Röttger, P., Thrush, T., & Hale, S. A. (2023). Hatemoji: A test suite and adversarially-generated dataset for benchmarking and detecting emoji-based hate. Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. (NAACL '23') 10.18653/v1/2022.naacl-main.97 [[paper](https://aclanthology.org/2022.naacl-main.97/)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![Evaluation](https://img.shields.io/badge/t-evaluation-orange)](t-evaluation.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+* Kirk, H. R., Vidgen, B., Röttger, P., Thrush, T., and Hale, S. A. (2023). Hatemoji: A test suite and adversarially-generated dataset for benchmarking and detecting emoji-based hate. Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. (NAACL '23') 10.18653/v1/2022.naacl-main.97 [[paper](https://aclanthology.org/2022.naacl-main.97/)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![Evaluation](https://img.shields.io/badge/t-evaluation-orange)](t-evaluation.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+* McMillan-Major, Angelina, Emily M. Bender and Batya Friedman. (2023). Data Statements: From Technical Concept to Community Practice, ACM Journal on Responsible Computing. [[paper](https://dl.acm.org/doi/10.1145/3594737)] [![Data](https://img.shields.io/badge/t-data-blue)](t-data.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+* Pyatkin, V., Yung, F., Scholman, M. C., Tsarfaty, R., Dagan, I., and Demberg, V. (2023). Design Choices for Crowdsourcing Implicit Discourse Relations: Revealing the Biases Introduced by Task Design. Transaction of Association for Computational Linguistics (TACL '23). [[paper](https://arxiv.org/abs/2304.00815)] [![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)](t-crowdsourcing-issues.md)  [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
 
 ### 2022
@@ -78,17 +81,17 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 
 * Alorwu, A., Savage, S., van Berkel, N., Ustalov, D., Drutsa, A., Oppenlaender, J., Bates, O., Hettiachchi, D., Gadiraju, U., Goncalves, J., and Hosio, S. (2022). REGROW: Reimagining Global Crowdsourcing for Better Human-AI Collaboration. In Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems (CHI EA '22). Association for Computing Machinery, New York, NY, USA, Article 88, 1–7 [[paper](https://dl.acm.org/doi/10.1145/3491101.3503725)] ![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Chalkidis I., Pasini T., Zhang S., Tomada L., Schwemer S., and Søgaard A. 2022. FairLex: A Multilingual Benchmark for Evaluating Fairness in Legal Text Processing. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 4389–4406, Dublin, Ireland. Association for Computational Linguistics. [[paper](https://aclanthology.org/2022.acl-long.301.pdf)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Chalkidis I., Pasini T., Zhang S., Tomada L., Schwemer S., and Søgaard A. (2022). FairLex: A Multilingual Benchmark for Evaluating Fairness in Legal Text Processing. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 4389–4406, Dublin, Ireland. Association for Computational Linguistics. [[paper](https://aclanthology.org/2022.acl-long.301.pdf)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Meade N., Poole-Dayan E., and Reddy S. 2022. An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 1878–1898, Dublin, Ireland. Association for Computational Linguistics.  [[paper](https://aclanthology.org/2022.acl-long.132.pdf)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Meade N., Poole-Dayan E., and Reddy S. (2022). An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 1878–1898, Dublin, Ireland. Association for Computational Linguistics.  [[paper](https://aclanthology.org/2022.acl-long.132.pdf)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Meehan C., Mrini K., and Chaudhuri K. 2022. Sentence-level Privacy for Document Embeddings. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 3367–3380, Dublin, Ireland. Association for Computational Linguistics.  [[paper](https://aclanthology.org/2022.acl-long.238.pdf)] ![Uncategorized](https://img.shields.io/badge/t-uncategorized-grey) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Meehan C., Mrini K., and Chaudhuri K. (2022). Sentence-level Privacy for Document Embeddings. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 3367–3380, Dublin, Ireland. Association for Computational Linguistics.  [[paper](https://aclanthology.org/2022.acl-long.238.pdf)] ![Uncategorized](https://img.shields.io/badge/t-uncategorized-grey) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Mohammad S. 2022. Ethics Sheets for AI Tasks. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 8368–8379, Dublin, Ireland. Association for Computational Linguistics. [[paper](https://aclanthology.org/2022.acl-long.573.pdf)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Mohammad S. (2022). Ethics Sheets for AI Tasks. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 8368–8379, Dublin, Ireland. Association for Computational Linguistics. [[paper](https://aclanthology.org/2022.acl-long.573.pdf)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Névéol A., Dupont Y., Bezançon J., and Fort K.. 2022. French CrowS-Pairs: Extending a challenge dataset for measuring social bias in masked language models to a language other than English. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 8521–8531, Dublin, Ireland. Association for Computational Linguistics. [[paper](https://aclanthology.org/2022.acl-long.583.pdf)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Névéol A., Dupont Y., Bezançon J., and Fort K..(2022). French CrowS-Pairs: Extending a challenge dataset for measuring social bias in masked language models to a language other than English. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 8521–8531, Dublin, Ireland. Association for Computational Linguistics. [[paper](https://aclanthology.org/2022.acl-long.583.pdf)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Przybyła P., and Shardlow M. 2022. Using NLP to quantify the environmental cost and diversity benefits of in-person NLP conferences. In Findings of the Association for Computational Linguistics: ACL 2022, pages 3853–3863, Dublin, Ireland. Association for Computational Linguistics. [[paper](https://aclanthology.org/2022.findings-acl.304/)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Przybyła P., and Shardlow M. (2022). Using NLP to quantify the environmental cost and diversity benefits of in-person NLP conferences. In Findings of the Association for Computational Linguistics: ACL 2022, pages 3853–3863, Dublin, Ireland. Association for Computational Linguistics. [[paper](https://aclanthology.org/2022.findings-acl.304/)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 ### 2021
 [[Contents](#contents)]
@@ -99,7 +102,9 @@ AAAI/ACM Conference on AI, Ethics, and Society, Association for Computing Machin
 
 * Aka, O., Burke, K., Bäuerle, A., Greer, C., & Mitchell, M. (2021). Measuring Model Biases in the Absence of Ground Truth. DOI:10.1145/3461702.3462557. AIES '21: AAAI/ACM Conference on AI, Ethics, and Society. [[paper](https://arxiv.org/abs/2103.03417)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
-* Nesrine Bannour, Sahar Ghannay, Aurélie Névéol, and Anne-Laure Ligozat. 2021. Evaluating the carbon footprint of NLP methods: a survey and analysis of existing tools. In Proceedings of the Second Workshop on Simple and Efficient Natural Language Processing, pages 11–21, Virtual. Association for Computational Linguistics. [[paper](https://aclanthology.org/2021.sustainlp-1.2.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![published](https://img.shields.io/badge/type-published-lightgrey)
+* Bannour, N., Ghannay, S., Névéol, A. and Ligozat, A.-L. 2021. Evaluating the carbon footprint of NLP methods: a survey and analysis of existing tools. In Proceedings of the Second Workshop on Simple and Efficient Natural Language Processing, pages 11–21, Virtual. Association for Computational Linguistics. [[paper](https://aclanthology.org/2021.sustainlp-1.2.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![published](https://img.shields.io/badge/type-published-lightgrey)
+
+* Bender, Emily M., Friedman, B. and McMillan-Major, A. (2021). A Guide for Writing Data Statements for Natural Language Processing [[paper](https://techpolicylab.uw.edu/wp-content/uploads/2021/11/Data_Statements_Guide_V2.pdf)] ![Data](https://img.shields.io/badge/t-data-blue) [![report](https://img.shields.io/badge/type-report-lightgrey)](type-report.md)
 
 * Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 610-623). doi:10.1145/3442188.3445922 [[paper](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922)] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow) ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
