@@ -25,9 +25,12 @@ This list is intentionally kept with simple formatting in Markdown to allow mach
 * [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy) (National University of Singapore)
 * [Yisong Miao](http://yisong.me) (National University of Singapore)
 * [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) (University of Washington)
+* [Keenan Samway](https://github.com/keenansamway) (Max Planck Institute for Intelligent Systems)
 
 # Contents
 
+* [2025](#2025)
+* [2024](#2024)
 * [2023](#2023)
 * [2022](#2022)
 * [2021](#2021)
@@ -68,13 +71,41 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 [![report](https://img.shields.io/badge/type-report-lightgrey)](type-report.md)
 
 
-### 2023
-
+### 2025
 [[Contents](#contents)]
 
+* Chen, Y., Raghuram, V.C., Mattern, J., Mihalcea, R., & Jin, Z. (2022). Causally Testing Gender Bias in LLMs: A Case Study on Occupational Bias. In Findings of the Association for Computational Linguistics: NAACL 2025, pages 4984–5004, Albuquerque, New Mexico. Association for Computational Linguistics. [[paper](https://aclanthology.org/2025.findings-naacl.281/)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+* Jin, Z., Levine, S., Kleiman-Weiner, M., Piatti, G., Liu, J., Adauto, F.G., Ortu, F., Strausz, A., Sachan, M., Mihalcea, R., Choi, Y., & Scholkopf, B. (2024). Language Model Alignment in Multilingual Trolley Problems. International Conference on Learning Representations. [[paper](https://arxiv.org/abs/2407.02273)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)](t-language-diversity.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+* Mihalcea, R., Ignat, O., Bai, L., Borah, A., Chiruzzo, L., Jin, Z., Kwizera, C., Nwatu, J., Poria, S., & Solorio, T. (2025). Why AI Is WEIRD and Shouldn’t Be This Way: Towards AI for Everyone, with Everyone, by Everyone. Proceedings of the AAAI Conference on Artificial Intelligence, 39(27), 28657-28670. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/35092)] [![Data](https://img.shields.io/badge/t-data-blue)](t-data.md) [![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)](t-crowdsourcing-issues.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+
+### 2024
+[[Contents](#contents)]
+
+* Jin, Z., Heil, N., Liu, J., Dhuliawala, S., Qi, Y., Schölkopf, B., Mihalcea, R., & Sachan, M. (2024). Implicit Personalization in Language Models: A Systematic Study. In Findings of the Association for Computational Linguistics: EMNLP 2024, pages 12309–12325, Miami, Florida, USA. Association for Computational Linguistics. [[paper](https://aclanthology.org/2024.findings-emnlp.717/)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+* Liu, J., Li, W., Jin, Z., & Diab, M.T. (2024). Automatic Generation of Model and Data Cards: A Step Towards Responsible AI. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), pages 1975–1997, Mexico City, Mexico. Association for Computational Linguistics. [[paper](https://aclanthology.org/2024.naacl-long.110/)] [![General Resources](https://img.shields.io/badge/t-general%20resources-red)](t-general-resources.md) [![data](https://img.shields.io/badge/t-data-blue)](t-data.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+* Ignat, O., Jin, Z., Abzaliev, A., Biester, L., Castro, S., Deng, N., Gao, X., Gunal, A., He, J., Kazemi, A., Khalifa, M., Koh, N.H., Lee, A., Liu, S., Min, D., Mori, S., Nwatu, J., Pérez-Rosas, V., Shen, S., Wang, Z., Wu, W., & Mihalcea, R. (2023). Has It All Been Solved? Open NLP Research Questions Not Solved by Large Language Models. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 8050–8094, Torino, Italia. ELRA and ICCL. [[paper](https://aclanthology.org/2024.lrec-main.708/)] [![General Resources](https://img.shields.io/badge/t-general%20resources-red)](t-general-resources.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+
+### 2023
+[[Contents](#contents)]
+
+* González, F.S., Jin, Z., Beydoun, J., Scholkopf, B., Hope, T., Sachan, M., & Mihalcea, R. (2023). Beyond Good Intentions: Reporting the Research Landscape of NLP for Social Good. In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 415–438, Singapore. Association for Computational Linguistics. [[paper](https://aclanthology.org/2023.findings-emnlp.31/)] [![General Resources](https://img.shields.io/badge/t-general%20resources-red)](t-general-resources.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
 * Kirk, H. R., Vidgen, B., Röttger, P., Thrush, T., and Hale, S. A. (2023). Hatemoji: A test suite and adversarially-generated dataset for benchmarking and detecting emoji-based hate. Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. (NAACL '23') 10.18653/v1/2022.naacl-main.97 [[paper](https://aclanthology.org/2022.naacl-main.97/)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![Evaluation](https://img.shields.io/badge/t-evaluation-orange)](t-evaluation.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+* Jenny, D.F., Billeter, Y., Sachan, M., Schölkopf, B., & Jin, Z. (2023). Exploring the Jungle of Bias: Political Bias Attribution in Language Models via Dependency Analysis. In Proceedings of the Third Workshop on NLP for Positive Impact, pages 152–178, Miami, Florida, USA. Association for Computational Linguistics. [[paper](https://aclanthology.org/2024.nlp4pi-1.15/)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+* Mattern, J., Mireshghallah, F., Jin, Z., Scholkopf, B., Sachan, M., & Berg-Kirkpatrick, T. (2023). Membership Inference Attacks against Language Models via Neighbourhood Comparison. In Findings of the Association for Computational Linguistics: ACL 2023, pages 11330–11343, Toronto, Canada. Association for Computational Linguistics. [[paper](https://aclanthology.org/2023.findings-acl.719/)] [![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)](t-model-issues.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
 * McMillan-Major, Angelina, Emily M. Bender and Batya Friedman. (2023). Data Statements: From Technical Concept to Community Practice, ACM Journal on Responsible Computing. [[paper](https://dl.acm.org/doi/10.1145/3594737)] [![Data](https://img.shields.io/badge/t-data-blue)](t-data.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
 * Nejadgholi, I., Kiritchenko, S., Fraser, K.C., Balkir, E. (2023) Concept-Based Explanations to Test for False Causal Relationships Learned by Abusive Language Classifiers. In Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH), pages 138–149, Toronto, Canada. Association for Computational Linguistics. [[paper](https://aclanthology.org/2023.woah-1.14/)]  [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)](t-model-issues.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)  
+
 * Pyatkin, V., Yung, F., Scholman, M. C., Tsarfaty, R., Dagan, I., and Demberg, V. (2023). Design Choices for Crowdsourcing Implicit Discourse Relations: Revealing the Biases Introduced by Task Design. Transaction of Association for Computational Linguistics (TACL '23). [[paper](https://arxiv.org/abs/2304.00815)] [![Crowdsourcing Issues](https://img.shields.io/badge/t-crowdsourcing%20issues-gold)](t-crowdsourcing-issues.md)  [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
 
@@ -93,6 +124,12 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 
 * Fraser, K.C., Kiritchenko, S., Nejadgholi, I. (2022). Computational Modelling of Stereotype Content in Text. Frontiers in Artificial Intelligence, 5, 2022. doi:10.3389/frai.2022.826207. [[paper](https://www.frontiersin.org/articles/10.3389/frai.2022.826207)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
+* Jin, Z., Levine, S., Gonzalez, F., Kamal, O., Sap, M., Sachan, M., Mihalcea, R., Tenenbaum, J.B., & Scholkopf, B. (2022). When to Make Exceptions: Exploring Language Models as Accounts of Human Moral Judgment. In Proceedings of the 36th International Conference on Neural Information Processing Systems (NIPS '22). Curran Associates Inc., Red Hook, NY, USA, Article 2063, 28458–28473. [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/b654d6150630a5ba5df7a55621390daf-Paper-Conference.pdf)]  [![Evaluation](https://img.shields.io/badge/t-evaluation-orange)](t-evaluation.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+* Levine, S., & Jin, Z. (2022). Competing perspectives on building ethical AI: psychological, philosophical, and computational approaches. Proceedings of the 44th Annual Conference of the Cognitive Science Society. [[paper](https://escholarship.org/uc/item/0cn579rs)] [![General Resources](https://img.shields.io/badge/t-general%20resources-red)](t-general-resources.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+* Mattern, J., Jin, Z., Weggenmann, B., Schoelkopf, B., & Sachan, M. (2022). Differentially Private Language Models for Secure Data Sharing.  In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pages 4860–4873, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics. [[paper](https://aclanthology.org/2022.emnlp-main.323/)] [![Data](https://img.shields.io/badge/t-data-blue)](t-data.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
 * Meade N., Poole-Dayan E., and Reddy S. (2022). An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 1878–1898, Dublin, Ireland. Association for Computational Linguistics.  [[paper](https://aclanthology.org/2022.acl-long.132.pdf)] ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Meehan C., Mrini K., and Chaudhuri K. (2022). Sentence-level Privacy for Document Embeddings. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 3367–3380, Dublin, Ireland. Association for Computational Linguistics.  [[paper](https://aclanthology.org/2022.acl-long.238.pdf)] ![Uncategorized](https://img.shields.io/badge/t-uncategorized-grey) ![published](https://img.shields.io/badge/type-published-lightgrey)
@@ -107,7 +144,6 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 
 ### 2021
 [[Contents](#contents)]
-
 
 * Abdalla, M. & Abdalla, M. (2021). The Grey Hoodie Project: Big Tobacco, Big Tech, and the Threat on Academic Integrity Proceedings of the 2021
 AAAI/ACM Conference on AI, Ethics, and Society, Association for Computing Machinery, 2021, 287-297. [[paper](https://dl.acm.org/doi/pdf/10.1145/3461702.3462563)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red) ![published](https://img.shields.io/badge/type-published-lightgrey)
@@ -127,6 +163,10 @@ AAAI/ACM Conference on AI, Ethics, and Society, Association for Computing Machin
 * Field, A., Blodgett, S. L., Talat, Z., & Tsvetkov, Y. (2021, August). A Survey of Race, Racism, and Anti-Racism in NLP. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pages 1905–1925, Online. Association for Computational Linguistics. doi:10.18653/v1/2021.acl-long.149 [[paper](https://aclanthology.org/2021.acl-long.149/)] ![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow) ![Biases](https://img.shields.io/badge/t-biases-pink) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Fraser K. C., Nejadgholi, I. and Kiritchenko, S. (2021). Understanding and Countering Stereotypes: A Computational Approach to the Stereotype Content Model. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), pages 600–616, Online. Association for Computational Linguistics. [[paper](https://aclanthology.org/2021.acl-long.50/)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+* Jin, Z., Chauhan, G., Tse, B., Sachan, M., & Mihalcea, R. (2021). How Good Is NLP? A Sober Look at NLP Tasks through the Lens of Social Impact. In Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, pages 3099–3113, Online. Association for Computational Linguistics. [[paper](https://aclanthology.org/2021.findings-acl.273/)] [![General Resources](https://img.shields.io/badge/t-general%20resources-red)](t-general-resources.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+* Jin, Z., von Kügelgen, J., Ni, J., Vaidhya, T., Kaushal, A., Sachan, M., & Schoelkopf, B. (2021). Causal Direction of Data Collection Matters: Implications of Causal and Anticausal Learning for NLP. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pages 9499–9513, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics. [[paper](https://aclanthology.org/2021.emnlp-main.748/)] [![Data](https://img.shields.io/badge/t-data-blue)](t-data.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
 * Kiritchenko, S., Nejadgholi, I., and Fraser, K. C. (2021). Confronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective. Journal of Artificial Intelligence Research, 71: 431-478, July 2021. doi:10.1613/jair.1.12590. [[paper](https://www.jair.org/index.php/jair/article/view/12590/26695)] [![General Resources](https://img.shields.io/badge/t-general%20resources-red)](t-general-resources.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
@@ -170,6 +210,8 @@ AAAI/ACM Conference on AI, Ethics, and Society, Association for Computing Machin
 * Hagendorff, T. The Ethics of AI Ethics: An Evaluation of Guidelines Minds & Machines, 2020, 30, 99-120. [[paper](https://link.springer.com/content/pdf/10.1007/s11023-020-09517-8.pdf)] ![General Resources](https://img.shields.io/badge/t-general%20resources-red)  ![published](https://img.shields.io/badge/type-published-lightgrey)
 
 * Henderson, P., Hu, J., Romoff, J., Brunskill, E., Jurafsky, D., & Pineau, J. (2020). Towards the systematic reporting of the energy and carbon footprints of machine learning. Journal of Machine Learning Research, 21(248), 1-43. [[paper](https://www.jmlr.org/papers/volume21/20-312/20-312.pdf)] ![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green) ![published](https://img.shields.io/badge/type-published-lightgrey)
+
+* Jin, D., Jin, Z., Zhou, J.T., & Szolovits, P. (2019). Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment. Proceedings of the AAAI Conference on Artificial Intelligence, 34(05), 8018-8025. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6311)] [![Model Issues](https://img.shields.io/badge/t-model%20issues-yellow)](t-model-issues.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
 * Jo, E. S., & Gebru, T. (2020, January). Lessons from archives: Strategies for collecting sociocultural data in machine learning. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 306-316). [[paper](https://dl.acm.org/doi/pdf/10.1145/3351095.3372829)] ![Data](https://img.shields.io/badge/t-data-blue) ![published](https://img.shields.io/badge/type-published-lightgrey)
 
