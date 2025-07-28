@@ -21,9 +21,11 @@ This list is intentionally kept with simple formatting in Markdown to allow mach
 ### Contributed by
 (put in alpha order by surname)
 * [Luciana Benotti](https://benotti.github.io/) (Universidad Nacional de Córdoba)
+* [Fanny Ducel](https://fannyducel.github.io/) (Université Paris-Saclay)
 * [Karën Fort](https://members.loria.fr/KFort/) (Sorbonne Université and LORIA)
 * [Min-Yen Kan](http://www.comp.nus.edu.sg/~kanmy) (National University of Singapore)
 * [Yisong Miao](http://yisong.me) (National University of Singapore)
+* [Aurélie Névéol](https://perso.limsi.fr/neveol) (CNRS, Université Paris-Saclay)
 * [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/) (University of Washington)
 * [Keenan Samway](https://github.com/keenansamway) (Max Planck Institute for Intelligent Systems)
 
@@ -74,7 +76,22 @@ We have tagged papers with several topic tags and bibliographic type.  You can c
 ### 2025
 [[Contents](#contents)]
 
-* Chen, Y., Raghuram, V.C., Mattern, J., Mihalcea, R., & Jin, Z. (2022). Causally Testing Gender Bias in LLMs: A Case Study on Occupational Bias. In Findings of the Association for Computational Linguistics: NAACL 2025, pages 4984–5004, Albuquerque, New Mexico. Association for Computational Linguistics. [[paper](https://aclanthology.org/2025.findings-naacl.281/)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+* Varoquaux G, Luccioni S, Whittaker M. 2025. Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI. In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25):61–75  [[paper](https://doi.org/10.1145/3715275.3732006)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
+[![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+
+*  Luccioni S, Strubell E, Crawford K. 2025. From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate. Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25):76–88. [[paper](https://doi.org/10.1145/3715275.3732007)] [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md)
+[![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+* Morand C, Névéol A, Ligozat AL. 2025. Does Efficiency Lead to Green Machine Learning Model Training? Analyzing Historical Trends in Impacts from Hardware, Algorithmic and Carbon Optimizations. [[paper](https://hal.science/hal-04839926v4/file/Does_efficiency_lead_to_green_ML.pdf)]  [![Environmental Impact](https://img.shields.io/badge/t-environmental%20impact-green)](t-environmental-impact.md) [![preprint](https://img.shields.io/badge/type-preprint-lightgrey)](type-preprint.md)
+
+* Mitchell M, Attanasio G, Baldini I, Clinciu M, Clive J, Delobelle P, Dey M, Hamilton S, Dill T, Doughman J, Dutt R, Ghosh A, Zosa Forde J, Holtermann C, Kaffee LA, Laud T, Lauscher A, Lopez-Davila RL, Masoud M, Nangia N, Ovalle A, Pistilli G, Radev D, Savoldi B, Raheja V, Qin J, Ploeger E, Subramonian A, Dhole K, Sun K, Djanibekov A, Mansurov J, Yin K, Villa Cueva E, Mukherjee S, Huang J, Shen X, Gala J, Al-Ali H, Djanibekov T, Mukhituly N, Nie S, Sharma S, Stanczak K, Szczechla E, Timponi Torrent T, Tunuguntla D, Viridiano M, Van Der Wal O, Yakefu A, Névéol A, Zhang M, Zink S, Talat Z. SHADES: Towards a Multilingual Assessment of Stereotypes in Large Language Models. Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), 2025:11995–12041.  [[paper](https://aclanthology.org/2025.naacl-long.600.pdf)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+
+* Ducel F, Hiebel N, Ferret O, Fort K, Névéol A. “Women do not have heart attacks!" Gender Biases in Automatically Generated Clinical Cases in French. Findings of the Association for Computational Linguistics: NAACL 2025:7145–7159. [[paper](https://aclanthology.org/2025.findings-naacl.398.pdf)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
+
+
+* Chen, Y., Raghuram, V.C., Mattern, J., Mihalcea, R., & Jin, Z. (2025). Causally Testing Gender Bias in LLMs: A Case Study on Occupational Bias. In Findings of the Association for Computational Linguistics: NAACL 2025, pages 4984–5004, Albuquerque, New Mexico. Association for Computational Linguistics. [[paper](https://aclanthology.org/2025.findings-naacl.281/)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
 * Jin, Z., Levine, S., Kleiman-Weiner, M., Piatti, G., Liu, J., Adauto, F.G., Ortu, F., Strausz, A., Sachan, M., Mihalcea, R., Choi, Y., & Scholkopf, B. (2024). Language Model Alignment in Multilingual Trolley Problems. International Conference on Learning Representations. [[paper](https://arxiv.org/abs/2407.02273)] [![Biases](https://img.shields.io/badge/t-biases-pink)](t-biases.md) [![Language Diversity](https://img.shields.io/badge/t-language%20diversity-blueviolet)](t-language-diversity.md) [![published](https://img.shields.io/badge/type-published-lightgrey)](type-published.md)
 
